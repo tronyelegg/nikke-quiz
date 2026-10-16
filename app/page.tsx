@@ -38,14 +38,14 @@ const translateTerm = (term: string, lang: Language) => {
     "MISSILIS": { ko: "미실리스", en: "Missilis", ja: "ミシリス" },
     "TETRA": { ko: "테트라", en: "Tetra", ja: "テトラ" },
     "PILGRIM": { ko: "필그림", en: "Pilgrim", ja: "ピルグリム" },
-    "ABNORMAL": { ko: "앱노멀", en: "Abnormal", ja: "アブノーマル" },
+    "ABNORMAL": { ko: "어브노멀", en: "Abnormal", ja: "アブノーマル" },
     "Fire": { ko: "작열 (Fire)", en: "Fire", ja: "灼熱 (Fire)" },
     "Water": { ko: "수냉 (Water)", en: "Water", ja: "水冷 (Water)" },
     "Wind": { ko: "풍압 (Wind)", en: "Wind", ja: "風圧 (Wind)" },
     "Iron": { ko: "철갑 (Iron)", en: "Iron", ja: "鉄甲 (Iron)" },
     "Electric": { ko: "전격 (Electric)", en: "Electric", ja: "電撃 (Electric)" },
     "SG": { ko: "샷건 (SG)", en: "Shotgun (SG)", ja: "ショットガン (SG)" },
-    "SMG": { ko: "기관단총 (SMG)", en: "SMG", ja: "サブマシンガン (SMG)" },
+    "SMG": { ko: "기관단총 (SMG)", en: "Sub Machine Gun (SMG)", ja: "サブマシンガン (SMG)" },
     "AR": { ko: "소총 (AR)", en: "Assault Rifle (AR)", ja: "アサルトライフル (AR)" },
     "MG": { ko: "머신건 (MG)", en: "Machine Gun (MG)", ja: "マシンガン (MG)" },
     "SR": { ko: "저격소총 (SR)", en: "Sniper Rifle (SR)", ja: "スナイパーライフル (SR)" },
@@ -111,7 +111,7 @@ export default function Home() {
       if (groupMode === 'company') key = nikke.company || '기타';
       else if (groupMode === 'burst') {
         const burstNum = String(nikke.burst).replace(/[^0-9]/g, '');
-        key = burstNum ? `${burstNum} Burst` : '기타';
+        key = burstNum ? `${burstNum} Burst` : 'ALL';
       }
       else if (groupMode === 'element') key = nikke.element || '기타';
       else if (groupMode === 'release') key = nikke.releaseDate ? `${nikke.releaseDate.substring(0, 4)} Release` : 'Unknown';

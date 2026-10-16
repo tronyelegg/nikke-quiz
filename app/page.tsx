@@ -111,7 +111,7 @@ export default function Home() {
       if (groupMode === 'company') key = nikke.company || '기타';
       else if (groupMode === 'burst') {
         const burstNum = String(nikke.burst).replace(/[^0-9]/g, '');
-        key = burstNum ? `${burstNum} Burst` : 'ALL';
+        key = burstNum ? `${burstNum} Burst` : 'ALL 버스트';
       }
       else if (groupMode === 'element') key = nikke.element || '기타';
       else if (groupMode === 'release') key = nikke.releaseDate ? `${nikke.releaseDate.substring(0, 4)} Release` : 'Unknown';

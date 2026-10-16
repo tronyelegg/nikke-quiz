@@ -1,0 +1,1423 @@
+[
+  {
+    "id": "209001",
+    "nameEn": "Emma",
+    "nameJa": "エマ",
+    "nameKr": "엠마",
+    "image": "data/image/nikke/Emma.png"
+  },
+  {
+    "id": "217001",
+    "nameEn": "Privaty",
+    "nameJa": "プリバティ",
+    "nameKr": "프리바티",
+    "image": "data/image/nikke/Privaty.png"
+  },
+  {
+    "id": "202201",
+    "nameEn": "Signal",
+    "nameJa": "シグナル",
+    "nameKr": "시그널",
+    "image": "data/image/nikke/Signal.png"
+  },
+  {
+    "id": "203001",
+    "nameEn": "Poli",
+    "nameJa": "ポリ",
+    "nameKr": "폴리",
+    "image": "data/image/nikke/Poli.png"
+  },
+  {
+    "id": "203201",
+    "nameEn": "Miranda",
+    "nameJa": "ミランダ",
+    "nameKr": "미란다",
+    "image": "data/image/nikke/Miranda.png"
+  },
+  {
+    "id": "207001",
+    "nameEn": "Brid",
+    "nameJa": "ブリッド",
+    "nameKr": "브리드",
+    "image": "data/image/nikke/Brid.png"
+  },
+  {
+    "id": "207101",
+    "nameEn": "Soline",
+    "nameJa": "ソリン",
+    "nameKr": "솔린",
+    "image": "data/image/nikke/Soline.png"
+  },
+  {
+    "id": "207201",
+    "nameEn": "Diesel",
+    "nameJa": "ディーゼル",
+    "nameKr": "디젤",
+    "image": "data/image/nikke/Diesel.png"
+  },
+  {
+    "id": "209101",
+    "nameEn": "Vesti",
+    "nameJa": "ベスティー",
+    "nameKr": "베스티",
+    "image": "data/image/nikke/Vesti.png"
+  },
+  {
+    "id": "209201",
+    "nameEn": "Eunhwa",
+    "nameJa": "ウンファ",
+    "nameKr": "은화",
+    "image": "data/image/nikke/Eunhwa.png"
+  },
+  {
+    "id": "218001",
+    "nameEn": "Guillotine",
+    "nameJa": "ギロチン",
+    "nameKr": "길로틴",
+    "image": "data/image/nikke/Guillotine.png"
+  },
+  {
+    "id": "218101",
+    "nameEn": "Maiden",
+    "nameJa": "メイデン",
+    "nameKr": "메이든",
+    "image": "data/image/nikke/Maiden.png"
+  },
+  {
+    "id": "204001",
+    "nameEn": "D",
+    "nameJa": "D",
+    "nameKr": "D",
+    "image": "data/image/nikke/D.png"
+  },
+  {
+    "id": "235201",
+    "nameEn": "Helm",
+    "nameJa": "ヘルム",
+    "nameKr": "헬름",
+    "image": "data/image/nikke/Helm.png"
+  },
+  {
+    "id": "201401",
+    "nameEn": "Neon: Blue Ocean",
+    "nameJa": "ネオン：ブルーオーシャン",
+    "nameKr": "네온 : 블루 오션",
+    "image": "data/image/nikke/Neon_ Blue Ocean.png"
+  },
+  {
+    "id": "235001",
+    "nameEn": "Mast",
+    "nameJa": "マスト",
+    "nameKr": "마스트",
+    "image": "data/image/nikke/Mast.png"
+  },
+  {
+    "id": "235301",
+    "nameEn": "Helm: Aquamarine",
+    "nameJa": "ヘルム：アクアマリン",
+    "nameKr": "헬름 : 아쿠아마린",
+    "image": "data/image/nikke/Helm_ Aquamarine.png"
+  },
+  {
+    "id": "232101",
+    "nameEn": "Marciana",
+    "nameJa": "マルチャーナ",
+    "nameKr": "마르차나",
+    "image": "data/image/nikke/Marciana.png"
+  },
+  {
+    "id": "203301",
+    "nameEn": "Quiry",
+    "nameJa": "キリ",
+    "nameKr": "키리",
+    "image": "data/image/nikke/Quiry.png"
+  },
+  {
+    "id": "231301",
+    "nameEn": "Privaty: Unkind Maid",
+    "nameJa": "プリバティ：アンカインド・メイド",
+    "nameKr": "프리바티 : 언카인드 메이드",
+    "image": "data/image/nikke/Privaty_ Unkind Maid.png"
+  },
+  {
+    "id": "204301",
+    "nameEn": "D: Killer Wife",
+    "nameJa": "D：キラーワイフ",
+    "nameKr": "D : 킬러 와이프",
+    "image": "data/image/nikke/D_ Killer Wife.png"
+  },
+  {
+    "id": "239001",
+    "nameEn": "Zwei",
+    "nameJa": "ツバイ",
+    "nameKr": "츠바이",
+    "image": "data/image/nikke/Zwei.png"
+  },
+  {
+    "id": "258001",
+    "nameEn": "Phantom",
+    "nameJa": "ファントム",
+    "nameKr": "팬텀",
+    "image": "data/image/nikke/Phantom.png"
+  },
+  {
+    "id": "218301",
+    "nameEn": "Maiden: Ice Rose",
+    "nameJa": "メイデン：アイスローズ",
+    "nameKr": "메이든 : 아이스 로즈",
+    "image": "data/image/nikke/Maiden_ Ice Rose.png"
+  },
+  {
+    "id": "218201",
+    "nameEn": "Guillotine: Winter Slayer",
+    "nameJa": "ギロチン：ウィンタースレイヤー",
+    "nameKr": "길로틴 : 윈터 슬레이어",
+    "image": "data/image/nikke/Guillotine_ Winter Slayer.png"
+  },
+  {
+    "id": "201601",
+    "nameEn": "Rapi: Red Hood",
+    "nameJa": "ラピ：レッドフード",
+    "nameKr": "라피 : 레드 후드",
+    "image": "data/image/nikke/Rapi_ Red Hood.png"
+  },
+  {
+    "id": "235401",
+    "nameEn": "Mast: Romantic Maid",
+    "nameJa": "マスト：ロマンチックメイド",
+    "nameKr": "마스트 : 로망틱 메이드",
+    "image": "data/image/nikke/Mast_ Romantic Maid.png"
+  },
+  {
+    "id": "235501",
+    "nameEn": "Anchor: Innocent Maid",
+    "nameJa": "アンカー：イノセントメイド",
+    "nameKr": "앵커 : 이노센트 메이드",
+    "image": "data/image/nikke/Anchor_ Innocent Maid.png"
+  },
+  {
+    "id": "258101",
+    "nameEn": "Arcana",
+    "nameJa": "アルカナ",
+    "nameKr": "아르카나",
+    "image": "data/image/nikke/Arcana.png"
+  },
+  {
+    "id": "204101",
+    "nameEn": "K",
+    "nameJa": "K",
+    "nameKr": "K",
+    "image": "data/image/nikke/K.png"
+  },
+  {
+    "id": "253201",
+    "nameEn": "Sora",
+    "nameJa": "ソラ",
+    "nameKr": "소라",
+    "image": "data/image/nikke/Sora.png"
+  },
+  {
+    "id": "209301",
+    "nameEn": "Emma: Tactical Upgrade",
+    "nameJa": "エマ：タクティカル・アップ",
+    "nameKr": "엠마 : 택티컬 업",
+    "image": "data/image/nikke/Emma_ Tactical Upgrade.png"
+  },
+  {
+    "id": "209401",
+    "nameEn": "Vesti: Tactical Upgrade",
+    "nameJa": "ベスティー：タクティカル・アップ",
+    "nameKr": "베스티 : 택티컬 업",
+    "image": "data/image/nikke/Vesti_ Tactical Upgrade.png"
+  },
+  {
+    "id": "209501",
+    "nameEn": "Eunhwa: Tactical Upgrade",
+    "nameJa": "ウンファ：タクティカル・アップ",
+    "nameKr": "은화 : 택티컬 업",
+    "image": "data/image/nikke/Eunhwa_ Tactical Upgrade.png"
+  },
+  {
+    "id": "502301",
+    "nameEn": "Delta: Ninja Thief",
+    "nameJa": "デルタ：ニンジャシーフ",
+    "nameKr": "델타 : 닌자 시프",
+    "image": "data/image/nikke/Delta_ Ninja Thief.png"
+  },
+  {
+    "id": "207401",
+    "nameEn": "Soline: Frost Ticket",
+    "nameJa": "ソリン：フロストチケット",
+    "nameKr": "솔린 : 프로스트 티켓",
+    "image": "data/image/nikke/Soline_ Frost Ticket.png"
+  },
+  {
+    "id": "207501",
+    "nameEn": "Diesel: Winter Sweets",
+    "nameJa": "ディーゼル：ウィンタースイーツ",
+    "nameKr": "디젤 : 윈터 스위츠",
+    "image": "data/image/nikke/Diesel_ Winter Sweets.png"
+  },
+  {
+    "id": "207301",
+    "nameEn": "Brid: Silent Track",
+    "nameJa": "ブリッド：サイレントトラック",
+    "nameKr": "브리드 : 사일런트 트랙",
+    "image": "data/image/nikke/Brid_ Silent Track.png"
+  },
+  {
+    "id": "258201",
+    "nameEn": "Label",
+    "nameJa": "レーベル",
+    "nameKr": "레이블",
+    "image": "data/image/nikke/Label.png"
+  },
+  {
+    "id": "211301",
+    "nameEn": "E.H.",
+    "nameJa": "E.H.",
+    "nameKr": "E.H.",
+    "image": "data/image/nikke/E.H..png"
+  },
+  {
+    "id": "258301",
+    "nameEn": "Arcana: Fortune Mate",
+    "nameJa": "アルカナ：フォーチュンメイト",
+    "nameKr": "아르카나 : 포츈 메이트",
+    "image": "data/image/nikke/Arcana_ Fortune Mate.png"
+  },
+  {
+    "id": "244101",
+    "nameEn": "Avistar",
+    "nameJa": "アビスタ",
+    "nameKr": "아비스타",
+    "image": "data/image/nikke/Avistar.png"
+  },
+  {
+    "id": "232201",
+    "nameEn": "Marciana: Marine Study",
+    "nameJa": "マルチャーナ：マリンスタディ",
+    "nameKr": "마르차나 : 마린 스터디",
+    "image": "data/image/nikke/Marciana_ Marine Study.png"
+  },
+  {
+    "id": "110201",
+    "nameEn": "Maxwell",
+    "nameJa": "マクスウェル",
+    "nameKr": "맥스웰",
+    "image": "data/image/nikke/Maxwell.png"
+  },
+  {
+    "id": "116001",
+    "nameEn": "Yuni",
+    "nameJa": "ユニ",
+    "nameKr": "유니",
+    "image": "data/image/nikke/Yuni.png"
+  },
+  {
+    "id": "108201",
+    "nameEn": "Liter",
+    "nameJa": "リター",
+    "nameKr": "리타",
+    "image": "data/image/nikke/Liter.png"
+  },
+  {
+    "id": "115001",
+    "nameEn": "Julia",
+    "nameJa": "ジュリア",
+    "nameKr": "율리아",
+    "image": "data/image/nikke/Julia.png"
+  },
+  {
+    "id": "108001",
+    "nameEn": "Centi",
+    "nameJa": "センチ",
+    "nameKr": "센티",
+    "image": "data/image/nikke/Centi.png"
+  },
+  {
+    "id": "110101",
+    "nameEn": "Drake",
+    "nameJa": "ドレイク",
+    "nameKr": "드레이크",
+    "image": "data/image/nikke/Drake.png"
+  },
+  {
+    "id": "111001",
+    "nameEn": "Crow",
+    "nameJa": "クロウ",
+    "nameKr": "크로우",
+    "image": "data/image/nikke/Crow.png"
+  },
+  {
+    "id": "113101",
+    "nameEn": "Pepper",
+    "nameJa": "ペッパー",
+    "nameKr": "페퍼",
+    "image": "data/image/nikke/Pepper.png"
+  },
+  {
+    "id": "117201",
+    "nameEn": "Admi",
+    "nameJa": "アドミ",
+    "nameKr": "애드미",
+    "image": "data/image/nikke/Admi.png"
+  },
+  {
+    "id": "111101",
+    "nameEn": "Jackal",
+    "nameJa": "ジャッカル",
+    "nameKr": "자칼",
+    "image": "data/image/nikke/Jackal.png"
+  },
+  {
+    "id": "110001",
+    "nameEn": "Laplace",
+    "nameJa": "ラプラス",
+    "nameKr": "라플라스",
+    "image": "data/image/nikke/Laplace.png"
+  },
+  {
+    "id": "140001",
+    "nameEn": "Guilty",
+    "nameJa": "ギルティ",
+    "nameKr": "길티",
+    "image": "data/image/nikke/Guilty.png"
+  },
+  {
+    "id": "140101",
+    "nameEn": "Sin",
+    "nameJa": "シン",
+    "nameKr": "신",
+    "image": "data/image/nikke/Sin.png"
+  },
+  {
+    "id": "140201",
+    "nameEn": "Quency",
+    "nameJa": "クエンシー",
+    "nameKr": "퀀시",
+    "image": "data/image/nikke/Quency.png"
+  },
+  {
+    "id": "112101",
+    "nameEn": "Anne: Miracle Fairy",
+    "nameJa": "エヌ : ミラクルフェアリー",
+    "nameKr": "앤 : 미라클 페어리",
+    "image": "data/image/nikke/Anne_ Miracle Fairy.png"
+  },
+  {
+    "id": "324101",
+    "nameEn": "Epinel",
+    "nameJa": "エピネル",
+    "nameKr": "에피넬",
+    "image": "data/image/nikke/Epinel.png"
+  },
+  {
+    "id": "145001",
+    "nameEn": "Naga",
+    "nameJa": "ナガ",
+    "nameKr": "나가",
+    "image": "data/image/nikke/Naga.png"
+  },
+  {
+    "id": "145101",
+    "nameEn": "Tia",
+    "nameJa": "ティア",
+    "nameKr": "티아",
+    "image": "data/image/nikke/Tia.png"
+  },
+  {
+    "id": "119201",
+    "nameEn": "Tove",
+    "nameJa": "トーブ",
+    "nameKr": "토브",
+    "image": "data/image/nikke/Tove.png"
+  },
+  {
+    "id": "150001",
+    "nameEn": "Elegg",
+    "nameJa": "エレグ",
+    "nameKr": "일레그",
+    "image": "data/image/nikke/Elegg.png"
+  },
+  {
+    "id": "136101",
+    "nameEn": "Kilo",
+    "nameJa": "キロ",
+    "nameKr": "킬로",
+    "image": "data/image/nikke/Kilo.png"
+  },
+  {
+    "id": "150101",
+    "nameEn": "Trony",
+    "nameJa": "トロニー",
+    "nameKr": "트로니",
+    "image": "data/image/nikke/Trony.png"
+  },
+  {
+    "id": "139101",
+    "nameEn": "Ein",
+    "nameJa": "アイン",
+    "nameKr": "아인",
+    "image": "data/image/nikke/Ein.png"
+  },
+  {
+    "id": "140301",
+    "nameEn": "Quency: Escape Queen",
+    "nameJa": "クエンシー：エスケープクイーン",
+    "nameKr": "퀀시 : 이스케이프 퀸",
+    "image": "data/image/nikke/Quency_ Escape Queen.png"
+  },
+  {
+    "id": "141101",
+    "nameEn": "Flora",
+    "nameJa": "フローラ",
+    "nameKr": "플로라",
+    "image": "data/image/nikke/Flora.png"
+  },
+  {
+    "id": "129001",
+    "nameEn": "Mana",
+    "nameJa": "マナ",
+    "nameKr": "마나",
+    "image": "data/image/nikke/Mana.png"
+  },
+  {
+    "id": "141201",
+    "nameEn": "Trina",
+    "nameJa": "トリナ",
+    "nameKr": "트리나",
+    "image": "data/image/nikke/Trina.png"
+  },
+  {
+    "id": "116201",
+    "nameEn": "Mihara: Bonding Chain",
+    "nameJa": "ミハラ：ボンディングチェーン",
+    "nameKr": "미하라 : 본딩 체인",
+    "image": "data/image/nikke/Mihara_ Bonding Chain.png"
+  },
+  {
+    "id": "159001",
+    "nameEn": "Mori",
+    "nameJa": "モリー",
+    "nameKr": "모리",
+    "image": "data/image/nikke/Mori.png"
+  },
+  {
+    "id": "150201",
+    "nameEn": "Elegg: Boom and Shock",
+    "nameJa": "エレグ：ブーム・アンド・ショック",
+    "nameKr": "일레그 : 붐 앤 쇼크",
+    "image": "data/image/nikke/Elegg_ Boom and Shock.png"
+  },
+  {
+    "id": "162001",
+    "nameEn": "Snow Crane",
+    "nameJa": "シラツル",
+    "nameKr": "백학",
+    "image": "data/image/nikke/Snow Crane.png"
+  },
+  {
+    "id": "101801",
+    "nameEn": "Neon: Vision Eye",
+    "nameJa": "ネオン：ビジョン・アイ",
+    "nameKr": "네온 : 비전 아이",
+    "image": "data/image/nikke/Neon_ Vision Eye.png"
+  },
+  {
+    "id": "110301",
+    "nameEn": "Laplace: Ultimate Hero",
+    "nameJa": "ラプラス：アルティメットヒーロー",
+    "nameKr": "라플라스 : 얼티밋 히어로",
+    "image": "data/image/nikke/Laplace_ Ultimate Hero.png"
+  },
+  {
+    "id": "110501",
+    "nameEn": "Maxwell: Ordinary Mechanic",
+    "nameJa": "マクスウェル：オーディナリーメカニック",
+    "nameKr": "맥스웰 : 오디너리 미케닉",
+    "image": "data/image/nikke/Maxwell_ Ordinary Mechanic.png"
+  },
+  {
+    "id": "110401",
+    "nameEn": "Drake: Great Villain",
+    "nameJa": "ドレイク：グレイトヴィラン",
+    "nameKr": "드레이크 : 그레이트 빌런",
+    "image": "data/image/nikke/Drake_ Great Villain.png"
+  },
+  {
+    "id": "140401",
+    "nameEn": "Guilty: Mighty Bunny",
+    "nameJa": "ギルティ：マイティバニー",
+    "nameKr": "길티 : 마이티 바니",
+    "image": "data/image/nikke/Guilty_ Mighty Bunny.png"
+  },
+  {
+    "id": "140501",
+    "nameEn": "Sin: Swift Bunny",
+    "nameJa": "シン：スウィフトバニー",
+    "nameKr": "신 : 스위프트 바니",
+    "image": "data/image/nikke/Sin_ Swift Bunny.png"
+  },
+  {
+    "id": "314001",
+    "nameEn": "Sugar",
+    "nameJa": "シュガー",
+    "nameKr": "슈가",
+    "image": "data/image/nikke/Sugar.png"
+  },
+  {
+    "id": "321001",
+    "nameEn": "Exia",
+    "nameJa": "エクシア",
+    "nameKr": "엑시아",
+    "image": "data/image/nikke/Exia.png"
+  },
+  {
+    "id": "319101",
+    "nameEn": "Alice",
+    "nameJa": "アリス",
+    "nameKr": "앨리스",
+    "image": "data/image/nikke/Alice.png"
+  },
+  {
+    "id": "327001",
+    "nameEn": "Blanc",
+    "nameJa": "ブラン",
+    "nameKr": "블랑",
+    "image": "data/image/nikke/Blanc.png"
+  },
+  {
+    "id": "327101",
+    "nameEn": "Noir",
+    "nameJa": "ノワール",
+    "nameKr": "누아르",
+    "image": "data/image/nikke/Noir.png"
+  },
+  {
+    "id": "314201",
+    "nameEn": "Frima",
+    "nameJa": "プリム",
+    "nameKr": "프림",
+    "image": "data/image/nikke/Frima.png"
+  },
+  {
+    "id": "313001",
+    "nameEn": "Mary",
+    "nameJa": "メアリー",
+    "nameKr": "메어리",
+    "image": "data/image/nikke/Mary.png"
+  },
+  {
+    "id": "314101",
+    "nameEn": "Milk",
+    "nameJa": "ミルク",
+    "nameKr": "밀크",
+    "image": "data/image/nikke/Milk.png"
+  },
+  {
+    "id": "317101",
+    "nameEn": "Yulha",
+    "nameJa": "ユルハ",
+    "nameKr": "율하",
+    "image": "data/image/nikke/Yulha.png"
+  },
+  {
+    "id": "319001",
+    "nameEn": "Ludmilla",
+    "nameJa": "ルドミラ",
+    "nameKr": "루드밀라",
+    "image": "data/image/nikke/Ludmilla.png"
+  },
+  {
+    "id": "320001",
+    "nameEn": "Rupee",
+    "nameJa": "ルピー",
+    "nameKr": "루피",
+    "image": "data/image/nikke/Rupee.png"
+  },
+  {
+    "id": "320101",
+    "nameEn": "Yan",
+    "nameJa": "ヤン",
+    "nameKr": "얀",
+    "image": "data/image/nikke/Yan.png"
+  },
+  {
+    "id": "320201",
+    "nameEn": "Dolla",
+    "nameJa": "ドラー",
+    "nameKr": "도라",
+    "image": "data/image/nikke/Dolla.png"
+  },
+  {
+    "id": "321201",
+    "nameEn": "Novel",
+    "nameJa": "ノベル",
+    "nameKr": "노벨",
+    "image": "data/image/nikke/Novel.png"
+  },
+  {
+    "id": "324201",
+    "nameEn": "Folkwang",
+    "nameJa": "フォルクヴァン",
+    "nameKr": "폴크방",
+    "image": "data/image/nikke/Folkwang.png"
+  },
+  {
+    "id": "328201",
+    "nameEn": "Sakura",
+    "nameJa": "サクラ",
+    "nameKr": "사쿠라",
+    "image": "data/image/nikke/Sakura.png"
+  },
+  {
+    "id": "311201",
+    "nameEn": "Viper",
+    "nameJa": "バイパー",
+    "nameKr": "바이퍼",
+    "image": "data/image/nikke/Viper.png"
+  },
+  {
+    "id": "331101",
+    "nameEn": "Cocoa",
+    "nameJa": "ココア",
+    "nameKr": "코코아",
+    "image": "data/image/nikke/Cocoa.png"
+  },
+  {
+    "id": "331201",
+    "nameEn": "Soda",
+    "nameJa": "ソーダ",
+    "nameKr": "소다",
+    "image": "data/image/nikke/Soda.png"
+  },
+  {
+    "id": "338101",
+    "nameEn": "Biscuit",
+    "nameJa": "ビスケット",
+    "nameKr": "비스킷",
+    "image": "data/image/nikke/Biscuit.png"
+  },
+  {
+    "id": "339201",
+    "nameEn": "Rei",
+    "nameJa": "ライ",
+    "nameKr": "라이",
+    "image": "data/image/nikke/Rei.png"
+  },
+  {
+    "id": "343201",
+    "nameEn": "Aria",
+    "nameJa": "アリア",
+    "nameKr": "아리아",
+    "image": "data/image/nikke/Aria.png"
+  },
+  {
+    "id": "343001",
+    "nameEn": "Noise",
+    "nameJa": "ノイズ",
+    "nameKr": "노이즈",
+    "image": "data/image/nikke/Noise.png"
+  },
+  {
+    "id": "343101",
+    "nameEn": "Volume",
+    "nameJa": "ボリューム",
+    "nameKr": "볼륨",
+    "image": "data/image/nikke/Volume.png"
+  },
+  {
+    "id": "320301",
+    "nameEn": "Rupee: Winter Shopper",
+    "nameJa": "ルピー：ウィンターショッパー",
+    "nameKr": "루피 : 윈터 쇼퍼",
+    "image": "data/image/nikke/Rupee_ Winter Shopper.png"
+  },
+  {
+    "id": "228001",
+    "nameEn": "Rosanna",
+    "nameJa": "ロザンナ",
+    "nameKr": "로산나",
+    "image": "data/image/nikke/Rosanna.png"
+  },
+  {
+    "id": "313201",
+    "nameEn": "Mary: Bay Goddess",
+    "nameJa": "メアリー：ベイゴッデス",
+    "nameKr": "메어리 : 베이 갓데스",
+    "image": "data/image/nikke/Mary_ Bay Goddess.png"
+  },
+  {
+    "id": "338001",
+    "nameEn": "Nero",
+    "nameJa": "ネロ",
+    "nameKr": "네로",
+    "image": "data/image/nikke/Nero.png"
+  },
+  {
+    "id": "301501",
+    "nameEn": "Anis: Sparkling Summer",
+    "nameJa": "アニス：スパークリングサマー",
+    "nameKr": "아니스 : 스파클링 서머",
+    "image": "data/image/nikke/Anis_ Sparkling Summer.png"
+  },
+  {
+    "id": "319401",
+    "nameEn": "Ludmilla: Winter Owner",
+    "nameJa": "ルドミラ：ウィンターオーナー",
+    "nameKr": "루드밀라 : 윈터 오너",
+    "image": "data/image/nikke/Ludmilla_ Winter Owner.png"
+  },
+  {
+    "id": "306201",
+    "nameEn": "Mica: Snow Buddy",
+    "nameJa": "ミカ：スノーバディ",
+    "nameKr": "미카 : 스노우 버디",
+    "image": "data/image/nikke/Mica_ Snow Buddy.png"
+  },
+  {
+    "id": "338201",
+    "nameEn": "Leona",
+    "nameJa": "レオナ",
+    "nameKr": "레오나",
+    "image": "data/image/nikke/Leona.png"
+  },
+  {
+    "id": "328101",
+    "nameEn": "Moran",
+    "nameJa": "モラン",
+    "nameKr": "목단",
+    "image": "data/image/nikke/Moran.png"
+  },
+  {
+    "id": "331001",
+    "nameEn": "Ade",
+    "nameJa": "エード",
+    "nameKr": "에이드",
+    "image": "data/image/nikke/Ade.png"
+  },
+  {
+    "id": "355001",
+    "nameEn": "Bay",
+    "nameJa": "ベイ",
+    "nameKr": "베이",
+    "image": "data/image/nikke/Bay.png"
+  },
+  {
+    "id": "331401",
+    "nameEn": "Soda: Twinkling Bunny",
+    "nameJa": "ソーダ：トゥインクルバニー",
+    "nameKr": "소다 : 트윙클링 바니",
+    "image": "data/image/nikke/Soda_ Twinkling Bunny.png"
+  },
+  {
+    "id": "319501",
+    "nameEn": "Alice: Wonderland Bunny",
+    "nameJa": "アリス：ワンダーランドバニー",
+    "nameKr": "앨리스 : 원더랜드 바니",
+    "image": "data/image/nikke/Alice_ Wonderland Bunny.png"
+  },
+  {
+    "id": "355101",
+    "nameEn": "Clay",
+    "nameJa": "クレイ",
+    "nameKr": "클레이",
+    "image": "data/image/nikke/Clay.png"
+  },
+  {
+    "id": "328301",
+    "nameEn": "Rosanna: Chic Ocean",
+    "nameJa": "ロザンナ：シックオーシャン",
+    "nameKr": "로산나 : 시크 오션",
+    "image": "data/image/nikke/Rosanna_ Chic Ocean.png"
+  },
+  {
+    "id": "328401",
+    "nameEn": "Sakura: Bloom in Summer",
+    "nameJa": "サクラ：ブルーム・イン・サマー",
+    "nameKr": "사쿠라 : 블룸 인 서머",
+    "image": "data/image/nikke/Sakura_ Bloom in Summer.png"
+  },
+  {
+    "id": "327201",
+    "nameEn": "Rouge",
+    "nameJa": "ルージュ",
+    "nameKr": "루주",
+    "image": "data/image/nikke/Rouge.png"
+  },
+  {
+    "id": "324001",
+    "nameEn": "Rumani",
+    "nameJa": "ルマニ",
+    "nameKr": "루마니",
+    "image": "data/image/nikke/Rumani.png"
+  },
+  {
+    "id": "352001",
+    "nameEn": "Bready",
+    "nameJa": "ブレッディ",
+    "nameKr": "브래디",
+    "image": "data/image/nikke/Bready.png"
+  },
+  {
+    "id": "352101",
+    "nameEn": "Crust",
+    "nameJa": "クラスト",
+    "nameKr": "크러스트",
+    "image": "data/image/nikke/Crust.png"
+  },
+  {
+    "id": "314301",
+    "nameEn": "Milk: Blooming Bunny",
+    "nameJa": "ミルク：ブルーミングバニー",
+    "nameKr": "밀크 : 블루밍 바니",
+    "image": "data/image/nikke/Milk_ Blooming Bunny.png"
+  },
+  {
+    "id": "331501",
+    "nameEn": "Ade: Agent Bunny",
+    "nameJa": "エード：エージェントバニー",
+    "nameKr": "에이드 : 에이전트 바니",
+    "image": "data/image/nikke/Ade_ Agent Bunny.png"
+  },
+  {
+    "id": "331601",
+    "nameEn": "Velvet",
+    "nameJa": "ベルベット",
+    "nameKr": "벨벳",
+    "image": "data/image/nikke/Velvet.png"
+  },
+  {
+    "id": "301701",
+    "nameEn": "Anis: Star",
+    "nameJa": "アニス：スター",
+    "nameKr": "아니스 : 스타",
+    "image": "data/image/nikke/Anis_ Star.png"
+  },
+  {
+    "id": "360001",
+    "nameEn": "Mint",
+    "nameJa": "ミント",
+    "nameKr": "민트",
+    "image": "data/image/nikke/Mint.png"
+  },
+  {
+    "id": "360101",
+    "nameEn": "Prika",
+    "nameJa": "プリカ",
+    "nameKr": "프리카",
+    "image": "data/image/nikke/Prika.png"
+  },
+  {
+    "id": "357001",
+    "nameEn": "Ark Ranger Black",
+    "nameJa": "アークレンジャー・ブラック",
+    "nameKr": "아크레인저 블랙",
+    "image": "data/image/nikke/Ark Ranger Black.png"
+  },
+  {
+    "id": "306301",
+    "nameEn": "Belorta: Pumpkin Witch",
+    "nameJa": "ベロータ：パンプキンウィッチ",
+    "nameKr": "벨로타 : 펌킨 위치",
+    "image": "data/image/nikke/Belorta_ Pumpkin Witch.png"
+  },
+  {
+    "id": "422001",
+    "nameEn": "Snow White",
+    "nameJa": "スノーホワイト",
+    "nameKr": "스노우 화이트",
+    "image": "data/image/nikke/Snow White.png"
+  },
+  {
+    "id": "423101",
+    "nameEn": "Isabel",
+    "nameJa": "イサベル",
+    "nameKr": "이사벨",
+    "image": "data/image/nikke/Isabel.png"
+  },
+  {
+    "id": "422101",
+    "nameEn": "Rapunzel",
+    "nameJa": "ラプンツェル",
+    "nameKr": "라푼젤",
+    "image": "data/image/nikke/Rapunzel.png"
+  },
+  {
+    "id": "422201",
+    "nameEn": "Scarlet",
+    "nameJa": "紅蓮",
+    "nameKr": "홍련",
+    "image": "data/image/nikke/Scarlet.png"
+  },
+  {
+    "id": "423001",
+    "nameEn": "Harran",
+    "nameJa": "ハラン",
+    "nameKr": "하란",
+    "image": "data/image/nikke/Harran.png"
+  },
+  {
+    "id": "423201",
+    "nameEn": "Noah",
+    "nameJa": "ノア",
+    "nameKr": "노아",
+    "image": "data/image/nikke/Noah.png"
+  },
+  {
+    "id": "426001",
+    "nameEn": "Modernia",
+    "nameJa": "モダニア",
+    "nameKr": "모더니아",
+    "image": "data/image/nikke/Modernia.png"
+  },
+  {
+    "id": "426101",
+    "nameEn": "Nihilister",
+    "nameJa": "ニヒリスター",
+    "nameKr": "니힐리스타",
+    "image": "data/image/nikke/Nihilister.png"
+  },
+  {
+    "id": "423301",
+    "nameEn": "Dorothy",
+    "nameJa": "ドロシー",
+    "nameKr": "도로시",
+    "image": "data/image/nikke/Dorothy.png"
+  },
+  {
+    "id": "447001",
+    "nameEn": "Red Hood",
+    "nameJa": "レッドフード",
+    "nameKr": "레드 후드",
+    "image": "data/image/nikke/Red Hood.png"
+  },
+  {
+    "id": "422401",
+    "nameEn": "Snow White: Innocent Days",
+    "nameJa": "スノーホワイト：イノセントデイズ",
+    "nameKr": "스노우 화이트 : 이노센트 데이즈",
+    "image": "data/image/nikke/Snow White_ Innocent Days.png"
+  },
+  {
+    "id": "422501",
+    "nameEn": "Scarlet: Black Shadow",
+    "nameJa": "紅蓮：ブラックシャドウ",
+    "nameKr": "홍련 : 흑영",
+    "image": "data/image/nikke/Scarlet_ Black Shadow.png"
+  },
+  {
+    "id": "433001",
+    "nameEn": "Crown",
+    "nameJa": "クラウン",
+    "nameKr": "크라운",
+    "image": "data/image/nikke/Crown.png"
+  },
+  {
+    "id": "422601",
+    "nameEn": "Rapunzel: Pure Grace",
+    "nameJa": "ラプンツェル：ピュアグレイス",
+    "nameKr": "라푼젤 : 퓨어 그레이스",
+    "image": "data/image/nikke/Rapunzel_ Pure Grace.png"
+  },
+  {
+    "id": "451101",
+    "nameEn": "Cinderella",
+    "nameJa": "シンデレラ",
+    "nameKr": "신데렐라",
+    "image": "data/image/nikke/Cinderella.png"
+  },
+  {
+    "id": "451401",
+    "nameEn": "Grave",
+    "nameJa": "グレイブ",
+    "nameKr": "그레이브",
+    "image": "data/image/nikke/Grave.png"
+  },
+  {
+    "id": "451301",
+    "nameEn": "Little Mermaid",
+    "nameJa": "リトルマーメイド",
+    "nameKr": "리틀 머메이드",
+    "image": "data/image/nikke/Little Mermaid.png"
+  },
+  {
+    "id": "423401",
+    "nameEn": "Dorothy: Serendipity",
+    "nameJa": "ドロシー：セレンディピティ",
+    "nameKr": "도로시 : 세렌디피티",
+    "image": "data/image/nikke/Dorothy_ Serendipity.png"
+  },
+  {
+    "id": "422301",
+    "nameEn": "Nayuta",
+    "nameJa": "ナユタ",
+    "nameKr": "나유타",
+    "image": "data/image/nikke/Nayuta.png"
+  },
+  {
+    "id": "426201",
+    "nameEn": "Liberalio",
+    "nameJa": "リバーレリオ",
+    "nameKr": "리버렐리오",
+    "image": "data/image/nikke/Liberalio.png"
+  },
+  {
+    "id": "433101",
+    "nameEn": "Chime",
+    "nameJa": "チャイム",
+    "nameKr": "차임",
+    "image": "data/image/nikke/Chime.png"
+  },
+  {
+    "id": "447101",
+    "nameEn": "Snow White: Heavy Arms",
+    "nameJa": "スノーホワイト：ヘビーアームズ",
+    "nameKr": "스노우 화이트 : 헤비암즈",
+    "image": "data/image/nikke/Snow White_ Heavy Arms.png"
+  },
+  {
+    "id": "451501",
+    "nameEn": "Cinderella: Crystal Wave",
+    "nameJa": "シンデレラ：クリスタルウェーブ",
+    "nameKr": "신데렐라 : 크리스탈 웨이브",
+    "image": "data/image/nikke/Cinderella_ Crystal Wave.png"
+  },
+  {
+    "id": "580001",
+    "nameEn": "Makima",
+    "nameJa": "マキマ",
+    "nameKr": "마키마",
+    "image": "data/image/nikke/Makima.png"
+  },
+  {
+    "id": "580101",
+    "nameEn": "Power",
+    "nameJa": "パワー",
+    "nameKr": "파워",
+    "image": "data/image/nikke/Power.png"
+  },
+  {
+    "id": "581001",
+    "nameEn": "2B",
+    "nameJa": "2B",
+    "nameKr": "2B",
+    "image": "data/image/nikke/2B.png"
+  },
+  {
+    "id": "581101",
+    "nameEn": "A2",
+    "nameJa": "A2",
+    "nameKr": "A2",
+    "image": "data/image/nikke/A2.png"
+  },
+  {
+    "id": "582001",
+    "nameEn": "Rem",
+    "nameJa": "レム",
+    "nameKr": "렘",
+    "image": "data/image/nikke/Rem.png"
+  },
+  {
+    "id": "582101",
+    "nameEn": "Emilia",
+    "nameJa": "エミリア",
+    "nameKr": "에밀리아",
+    "image": "data/image/nikke/Emilia.png"
+  },
+  {
+    "id": "583001",
+    "nameEn": "Asuka",
+    "nameJa": "アスカ",
+    "nameKr": "아스카",
+    "image": "data/image/nikke/Asuka.png"
+  },
+  {
+    "id": "583101",
+    "nameEn": "Rei",
+    "nameJa": "レイ",
+    "nameKr": "레이",
+    "image": "data/image/nikke/Rei.png"
+  },
+  {
+    "id": "583201",
+    "nameEn": "Mari",
+    "nameJa": "マリ",
+    "nameKr": "마리",
+    "image": "data/image/nikke/Mari.png"
+  },
+  {
+    "id": "583501",
+    "nameEn": "Asuka: WILLE",
+    "nameJa": "アスカ：WILLE",
+    "nameKr": "아스카 : WILLE",
+    "image": "data/image/nikke/Asuka_ WILLE.png"
+  },
+  {
+    "id": "583401",
+    "nameEn": "Rei (Tentative Name)",
+    "nameJa": "レイ（仮称）",
+    "nameKr": "레이 (가칭)",
+    "image": "data/image/nikke/Rei (Tentative Name).png"
+  },
+  {
+    "id": "585001",
+    "nameEn": "EVE",
+    "nameJa": "イヴ",
+    "nameKr": "이브",
+    "image": "data/image/nikke/EVE.png"
+  },
+  {
+    "id": "585101",
+    "nameEn": "Raven",
+    "nameJa": "レイヴン",
+    "nameKr": "레이븐",
+    "image": "data/image/nikke/Raven.png"
+  },
+  {
+    "id": "584001",
+    "nameEn": "Ada",
+    "nameJa": "エイダ",
+    "nameKr": "에이다",
+    "image": "data/image/nikke/Ada.png"
+  },
+  {
+    "id": "584101",
+    "nameEn": "Jill",
+    "nameJa": "ジル",
+    "nameKr": "질",
+    "image": "data/image/nikke/Jill.png"
+  },
+  {
+    "id": "586001",
+    "nameEn": "Chisato",
+    "nameJa": "千束",
+    "nameKr": "치사토",
+    "image": "data/image/nikke/Chisato.png"
+  },
+  {
+    "id": "586101",
+    "nameEn": "Takina",
+    "nameJa": "たきな",
+    "nameKr": "타키나",
+    "image": "data/image/nikke/Takina.png"
+  },
+  {
+    "id": "587001",
+    "nameEn": "Queen (Makoto)",
+    "nameJa": "クイーン（真）",
+    "nameKr": "퀸(마코토)",
+    "image": "data/image/nikke/Queen (Makoto).png"
+  },
+  {
+    "id": "587101",
+    "nameEn": "Yukiko",
+    "nameJa": "雪子",
+    "nameKr": "유키코",
+    "image": "data/image/nikke/Yukiko.png"
+  },
+  {
+    "id": "201001",
+    "nameEn": "Rapi",
+    "nameJa": "ラピ",
+    "nameKr": "라피",
+    "image": "data/image/nikke/Rapi.png"
+  },
+  {
+    "id": "201101",
+    "nameEn": "Neon",
+    "nameJa": "ネオン",
+    "nameKr": "네온",
+    "image": "data/image/nikke/Neon.png"
+  },
+  {
+    "id": "202001",
+    "nameEn": "Delta",
+    "nameJa": "デルタ",
+    "nameKr": "델타",
+    "image": "data/image/nikke/Delta.png"
+  },
+  {
+    "id": "235101",
+    "nameEn": "Anchor",
+    "nameJa": "アンカー",
+    "nameKr": "앵커",
+    "image": "data/image/nikke/Anchor.png"
+  },
+  {
+    "id": "116101",
+    "nameEn": "Mihara",
+    "nameJa": "ミハラ",
+    "nameKr": "미하라",
+    "image": "data/image/nikke/Mihara.png"
+  },
+  {
+    "id": "112001",
+    "nameEn": "N102",
+    "nameJa": "N102",
+    "nameKr": "N102",
+    "image": "data/image/nikke/N102.png"
+  },
+  {
+    "id": "129101",
+    "nameEn": "Ether",
+    "nameJa": "エーテル",
+    "nameKr": "에테르",
+    "image": "data/image/nikke/Ether.png"
+  },
+  {
+    "id": "301201",
+    "nameEn": "Anis",
+    "nameJa": "アニス",
+    "nameKr": "아니스",
+    "image": "data/image/nikke/Anis.png"
+  },
+  {
+    "id": "306001",
+    "nameEn": "Belorta",
+    "nameJa": "ベロータ",
+    "nameKr": "벨로타",
+    "image": "data/image/nikke/Belorta.png"
+  },
+  {
+    "id": "306101",
+    "nameEn": "Mica",
+    "nameJa": "ミカ",
+    "nameKr": "미카",
+    "image": "data/image/nikke/Mica.png"
+  },
+  {
+    "id": "319301",
+    "nameEn": "Neve",
+    "nameJa": "ネヴェ",
+    "nameKr": "네베",
+    "image": "data/image/nikke/Neve.png"
+  },
+  {
+    "id": "580201",
+    "nameEn": "Himeno",
+    "nameJa": "姫野",
+    "nameKr": "히메노",
+    "image": "data/image/nikke/Himeno.png"
+  },
+  {
+    "id": "581201",
+    "nameEn": "Pascal",
+    "nameJa": "パスカル",
+    "nameKr": "파스칼",
+    "image": "data/image/nikke/Pascal.png"
+  },
+  {
+    "id": "582201",
+    "nameEn": "Ram",
+    "nameJa": "ラム",
+    "nameKr": "람",
+    "image": "data/image/nikke/Ram.png"
+  },
+  {
+    "id": "583301",
+    "nameEn": "Misato",
+    "nameJa": "ミサト",
+    "nameKr": "미사토",
+    "image": "data/image/nikke/Misato.png"
+  },
+  {
+    "id": "583601",
+    "nameEn": "Sakura",
+    "nameJa": "サクラ",
+    "nameKr": "사쿠라",
+    "image": "data/image/nikke/Sakura.png"
+  },
+  {
+    "id": "585201",
+    "nameEn": "Lily",
+    "nameJa": "リリー",
+    "nameKr": "릴리",
+    "image": "data/image/nikke/Lily.png"
+  },
+  {
+    "id": "584201",
+    "nameEn": "Claire",
+    "nameJa": "クレア",
+    "nameKr": "클레어",
+    "image": "data/image/nikke/Claire.png"
+  },
+  {
+    "id": "586201",
+    "nameEn": "Kurumi",
+    "nameJa": "クルミ",
+    "nameKr": "쿠루미",
+    "image": "data/image/nikke/Kurumi.png"
+  },
+  {
+    "id": "587201",
+    "nameEn": "Aigis",
+    "nameJa": "アイギス",
+    "nameKr": "아이기스",
+    "image": "data/image/nikke/Aigis.png"
+  },
+  {
+    "id": "230001",
+    "nameEn": "Soldier EG",
+    "nameJa": "ソルジャーE.G.",
+    "nameKr": "솔져 E.G.",
+    "image": "data/image/nikke/Soldier EG.png"
+  },
+  {
+    "id": "230101",
+    "nameEn": "Soldier FA",
+    "nameJa": "ソルジャーF.A.",
+    "nameKr": "솔져 F.A.",
+    "image": "data/image/nikke/Soldier FA.png"
+  },
+  {
+    "id": "230601",
+    "nameEn": "Soldier OW",
+    "nameJa": "ソルジャーO.W.",
+    "nameKr": "솔져 O.W.",
+    "image": "data/image/nikke/Soldier OW.png"
+  },
+  {
+    "id": "130201",
+    "nameEn": "Product 08",
+    "nameJa": "プロダクト08",
+    "nameKr": "프로덕트 08",
+    "image": "data/image/nikke/Product 08.png"
+  },
+  {
+    "id": "130301",
+    "nameEn": "Product 12",
+    "nameJa": "プロダクト12",
+    "nameKr": "프로덕트 12",
+    "image": "data/image/nikke/Product 12.png"
+  },
+  {
+    "id": "130701",
+    "nameEn": "Product 23",
+    "nameJa": "プロダクト23",
+    "nameKr": "프로덕트 23",
+    "image": "data/image/nikke/Product 23.png"
+  },
+  {
+    "id": "330401",
+    "nameEn": "iDoll Flower",
+    "nameJa": "I-DOLL・フラワー",
+    "nameKr": "iDoll 플라워",
+    "image": "data/image/nikke/iDoll Flower.png"
+  },
+  {
+    "id": "330501",
+    "nameEn": "iDoll Ocean",
+    "nameJa": "I-DOLL・オーシャン",
+    "nameKr": "iDoll 오션",
+    "image": "data/image/nikke/iDoll Ocean.png"
+  },
+  {
+    "id": "330801",
+    "nameEn": "iDoll Sun",
+    "nameJa": "I-DOLL・サン",
+    "nameKr": "iDoll 썬",
+    "image": "data/image/nikke/iDoll Sun.png"
+  }
+]

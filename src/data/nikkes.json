@@ -1,0 +1,3677 @@
+[
+  {
+    "id": "001",
+    "name": "엠마",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Emma.png",
+    "sound": "data/audio/voice/엠마.wav",
+    "weaponType": "MG",
+    "nameEn": "Emma",
+    "nameJa": "エマ"
+  },
+  {
+    "id": "002",
+    "name": "프리바티",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Privaty.png",
+    "sound": "data/audio/voice/프리바티.wav",
+    "weaponType": "AR",
+    "nameEn": "Privaty",
+    "nameJa": "プリバティ"
+  },
+  {
+    "id": "003",
+    "name": "시그널",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Signal.png",
+    "sound": "data/audio/voice/시그널.wav",
+    "weaponType": "SMG",
+    "nameEn": "Signal",
+    "nameJa": "シグナル"
+  },
+  {
+    "id": "004",
+    "name": "폴리",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Poli.png",
+    "sound": "data/audio/voice/폴리.wav",
+    "weaponType": "SG",
+    "nameEn": "Poli",
+    "nameJa": "ポリ"
+  },
+  {
+    "id": "005",
+    "name": "미란다",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Miranda.png",
+    "sound": "data/audio/voice/미란다.wav",
+    "weaponType": "SMG",
+    "nameEn": "Miranda",
+    "nameJa": "ミランダ"
+  },
+  {
+    "id": "006",
+    "name": "브리드",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Brid.png",
+    "sound": "data/audio/voice/브리드.wav",
+    "weaponType": "AR",
+    "nameEn": "Brid",
+    "nameJa": "ブリッド"
+  },
+  {
+    "id": "007",
+    "name": "솔린",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Soline.png",
+    "sound": "data/audio/voice/솔린.wav",
+    "weaponType": "SMG",
+    "nameEn": "Soline",
+    "nameJa": "ソリン"
+  },
+  {
+    "id": "008",
+    "name": "디젤",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Diesel.png",
+    "sound": "data/audio/voice/디젤.wav",
+    "weaponType": "MG",
+    "nameEn": "Diesel",
+    "nameJa": "ディーゼル"
+  },
+  {
+    "id": "009",
+    "name": "베스티",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Vesti.png",
+    "sound": "data/audio/voice/베스티.wav",
+    "weaponType": "RL",
+    "nameEn": "Vesti",
+    "nameJa": "ベスティー"
+  },
+  {
+    "id": "010",
+    "name": "은화",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Eunhwa.png",
+    "sound": "data/audio/voice/은화.wav",
+    "weaponType": "SR",
+    "nameEn": "Eunhwa",
+    "nameJa": "ウンファ"
+  },
+  {
+    "id": "011",
+    "name": "길로틴",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Guillotine.png",
+    "sound": "data/audio/voice/길로틴.wav",
+    "weaponType": "MG",
+    "nameEn": "Guillotine",
+    "nameJa": "ギロチン"
+  },
+  {
+    "id": "012",
+    "name": "메이든",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Maiden.png",
+    "sound": "data/audio/voice/메이든.wav",
+    "weaponType": "SG",
+    "nameEn": "Maiden",
+    "nameJa": "メイデン"
+  },
+  {
+    "id": "013",
+    "name": "D",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "17",
+    "releaseDate": "2023-04-13",
+    "image": "data/image/nikke/D.png",
+    "sound": "data/audio/voice/D.wav",
+    "weaponType": "SMG",
+    "nameEn": "D",
+    "nameJa": "D"
+  },
+  {
+    "id": "014",
+    "name": "헬름",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "1",
+    "releaseDate": "2022-11-10",
+    "image": "data/image/nikke/Helm.png",
+    "sound": "data/audio/voice/헬름.wav",
+    "weaponType": "SR",
+    "nameEn": "Helm",
+    "nameJa": "ヘルム"
+  },
+  {
+    "id": "015",
+    "name": "네온 : 블루 오션",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "24",
+    "releaseDate": "2023-06-22",
+    "image": "data/image/nikke/Neon_ Blue Ocean.png",
+    "sound": "data/audio/voice/네온 : 블루 오션.wav",
+    "weaponType": "MG",
+    "nameEn": "Neon: Blue Ocean",
+    "nameJa": "ネオン：ブルーオーシャン"
+  },
+  {
+    "id": "016",
+    "name": "마스트",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "26",
+    "releaseDate": "2023-07-20",
+    "image": "data/image/nikke/Mast.png",
+    "sound": "data/audio/voice/마스트.wav",
+    "weaponType": "SMG",
+    "nameEn": "Mast",
+    "nameJa": "マスト"
+  },
+  {
+    "id": "017",
+    "name": "헬름 : 아쿠아마린",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "29",
+    "releaseDate": "2023-08-10",
+    "image": "data/image/nikke/Helm_ Aquamarine.png",
+    "sound": "data/audio/voice/헬름 : 아쿠아마린.wav",
+    "weaponType": "AR",
+    "nameEn": "Helm: Aquamarine",
+    "nameJa": "ヘルム：アクアマリン"
+  },
+  {
+    "id": "018",
+    "name": "마르차나",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "30",
+    "releaseDate": "2023-09-21",
+    "image": "data/image/nikke/Marciana.png",
+    "sound": "data/audio/voice/마르차나.wav",
+    "weaponType": "SG",
+    "nameEn": "Marciana",
+    "nameJa": "マルチャーナ"
+  },
+  {
+    "id": "019",
+    "name": "키리",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "33",
+    "releaseDate": "2023-10-19",
+    "image": "data/image/nikke/Quiry.png",
+    "sound": "data/audio/voice/키리.wav",
+    "weaponType": "RL",
+    "nameEn": "Quiry",
+    "nameJa": "キリ"
+  },
+  {
+    "id": "020",
+    "name": "프리바티 : 언카인드 메이드",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "42",
+    "releaseDate": "2024-02-05",
+    "image": "data/image/nikke/Privaty_ Unkind Maid.png",
+    "sound": "data/audio/voice/프리바티 : 언카인드 메이드.wav",
+    "weaponType": "SG",
+    "nameEn": "Privaty: Unkind Maid",
+    "nameJa": "プリバティ：アンカインド・メイド"
+  },
+  {
+    "id": "021",
+    "name": "D : 킬러 와이프",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "45",
+    "releaseDate": "2024-03-07",
+    "image": "data/image/nikke/D_ Killer Wife.png",
+    "sound": "data/audio/voice/D : 킬러 와이프.wav",
+    "weaponType": "SR",
+    "nameEn": "D: Killer Wife",
+    "nameJa": "D：キラーワイフ"
+  },
+  {
+    "id": "022",
+    "name": "츠바이",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "56",
+    "releaseDate": "2024-08-08",
+    "image": "data/image/nikke/Zwei.png",
+    "sound": "data/audio/voice/츠바이.wav",
+    "weaponType": "SG",
+    "nameEn": "Zwei",
+    "nameJa": "ツバイ"
+  },
+  {
+    "id": "023",
+    "name": "팬텀",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "59",
+    "releaseDate": "2024-10-10",
+    "image": "data/image/nikke/Phantom.png",
+    "sound": "data/audio/voice/팬텀.wav",
+    "weaponType": "AR",
+    "nameEn": "Phantom",
+    "nameJa": "ファントム"
+  },
+  {
+    "id": "024",
+    "name": "메이든 : 아이스 로즈",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "65",
+    "releaseDate": "2024-12-05",
+    "image": "data/image/nikke/Maiden_ Ice Rose.png",
+    "sound": "data/audio/voice/메이든 : 아이스 로즈.wav",
+    "weaponType": "RL",
+    "nameEn": "Maiden: Ice Rose",
+    "nameJa": "メイデン：アイスローズ"
+  },
+  {
+    "id": "025",
+    "name": "길로틴 : 윈터 슬레이어",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "66",
+    "releaseDate": "2024-12-12",
+    "image": "data/image/nikke/Guillotine_ Winter Slayer.png",
+    "sound": "data/audio/voice/길로틴 : 윈터 슬레이어.wav",
+    "weaponType": "AR",
+    "nameEn": "Guillotine: Winter Slayer",
+    "nameJa": "ギロチン：ウィンタースレイヤー"
+  },
+  {
+    "id": "026",
+    "name": "라피 : 레드 후드",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "67",
+    "releaseDate": "2025-01-01",
+    "image": "data/image/nikke/Rapi_ Red Hood.png",
+    "sound": "data/audio/voice/라피 : 레드 후드.wav",
+    "weaponType": "MG",
+    "nameEn": "Rapi: Red Hood",
+    "nameJa": "ラピ：レッドフード"
+  },
+  {
+    "id": "027",
+    "name": "마스트 : 로망틱 메이드",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "69",
+    "releaseDate": "2025-01-30",
+    "image": "data/image/nikke/Mast_ Romantic Maid.png",
+    "sound": "data/audio/voice/마스트 : 로망틱 메이드.wav",
+    "weaponType": "MG",
+    "nameEn": "Mast: Romantic Maid",
+    "nameJa": "マスト：ロマンチックメイド"
+  },
+  {
+    "id": "028",
+    "name": "앵커 : 이노센트 메이드",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "70",
+    "releaseDate": "2025-02-06",
+    "image": "data/image/nikke/Anchor_ Innocent Maid.png",
+    "sound": "data/audio/voice/앵커 : 이노센트 메이드.wav",
+    "weaponType": "RL",
+    "nameEn": "Anchor: Innocent Maid",
+    "nameJa": "アンカー：イノセントメイド"
+  },
+  {
+    "id": "029",
+    "name": "아르카나",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "77",
+    "releaseDate": "2025-05-15",
+    "image": "data/image/nikke/Arcana.png",
+    "sound": "data/audio/voice/아르카나.wav",
+    "weaponType": "RL",
+    "nameEn": "Arcana",
+    "nameJa": "アルカナ"
+  },
+  {
+    "id": "030",
+    "name": "K",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "78",
+    "releaseDate": "2025-05-29",
+    "image": "data/image/nikke/K.png",
+    "sound": "data/audio/voice/K.wav",
+    "weaponType": "SMG",
+    "nameEn": "K",
+    "nameJa": "K"
+  },
+  {
+    "id": "031",
+    "name": "소라",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Wind",
+    "burst": "1",
+    "releaseOrder": "79",
+    "releaseDate": "2025-07-03",
+    "image": "data/image/nikke/Sora.png",
+    "sound": "data/audio/voice/소라.wav",
+    "weaponType": "RL",
+    "nameEn": "Sora",
+    "nameJa": "ソラ"
+  },
+  {
+    "id": "032",
+    "name": "엠마 : 택티컬 업",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "82",
+    "releaseDate": "2025-08-07",
+    "image": "data/image/nikke/Emma_ Tactical Upgrade.png",
+    "sound": "data/audio/voice/엠마 : 택티컬 업.wav",
+    "weaponType": "MG",
+    "nameEn": "Emma: Tactical Upgrade",
+    "nameJa": "エマ：タクティカル・アップ"
+  },
+  {
+    "id": "033",
+    "name": "베스티 : 택티컬 업",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "84",
+    "releaseDate": "2025-08-21",
+    "image": "data/image/nikke/Vesti_ Tactical Upgrade.png",
+    "sound": "data/audio/voice/베스티 : 택티컬 업.wav",
+    "weaponType": "RL",
+    "nameEn": "Vesti: Tactical Upgrade",
+    "nameJa": "ベスティー：タクティカル・アップ"
+  },
+  {
+    "id": "034",
+    "name": "은화 : 택티컬 업",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "83",
+    "releaseDate": "2025-08-14",
+    "image": "data/image/nikke/Eunhwa_ Tactical Upgrade.png",
+    "sound": "data/audio/voice/은화 : 택티컬 업.wav",
+    "weaponType": "SR",
+    "nameEn": "Eunhwa: Tactical Upgrade",
+    "nameJa": "ウンファ：タクティカル・アップ"
+  },
+  {
+    "id": "035",
+    "name": "델타 : 닌자 시프",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "87",
+    "releaseDate": "2025-10-16",
+    "image": "data/image/nikke/Delta_ Ninja Thief.png",
+    "sound": "data/audio/voice/델타 : 닌자 시프.wav",
+    "weaponType": "MG",
+    "nameEn": "Delta: Ninja Thief",
+    "nameJa": "デルタ：ニンジャシーフ"
+  },
+  {
+    "id": "036",
+    "name": "솔린 : 프로스트 티켓",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "91",
+    "releaseDate": "2025-11-20",
+    "image": "data/image/nikke/Soline_ Frost Ticket.png",
+    "sound": "data/audio/voice/솔린 : 프로스트 티켓.wav",
+    "weaponType": "SG",
+    "nameEn": "Soline: Frost Ticket",
+    "nameJa": "ソリン：フロストチケット"
+  },
+  {
+    "id": "037",
+    "name": "디젤 : 윈터 스위츠",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "92",
+    "releaseDate": "2025-12-04",
+    "image": "data/image/nikke/Diesel_ Winter Sweets.png",
+    "sound": "data/audio/voice/디젤 : 윈터 스위츠.wav",
+    "weaponType": "RL",
+    "nameEn": "Diesel: Winter Sweets",
+    "nameJa": "ディーゼル：ウィンタースイーツ"
+  },
+  {
+    "id": "038",
+    "name": "브리드 : 사일런트 트랙",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "93",
+    "releaseDate": "2025-12-11",
+    "image": "data/image/nikke/Brid_ Silent Track.png",
+    "sound": "data/audio/voice/브리드 : 사일런트 트랙.wav",
+    "weaponType": "SG",
+    "nameEn": "Brid: Silent Track",
+    "nameJa": "ブリッド：サイレントトラック"
+  },
+  {
+    "id": "039",
+    "name": "레이블",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Iron",
+    "burst": "1",
+    "releaseOrder": "95",
+    "releaseDate": "2026-01-15",
+    "image": "data/image/nikke/Label.png",
+    "sound": "data/audio/voice/레이블.wav",
+    "weaponType": "AR",
+    "nameEn": "Label",
+    "nameJa": "レーベル"
+  },
+  {
+    "id": "040",
+    "name": "E.H.",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "97",
+    "releaseDate": "2026-03-05",
+    "image": "data/image/nikke/E.H..png",
+    "sound": "data/audio/voice/E.H..wav",
+    "weaponType": "SMG",
+    "nameEn": "E.H.",
+    "nameJa": "E.H."
+  },
+  {
+    "id": "041",
+    "name": "아르카나 : 포츈 메이트",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "98",
+    "releaseDate": "2026-03-19",
+    "image": "data/image/nikke/Arcana_ Fortune Mate.png",
+    "sound": "data/audio/voice/아르카나 : 포츈 메이트.wav",
+    "weaponType": "SG",
+    "nameEn": "Arcana: Fortune Mate",
+    "nameJa": "アルカナ：フォーチュンメイト"
+  },
+  {
+    "id": "042",
+    "name": "아비스타",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "101",
+    "releaseDate": "2026-04-23",
+    "image": "data/image/nikke/Avistar.png",
+    "sound": "data/audio/voice/아비스타.wav",
+    "weaponType": "MG",
+    "nameEn": "Avistar",
+    "nameJa": "アビスタ"
+  },
+  {
+    "id": "043",
+    "name": "마르차나 : 마린 스터디",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "107",
+    "releaseDate": "2026-07-09",
+    "image": "data/image/nikke/Marciana_ Marine Study.png",
+    "sound": "data/audio/voice/마르차나 : 마린 스터디.wav",
+    "weaponType": "AR",
+    "nameEn": "Marciana: Marine Study",
+    "nameJa": "マルチャーナ：マリンスタディ"
+  },
+  {
+    "id": "044",
+    "name": "맥스웰",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Maxwell.png",
+    "sound": "data/audio/voice/맥스웰.wav",
+    "weaponType": "SR",
+    "nameEn": "Maxwell",
+    "nameJa": "マクスウェル"
+  },
+  {
+    "id": "045",
+    "name": "유니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Yuni.png",
+    "sound": "data/audio/voice/유니.wav",
+    "weaponType": "RL",
+    "nameEn": "Yuni",
+    "nameJa": "ユニ"
+  },
+  {
+    "id": "046",
+    "name": "리타",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Iron",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Liter.png",
+    "sound": "data/audio/voice/리타.wav",
+    "weaponType": "SMG",
+    "nameEn": "Liter",
+    "nameJa": "リター"
+  },
+  {
+    "id": "047",
+    "name": "율리아",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Julia.png",
+    "sound": "data/audio/voice/율리아.wav",
+    "weaponType": "AR",
+    "nameEn": "Julia",
+    "nameJa": "ジュリア"
+  },
+  {
+    "id": "048",
+    "name": "센티",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Centi.png",
+    "sound": "data/audio/voice/센티.wav",
+    "weaponType": "RL",
+    "nameEn": "Centi",
+    "nameJa": "センチ"
+  },
+  {
+    "id": "049",
+    "name": "드레이크",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Drake.png",
+    "sound": "data/audio/voice/드레이크.wav",
+    "weaponType": "SG",
+    "nameEn": "Drake",
+    "nameJa": "ドレイク"
+  },
+  {
+    "id": "050",
+    "name": "크로우",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Crow.png",
+    "sound": "data/audio/voice/크로우.wav",
+    "weaponType": "SMG",
+    "nameEn": "Crow",
+    "nameJa": "クロウ"
+  },
+  {
+    "id": "051",
+    "name": "페퍼",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Pepper.png",
+    "sound": "data/audio/voice/페퍼.wav",
+    "weaponType": "SG",
+    "nameEn": "Pepper",
+    "nameJa": "ペッパー"
+  },
+  {
+    "id": "052",
+    "name": "애드미",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Admi.png",
+    "sound": "data/audio/voice/애드미.wav",
+    "weaponType": "SR",
+    "nameEn": "Admi",
+    "nameJa": "アドミ"
+  },
+  {
+    "id": "053",
+    "name": "자칼",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Iron",
+    "burst": "1",
+    "releaseOrder": "7",
+    "releaseDate": "2023-01-12",
+    "image": "data/image/nikke/Jackal.png",
+    "sound": "data/audio/voice/자칼.wav",
+    "weaponType": "RL",
+    "nameEn": "Jackal",
+    "nameJa": "ジャッカル"
+  },
+  {
+    "id": "054",
+    "name": "라플라스",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "2",
+    "releaseDate": "2022-11-24",
+    "image": "data/image/nikke/Laplace.png",
+    "sound": "data/audio/voice/라플라스.wav",
+    "weaponType": "RL",
+    "nameEn": "Laplace",
+    "nameJa": "ラプラス"
+  },
+  {
+    "id": "055",
+    "name": "길티",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "8",
+    "releaseDate": "2023-01-12",
+    "image": "data/image/nikke/Guilty.png",
+    "sound": "data/audio/voice/길티.wav",
+    "weaponType": "SG",
+    "nameEn": "Guilty",
+    "nameJa": "ギルティ"
+  },
+  {
+    "id": "056",
+    "name": "신",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "9",
+    "releaseDate": "2023-01-12",
+    "image": "data/image/nikke/Sin.png",
+    "sound": "data/audio/voice/신.wav",
+    "weaponType": "AR",
+    "nameEn": "Sin",
+    "nameJa": "シン"
+  },
+  {
+    "id": "057",
+    "name": "퀀시",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "10",
+    "releaseDate": "2023-01-12",
+    "image": "data/image/nikke/Quency.png",
+    "sound": "data/audio/voice/퀀시.wav",
+    "weaponType": "SMG",
+    "nameEn": "Quency",
+    "nameJa": "クエンシー"
+  },
+  {
+    "id": "058",
+    "name": "앤 : 미라클 페어리",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "5",
+    "releaseDate": "2022-12-15",
+    "image": "data/image/nikke/Anne_ Miracle Fairy.png",
+    "sound": "data/audio/voice/앤 : 미라클 페어리.wav",
+    "weaponType": "RL",
+    "nameEn": "Anne: Miracle Fairy",
+    "nameJa": "エヌ : ミラクルフェアリー"
+  },
+  {
+    "id": "059",
+    "name": "에피넬",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Epinel.png",
+    "sound": "data/audio/voice/에피넬.wav",
+    "weaponType": "SMG",
+    "nameEn": "Epinel",
+    "nameJa": "エピネル"
+  },
+  {
+    "id": "060",
+    "name": "나가",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "31",
+    "releaseDate": "2023-10-05",
+    "image": "data/image/nikke/Naga.png",
+    "sound": "data/audio/voice/나가.wav",
+    "weaponType": "SG",
+    "nameEn": "Naga",
+    "nameJa": "ナガ"
+  },
+  {
+    "id": "061",
+    "name": "티아",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Iron",
+    "burst": "1",
+    "releaseOrder": "32",
+    "releaseDate": "2023-10-12",
+    "image": "data/image/nikke/Tia.png",
+    "sound": "data/audio/voice/티아.wav",
+    "weaponType": "RL",
+    "nameEn": "Tia",
+    "nameJa": "ティア"
+  },
+  {
+    "id": "062",
+    "name": "토브",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "36",
+    "releaseDate": "2023-11-23",
+    "image": "data/image/nikke/Tove.png",
+    "sound": "data/audio/voice/토브.wav",
+    "weaponType": "AR",
+    "nameEn": "Tove",
+    "nameJa": "トーブ"
+  },
+  {
+    "id": "063",
+    "name": "일레그",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "44",
+    "releaseDate": "2024-02-22",
+    "image": "data/image/nikke/Elegg.png",
+    "sound": "data/audio/voice/일레그.wav",
+    "weaponType": "MG",
+    "nameEn": "Elegg",
+    "nameJa": "エレグ"
+  },
+  {
+    "id": "064",
+    "name": "킬로",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "48",
+    "releaseDate": "2024-04-25",
+    "image": "data/image/nikke/Kilo.png",
+    "sound": "data/audio/voice/킬로.wav",
+    "weaponType": "MG",
+    "nameEn": "Kilo",
+    "nameJa": "キロ"
+  },
+  {
+    "id": "065",
+    "name": "트로니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "49",
+    "releaseDate": "2024-05-16",
+    "image": "data/image/nikke/Trony.png",
+    "sound": "data/audio/voice/트로니.wav",
+    "weaponType": "SR",
+    "nameEn": "Trony",
+    "nameJa": "トロニー"
+  },
+  {
+    "id": "066",
+    "name": "아인",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "55",
+    "releaseDate": "2024-07-25",
+    "image": "data/image/nikke/Ein.png",
+    "sound": "data/audio/voice/아인.wav",
+    "weaponType": "SR",
+    "nameEn": "Ein",
+    "nameJa": "アイン"
+  },
+  {
+    "id": "067",
+    "name": "퀀시 : 이스케이프 퀸",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "58",
+    "releaseDate": "2024-10-03",
+    "image": "data/image/nikke/Quency_ Escape Queen.png",
+    "sound": "data/audio/voice/퀀시 : 이스케이프 퀸.wav",
+    "weaponType": "SMG",
+    "nameEn": "Quency: Escape Queen",
+    "nameJa": "クエンシー：エスケープクイーン"
+  },
+  {
+    "id": "068",
+    "name": "플로라",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "64",
+    "releaseDate": "2024-11-21",
+    "image": "data/image/nikke/Flora.png",
+    "sound": "data/audio/voice/플로라.wav",
+    "weaponType": "MG",
+    "nameEn": "Flora",
+    "nameJa": "フローラ"
+  },
+  {
+    "id": "069",
+    "name": "마나",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "68",
+    "releaseDate": "2025-01-16",
+    "image": "data/image/nikke/Mana.png",
+    "sound": "data/audio/voice/마나.wav",
+    "weaponType": "AR",
+    "nameEn": "Mana",
+    "nameJa": "マナ"
+  },
+  {
+    "id": "070",
+    "name": "트리나",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "71",
+    "releaseDate": "2025-03-13",
+    "image": "data/image/nikke/Trina.png",
+    "sound": "data/audio/voice/트리나.wav",
+    "weaponType": "RL",
+    "nameEn": "Trina",
+    "nameJa": "トリナ"
+  },
+  {
+    "id": "071",
+    "name": "미하라 : 본딩 체인",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "76",
+    "releaseDate": "2025-05-01",
+    "image": "data/image/nikke/Mihara_ Bonding Chain.png",
+    "sound": "data/audio/voice/미하라 : 본딩 체인.wav",
+    "weaponType": "MG",
+    "nameEn": "Mihara: Bonding Chain",
+    "nameJa": "ミハラ：ボンディングチェーン"
+  },
+  {
+    "id": "072",
+    "name": "모리",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "75",
+    "releaseDate": "2025-04-24",
+    "image": "data/image/nikke/Mori.png",
+    "sound": "data/audio/voice/모리.wav",
+    "weaponType": "AR",
+    "nameEn": "Mori",
+    "nameJa": "モリー"
+  },
+  {
+    "id": "073",
+    "name": "일레그 : 붐 앤 쇼크",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "81",
+    "releaseDate": "2025-07-24",
+    "image": "data/image/nikke/Elegg_ Boom and Shock.png",
+    "sound": "data/audio/voice/일레그 : 붐 앤 쇼크.wav",
+    "weaponType": "MG",
+    "nameEn": "Elegg: Boom and Shock",
+    "nameJa": "エレグ：ブーム・アンド・ショック"
+  },
+  {
+    "id": "074",
+    "name": "백학",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "99",
+    "releaseDate": "2026-04-09",
+    "image": "data/image/nikke/Snow Crane.png",
+    "sound": "data/audio/voice/백학.wav",
+    "weaponType": "SR",
+    "nameEn": "Snow Crane",
+    "nameJa": "シラツル"
+  },
+  {
+    "id": "075",
+    "name": "네온 : 비전 아이",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "102",
+    "releaseDate": "2026-04-30",
+    "image": "data/image/nikke/Neon_ Vision Eye.png",
+    "sound": "data/audio/voice/네온 : 비전 아이.wav",
+    "weaponType": "RL",
+    "nameEn": "Neon: Vision Eye",
+    "nameJa": "ネオン：ビジョン・アイ"
+  },
+  {
+    "id": "076",
+    "name": "라플라스 : 얼티밋 히어로",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "108",
+    "releaseDate": "2026-07-23",
+    "image": "data/image/nikke/Laplace_ Ultimate Hero.png",
+    "sound": "data/audio/voice/라플라스 : 얼티밋 히어로.wav",
+    "weaponType": "RL",
+    "nameEn": "Laplace: Ultimate Hero",
+    "nameJa": "ラプラス：アルティメットヒーロー"
+  },
+  {
+    "id": "077",
+    "name": "맥스웰 : 오디너리 미케닉",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "109",
+    "releaseDate": "2026-07-30",
+    "image": "data/image/nikke/Maxwell_ Ordinary Mechanic.png",
+    "sound": "data/audio/voice/맥스웰 : 오디너리 미케닉.wav",
+    "weaponType": "SR",
+    "nameEn": "Maxwell: Ordinary Mechanic",
+    "nameJa": "マクスウェル：オーディナリーメカニック"
+  },
+  {
+    "id": "078",
+    "name": "드레이크 : 그레이트 빌런",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "110",
+    "releaseDate": "2026-09-03",
+    "image": "data/image/nikke/Drake_ Great Villain.png",
+    "sound": "data/audio/voice/드레이크 : 그레이트 빌런.wav",
+    "weaponType": "SG",
+    "nameEn": "Drake: Great Villain",
+    "nameJa": "ドレイク：グレイトヴィラン"
+  },
+  {
+    "id": "079",
+    "name": "길티 : 마이티 바니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "111",
+    "releaseDate": "2026-09-17",
+    "image": "data/image/nikke/Guilty_ Mighty Bunny.png",
+    "sound": "data/audio/voice/길티 : 마이티 바니.wav",
+    "weaponType": "SR",
+    "nameEn": "Guilty: Mighty Bunny",
+    "nameJa": "ギルティ：マイティバニー"
+  },
+  {
+    "id": "080",
+    "name": "신 : 스위프트 바니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "112",
+    "releaseDate": "2026-09-24",
+    "image": "data/image/nikke/Sin_ Swift Bunny.png",
+    "sound": "data/audio/voice/신 : 스위프트 바니.wav",
+    "weaponType": "SR",
+    "nameEn": "Sin: Swift Bunny",
+    "nameJa": "シン：スウィフトバニー"
+  },
+  {
+    "id": "081",
+    "name": "슈가",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Sugar.png",
+    "sound": "data/audio/voice/슈가.wav",
+    "weaponType": "SG",
+    "nameEn": "Sugar",
+    "nameJa": "シュガー"
+  },
+  {
+    "id": "082",
+    "name": "엑시아",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Exia.png",
+    "sound": "data/audio/voice/엑시아.wav",
+    "weaponType": "SR",
+    "nameEn": "Exia",
+    "nameJa": "エクシア"
+  },
+  {
+    "id": "083",
+    "name": "앨리스",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Alice.png",
+    "sound": "data/audio/voice/앨리스.wav",
+    "weaponType": "SR",
+    "nameEn": "Alice",
+    "nameJa": "アリス"
+  },
+  {
+    "id": "084",
+    "name": "블랑",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "20",
+    "releaseDate": "2023-05-18",
+    "image": "data/image/nikke/Blanc.png",
+    "sound": "data/audio/voice/블랑.wav",
+    "weaponType": "AR",
+    "nameEn": "Blanc",
+    "nameJa": "ブラン"
+  },
+  {
+    "id": "085",
+    "name": "누아르",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "21",
+    "releaseDate": "2023-05-25",
+    "image": "data/image/nikke/Noir.png",
+    "sound": "data/audio/voice/누아르.wav",
+    "weaponType": "SG",
+    "nameEn": "Noir",
+    "nameJa": "ノワール"
+  },
+  {
+    "id": "086",
+    "name": "프림",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Frima.png",
+    "sound": "data/audio/voice/프림.wav",
+    "weaponType": "SR",
+    "nameEn": "Frima",
+    "nameJa": "プリム"
+  },
+  {
+    "id": "087",
+    "name": "메어리",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Mary.png",
+    "sound": "data/audio/voice/메어리.wav",
+    "weaponType": "SG",
+    "nameEn": "Mary",
+    "nameJa": "メアリー"
+  },
+  {
+    "id": "088",
+    "name": "밀크",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Milk.png",
+    "sound": "data/audio/voice/밀크.wav",
+    "weaponType": "SR",
+    "nameEn": "Milk",
+    "nameJa": "ミルク"
+  },
+  {
+    "id": "089",
+    "name": "율하",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Yulha.png",
+    "sound": "data/audio/voice/율하.wav",
+    "weaponType": "SR",
+    "nameEn": "Yulha",
+    "nameJa": "ユルハ"
+  },
+  {
+    "id": "090",
+    "name": "루드밀라",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Ludmilla.png",
+    "sound": "data/audio/voice/루드밀라.wav",
+    "weaponType": "SMG",
+    "nameEn": "Ludmilla",
+    "nameJa": "ルドミラ"
+  },
+  {
+    "id": "091",
+    "name": "루피",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Rupee.png",
+    "sound": "data/audio/voice/루피.wav",
+    "weaponType": "AR",
+    "nameEn": "Rupee",
+    "nameJa": "ルピー"
+  },
+  {
+    "id": "092",
+    "name": "얀",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Yan.png",
+    "sound": "data/audio/voice/얀.wav",
+    "weaponType": "RL",
+    "nameEn": "Yan",
+    "nameJa": "ヤン"
+  },
+  {
+    "id": "093",
+    "name": "도라",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Dolla.png",
+    "sound": "data/audio/voice/도라.wav",
+    "weaponType": "SR",
+    "nameEn": "Dolla",
+    "nameJa": "ドラー"
+  },
+  {
+    "id": "094",
+    "name": "노벨",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Novel.png",
+    "sound": "data/audio/voice/노벨.wav",
+    "weaponType": "SMG",
+    "nameEn": "Novel",
+    "nameJa": "ノベル"
+  },
+  {
+    "id": "095",
+    "name": "폴크방",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Folkwang.png",
+    "sound": "data/audio/voice/폴크방.wav",
+    "weaponType": "AR",
+    "nameEn": "Folkwang",
+    "nameJa": "フォルクヴァン"
+  },
+  {
+    "id": "096",
+    "name": "사쿠라",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "15",
+    "releaseDate": "2023-03-30",
+    "image": "data/image/nikke/Sakura.png",
+    "sound": "data/audio/voice/사쿠라.wav",
+    "weaponType": "SMG",
+    "nameEn": "Sakura",
+    "nameJa": "サクラ"
+  },
+  {
+    "id": "097",
+    "name": "바이퍼",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "11",
+    "releaseDate": "2023-01-19",
+    "image": "data/image/nikke/Viper.png",
+    "sound": "data/audio/voice/바이퍼.wav",
+    "weaponType": "SG",
+    "nameEn": "Viper",
+    "nameJa": "バイパー"
+  },
+  {
+    "id": "098",
+    "name": "코코아",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "12",
+    "releaseDate": "2023-02-01",
+    "image": "data/image/nikke/Cocoa.png",
+    "sound": "data/audio/voice/코코아.wav",
+    "weaponType": "SR",
+    "nameEn": "Cocoa",
+    "nameJa": "ココア"
+  },
+  {
+    "id": "099",
+    "name": "소다",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "13",
+    "releaseDate": "2023-02-08",
+    "image": "data/image/nikke/Soda.png",
+    "sound": "data/audio/voice/소다.wav",
+    "weaponType": "MG",
+    "nameEn": "Soda",
+    "nameJa": "ソーダ"
+  },
+  {
+    "id": "100",
+    "name": "비스킷",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "14",
+    "releaseDate": "2023-03-15",
+    "image": "data/image/nikke/Biscuit.png",
+    "sound": "data/audio/voice/비스킷.wav",
+    "weaponType": "RL",
+    "nameEn": "Biscuit",
+    "nameJa": "ビスケット"
+  },
+  {
+    "id": "101",
+    "name": "라이",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "19",
+    "releaseDate": "2023-04-27",
+    "image": "data/image/nikke/Rei.png",
+    "sound": "data/audio/voice/라이.wav",
+    "weaponType": "SMG",
+    "nameEn": "Rei",
+    "nameJa": "ライ"
+  },
+  {
+    "id": "102",
+    "name": "아리아",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Aria.png",
+    "sound": "data/audio/voice/아리아.wav",
+    "weaponType": "MG",
+    "nameEn": "Aria",
+    "nameJa": "アリア"
+  },
+  {
+    "id": "103",
+    "name": "노이즈",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Noise.png",
+    "sound": "data/audio/voice/노이즈.wav",
+    "weaponType": "RL",
+    "nameEn": "Noise",
+    "nameJa": "ノイズ"
+  },
+  {
+    "id": "104",
+    "name": "볼륨",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Volume.png",
+    "sound": "data/audio/voice/볼륨.wav",
+    "weaponType": "SMG",
+    "nameEn": "Volume",
+    "nameJa": "ボリューム"
+  },
+  {
+    "id": "105",
+    "name": "루피 : 윈터 쇼퍼",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "3",
+    "releaseDate": "2022-12-08",
+    "image": "data/image/nikke/Rupee_ Winter Shopper.png",
+    "sound": "data/audio/voice/루피 : 윈터 쇼퍼.wav",
+    "weaponType": "AR",
+    "nameEn": "Rupee: Winter Shopper",
+    "nameJa": "ルピー：ウィンターショッパー"
+  },
+  {
+    "id": "106",
+    "name": "로산나",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "22",
+    "releaseDate": "2023-06-01",
+    "image": "data/image/nikke/Rosanna.png",
+    "sound": "data/audio/voice/로산나.wav",
+    "weaponType": "MG",
+    "nameEn": "Rosanna",
+    "nameJa": "ロザンナ"
+  },
+  {
+    "id": "107",
+    "name": "메어리 : 베이 갓데스",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "23",
+    "releaseDate": "2023-06-15",
+    "image": "data/image/nikke/Mary_ Bay Goddess.png",
+    "sound": "data/audio/voice/메어리 : 베이 갓데스.wav",
+    "weaponType": "SR",
+    "nameEn": "Mary: Bay Goddess",
+    "nameJa": "メアリー：ベイゴッデス"
+  },
+  {
+    "id": "108",
+    "name": "네로",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "25",
+    "releaseDate": "2023-07-06",
+    "image": "data/image/nikke/Nero.png",
+    "sound": "data/audio/voice/네로.wav",
+    "weaponType": "SMG",
+    "nameEn": "Nero",
+    "nameJa": "ネロ"
+  },
+  {
+    "id": "109",
+    "name": "아니스 : 스파클링 서머",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "27",
+    "releaseDate": "2023-08-03",
+    "image": "data/image/nikke/Anis_ Sparkling Summer.png",
+    "sound": "data/audio/voice/아니스 : 스파클링 서머.wav",
+    "weaponType": "SG",
+    "nameEn": "Anis: Sparkling Summer",
+    "nameJa": "アニス：スパークリングサマー"
+  },
+  {
+    "id": "110",
+    "name": "루드밀라 : 윈터 오너",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "37",
+    "releaseDate": "2023-12-07",
+    "image": "data/image/nikke/Ludmilla_ Winter Owner.png",
+    "sound": "data/audio/voice/루드밀라 : 윈터 오너.wav",
+    "weaponType": "MG",
+    "nameEn": "Ludmilla: Winter Owner",
+    "nameJa": "ルドミラ：ウィンターオーナー"
+  },
+  {
+    "id": "111",
+    "name": "미카 : 스노우 버디",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "1",
+    "releaseOrder": "38",
+    "releaseDate": "2023-12-14",
+    "image": "data/image/nikke/Mica_ Snow Buddy.png",
+    "sound": "data/audio/voice/미카 : 스노우 버디.wav",
+    "weaponType": "SMG",
+    "nameEn": "Mica: Snow Buddy",
+    "nameJa": "ミカ：スノーバディ"
+  },
+  {
+    "id": "112",
+    "name": "레오나",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "40",
+    "releaseDate": "2024-01-11",
+    "image": "data/image/nikke/Leona.png",
+    "sound": "data/audio/voice/레오나.wav",
+    "weaponType": "SG",
+    "nameEn": "Leona",
+    "nameJa": "レオナ"
+  },
+  {
+    "id": "113",
+    "name": "목단",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "41",
+    "releaseDate": "2024-01-25",
+    "image": "data/image/nikke/Moran.png",
+    "sound": "data/audio/voice/목단.wav",
+    "weaponType": "AR",
+    "nameEn": "Moran",
+    "nameJa": "モラン"
+  },
+  {
+    "id": "114",
+    "name": "에이드",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "43",
+    "releaseDate": "2024-02-15",
+    "image": "data/image/nikke/Ade.png",
+    "sound": "data/audio/voice/에이드.wav",
+    "weaponType": "AR",
+    "nameEn": "Ade",
+    "nameJa": "エード"
+  },
+  {
+    "id": "115",
+    "name": "베이",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "46",
+    "releaseDate": "2024-04-11",
+    "image": "data/image/nikke/Bay.png",
+    "sound": "data/audio/voice/베이.wav",
+    "weaponType": "RL",
+    "nameEn": "Bay",
+    "nameJa": "ベイ"
+  },
+  {
+    "id": "116",
+    "name": "소다 : 트윙클링 바니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "50",
+    "releaseDate": "2024-05-30",
+    "image": "data/image/nikke/Soda_ Twinkling Bunny.png",
+    "sound": "data/audio/voice/소다 : 트윙클링 바니.wav",
+    "weaponType": "SG",
+    "nameEn": "Soda: Twinkling Bunny",
+    "nameJa": "ソーダ：トゥインクルバニー"
+  },
+  {
+    "id": "117",
+    "name": "앨리스 : 원더랜드 바니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "51",
+    "releaseDate": "2024-06-06",
+    "image": "data/image/nikke/Alice_ Wonderland Bunny.png",
+    "sound": "data/audio/voice/앨리스 : 원더랜드 바니.wav",
+    "weaponType": "SMG",
+    "nameEn": "Alice: Wonderland Bunny",
+    "nameJa": "アリス：ワンダーランドバニー"
+  },
+  {
+    "id": "118",
+    "name": "클레이",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "52",
+    "releaseDate": "2024-06-20",
+    "image": "data/image/nikke/Clay.png",
+    "sound": "data/audio/voice/클레이.wav",
+    "weaponType": "SMG",
+    "nameEn": "Clay",
+    "nameJa": "クレイ"
+  },
+  {
+    "id": "119",
+    "name": "로산나 : 시크 오션",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "54",
+    "releaseDate": "2024-07-11",
+    "image": "data/image/nikke/Rosanna_ Chic Ocean.png",
+    "sound": "data/audio/voice/로산나 : 시크 오션.wav",
+    "weaponType": "AR",
+    "nameEn": "Rosanna: Chic Ocean",
+    "nameJa": "ロザンナ：シックオーシャン"
+  },
+  {
+    "id": "120",
+    "name": "사쿠라 : 블룸 인 서머",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "53",
+    "releaseDate": "2024-07-04",
+    "image": "data/image/nikke/Sakura_ Bloom in Summer.png",
+    "sound": "data/audio/voice/사쿠라 : 블룸 인 서머.wav",
+    "weaponType": "AR",
+    "nameEn": "Sakura: Bloom in Summer",
+    "nameJa": "サクラ：ブルーム・イン・サマー"
+  },
+  {
+    "id": "121",
+    "name": "루주",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "57",
+    "releaseDate": "2024-09-19",
+    "image": "data/image/nikke/Rouge.png",
+    "sound": "data/audio/voice/루주.wav",
+    "weaponType": "SR",
+    "nameEn": "Rouge",
+    "nameJa": "ルージュ"
+  },
+  {
+    "id": "122",
+    "name": "루마니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "60",
+    "releaseDate": "2024-10-17",
+    "image": "data/image/nikke/Rumani.png",
+    "sound": "data/audio/voice/루마니.wav",
+    "weaponType": "RL",
+    "nameEn": "Rumani",
+    "nameJa": "ルマニ"
+  },
+  {
+    "id": "123",
+    "name": "브래디",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "72",
+    "releaseDate": "2025-03-27",
+    "image": "data/image/nikke/Bready.png",
+    "sound": "data/audio/voice/브래디.wav",
+    "weaponType": "SR",
+    "nameEn": "Bready",
+    "nameJa": "ブレッディ"
+  },
+  {
+    "id": "124",
+    "name": "크러스트",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "73",
+    "releaseDate": "2025-04-10",
+    "image": "data/image/nikke/Crust.png",
+    "sound": "data/audio/voice/크러스트.wav",
+    "weaponType": "RL",
+    "nameEn": "Crust",
+    "nameJa": "クラスト"
+  },
+  {
+    "id": "125",
+    "name": "밀크 : 블루밍 바니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "86",
+    "releaseDate": "2025-09-11",
+    "image": "data/image/nikke/Milk_ Blooming Bunny.png",
+    "sound": "data/audio/voice/밀크 : 블루밍 바니.wav",
+    "weaponType": "SR",
+    "nameEn": "Milk: Blooming Bunny",
+    "nameJa": "ミルク：ブルーミングバニー"
+  },
+  {
+    "id": "126",
+    "name": "에이드 : 에이전트 바니",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "85",
+    "releaseDate": "2025-09-04",
+    "image": "data/image/nikke/Ade_ Agent Bunny.png",
+    "sound": "data/audio/voice/에이드 : 에이전트 바니.wav",
+    "weaponType": "SR",
+    "nameEn": "Ade: Agent Bunny",
+    "nameJa": "エード：エージェントバニー"
+  },
+  {
+    "id": "127",
+    "name": "벨벳",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "96",
+    "releaseDate": "2026-01-29",
+    "image": "data/image/nikke/Velvet.png",
+    "sound": "data/audio/voice/벨벳.wav",
+    "weaponType": "SR",
+    "nameEn": "Velvet",
+    "nameJa": "ベルベット"
+  },
+  {
+    "id": "128",
+    "name": "아니스 : 스타",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "100",
+    "releaseDate": "2026-04-23",
+    "image": "data/image/nikke/Anis_ Star.png",
+    "sound": "data/audio/voice/아니스 : 스타.wav",
+    "weaponType": "RL",
+    "nameEn": "Anis: Star",
+    "nameJa": "アニス：スター"
+  },
+  {
+    "id": "129",
+    "name": "민트",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "103",
+    "releaseDate": "2026-05-14",
+    "image": "data/image/nikke/Mint.png",
+    "sound": "data/audio/voice/민트.wav",
+    "weaponType": "RL",
+    "nameEn": "Mint",
+    "nameJa": "ミント"
+  },
+  {
+    "id": "130",
+    "name": "프리카",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "104",
+    "releaseDate": "2026-05-28",
+    "image": "data/image/nikke/Prika.png",
+    "sound": "data/audio/voice/프리카.wav",
+    "weaponType": "SR",
+    "nameEn": "Prika",
+    "nameJa": "プリカ"
+  },
+  {
+    "id": "131",
+    "name": "아크레인저 블랙",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "105",
+    "releaseDate": "2026-06-11",
+    "image": "data/image/nikke/Ark Ranger Black.png",
+    "sound": "data/audio/voice/아크레인저 블랙.wav",
+    "weaponType": "AR",
+    "nameEn": "Ark Ranger Black",
+    "nameJa": "アークレンジャー・ブラック"
+  },
+  {
+    "id": "132",
+    "name": "벨로타 : 펌킨 위치",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "2",
+    "releaseOrder": "113",
+    "releaseDate": "2026-10-08",
+    "image": "data/image/nikke/Belorta_ Pumpkin Witch.png",
+    "sound": "data/audio/voice/벨로타 : 펌킨 위치.wav",
+    "weaponType": "RL",
+    "nameEn": "Belorta: Pumpkin Witch",
+    "nameJa": "ベロータ：パンプキンウィッチ"
+  },
+  {
+    "id": "133",
+    "name": "스노우 화이트",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": 0,
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Snow White.png",
+    "sound": "data/audio/voice/스노우 화이트.wav",
+    "weaponType": "AR",
+    "nameEn": "Snow White",
+    "nameJa": "スノーホワイト"
+  },
+  {
+    "id": "134",
+    "name": "이사벨",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Isabel.png",
+    "sound": "data/audio/voice/이사벨.wav",
+    "weaponType": "SG",
+    "nameEn": "Isabel",
+    "nameJa": "イサベル"
+  },
+  {
+    "id": "135",
+    "name": "라푼젤",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Iron",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Rapunzel.png",
+    "sound": "data/audio/voice/라푼젤.wav",
+    "weaponType": "RL",
+    "nameEn": "Rapunzel",
+    "nameJa": "ラプンツェル"
+  },
+  {
+    "id": "136",
+    "name": "홍련",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Scarlet.png",
+    "sound": "data/audio/voice/홍련.wav",
+    "weaponType": "AR",
+    "nameEn": "Scarlet",
+    "nameJa": "紅蓮"
+  },
+  {
+    "id": "137",
+    "name": "하란",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Harran.png",
+    "sound": "data/audio/voice/하란.wav",
+    "weaponType": "SR",
+    "nameEn": "Harran",
+    "nameJa": "ハラン"
+  },
+  {
+    "id": "138",
+    "name": "노아",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Noah.png",
+    "sound": "data/audio/voice/노아.wav",
+    "weaponType": "RL",
+    "nameEn": "Noah",
+    "nameJa": "ノア"
+  },
+  {
+    "id": "139",
+    "name": "모더니아",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "6",
+    "releaseDate": "2023-01-01",
+    "image": "data/image/nikke/Modernia.png",
+    "sound": "data/audio/voice/모더니아.wav",
+    "weaponType": "MG",
+    "nameEn": "Modernia",
+    "nameJa": "モダニア"
+  },
+  {
+    "id": "140",
+    "name": "니힐리스타",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "16",
+    "releaseDate": "2023-03-30",
+    "image": "data/image/nikke/Nihilister.png",
+    "sound": "data/audio/voice/니힐리스타.wav",
+    "weaponType": "SR",
+    "nameEn": "Nihilister",
+    "nameJa": "ニヒリスター"
+  },
+  {
+    "id": "141",
+    "name": "도로시",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "18",
+    "releaseDate": "2023-04-27",
+    "image": "data/image/nikke/Dorothy.png",
+    "sound": "data/audio/voice/도로시.wav",
+    "weaponType": "AR",
+    "nameEn": "Dorothy",
+    "nameJa": "ドロシー"
+  },
+  {
+    "id": "142",
+    "name": "레드 후드",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Iron",
+    "burst": "All",
+    "releaseOrder": "34",
+    "releaseDate": "2023-11-02",
+    "image": "data/image/nikke/Red Hood.png",
+    "sound": "data/audio/voice/레드 후드.wav",
+    "weaponType": "SR",
+    "nameEn": "Red Hood",
+    "nameJa": "レッドフード"
+  },
+  {
+    "id": "143",
+    "name": "스노우 화이트 : 이노센트 데이즈",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "35",
+    "releaseDate": "2023-11-02",
+    "image": "data/image/nikke/Snow White_ Innocent Days.png",
+    "sound": "data/audio/voice/스노우 화이트 : 이노센트 데이즈.wav",
+    "weaponType": "AR",
+    "nameEn": "Snow White: Innocent Days",
+    "nameJa": "スノーホワイト：イノセントデイズ"
+  },
+  {
+    "id": "144",
+    "name": "홍련 : 흑영",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "39",
+    "releaseDate": "2024-01-01",
+    "image": "data/image/nikke/Scarlet_ Black Shadow.png",
+    "sound": "data/audio/voice/홍련 : 흑영.wav",
+    "weaponType": "RL",
+    "nameEn": "Scarlet: Black Shadow",
+    "nameJa": "紅蓮：ブラックシャドウ"
+  },
+  {
+    "id": "145",
+    "name": "크라운",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "47",
+    "releaseDate": "2024-04-25",
+    "image": "data/image/nikke/Crown.png",
+    "sound": "data/audio/voice/크라운.wav",
+    "weaponType": "MG",
+    "nameEn": "Crown",
+    "nameJa": "クラウン"
+  },
+  {
+    "id": "146",
+    "name": "라푼젤 : 퓨어 그레이스",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Iron",
+    "burst": "1",
+    "releaseOrder": "62",
+    "releaseDate": "2024-10-31",
+    "image": "data/image/nikke/Rapunzel_ Pure Grace.png",
+    "sound": "data/audio/voice/라푼젤 : 퓨어 그레이스.wav",
+    "weaponType": "SR",
+    "nameEn": "Rapunzel: Pure Grace",
+    "nameJa": "ラプンツェル：ピュアグレイス"
+  },
+  {
+    "id": "147",
+    "name": "신데렐라",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "61",
+    "releaseDate": "2024-10-31",
+    "image": "data/image/nikke/Cinderella.png",
+    "sound": "data/audio/voice/신데렐라.wav",
+    "weaponType": "RL",
+    "nameEn": "Cinderella",
+    "nameJa": "シンデレラ"
+  },
+  {
+    "id": "148",
+    "name": "그레이브",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Fire",
+    "burst": "2",
+    "releaseOrder": "63",
+    "releaseDate": "2024-11-07",
+    "image": "data/image/nikke/Grave.png",
+    "sound": "data/audio/voice/그레이브.wav",
+    "weaponType": "AR",
+    "nameEn": "Grave",
+    "nameJa": "グレイブ"
+  },
+  {
+    "id": "149",
+    "name": "리틀 머메이드",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Wind",
+    "burst": "1",
+    "releaseOrder": "74",
+    "releaseDate": "2025-04-24",
+    "image": "data/image/nikke/Little Mermaid.png",
+    "sound": "data/audio/voice/리틀 머메이드.wav",
+    "weaponType": "SMG",
+    "nameEn": "Little Mermaid",
+    "nameJa": "リトルマーメイド"
+  },
+  {
+    "id": "150",
+    "name": "도로시 : 세렌디피티",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "80",
+    "releaseDate": "2025-07-17",
+    "image": "data/image/nikke/Dorothy_ Serendipity.png",
+    "sound": "data/audio/voice/도로시 : 세렌디피티.wav",
+    "weaponType": "SG",
+    "nameEn": "Dorothy: Serendipity",
+    "nameJa": "ドロシー：セレンディピティ"
+  },
+  {
+    "id": "151",
+    "name": "나유타",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "88",
+    "releaseDate": "2025-10-30",
+    "image": "data/image/nikke/Nayuta.png",
+    "sound": "data/audio/voice/나유타.wav",
+    "weaponType": "SMG",
+    "nameEn": "Nayuta",
+    "nameJa": "ナユタ"
+  },
+  {
+    "id": "152",
+    "name": "리버렐리오",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Wind",
+    "burst": "3",
+    "releaseOrder": "90",
+    "releaseDate": "2025-11-06",
+    "image": "data/image/nikke/Liberalio.png",
+    "sound": "data/audio/voice/리버렐리오.wav",
+    "weaponType": "SR",
+    "nameEn": "Liberalio",
+    "nameJa": "リバーレリオ"
+  },
+  {
+    "id": "153",
+    "name": "차임",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "89",
+    "releaseDate": "2025-10-30",
+    "image": "data/image/nikke/Chime.png",
+    "sound": "data/audio/voice/차임.wav",
+    "weaponType": "SMG",
+    "nameEn": "Chime",
+    "nameJa": "チャイム"
+  },
+  {
+    "id": "154",
+    "name": "스노우 화이트 : 헤비암즈",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "94",
+    "releaseDate": "2026-01-01",
+    "image": "data/image/nikke/Snow White_ Heavy Arms.png",
+    "sound": "data/audio/voice/스노우 화이트 : 헤비암즈.wav",
+    "weaponType": "SR",
+    "nameEn": "Snow White: Heavy Arms",
+    "nameJa": "スノーホワイト：ヘビーアームズ"
+  },
+  {
+    "id": "155",
+    "name": "신데렐라 : 크리스탈 웨이브",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "PILGRIM",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "106",
+    "releaseDate": "2026-07-02",
+    "image": "data/image/nikke/Cinderella_ Crystal Wave.png",
+    "sound": "data/audio/voice/신데렐라 : 크리스탈 웨이브.wav",
+    "weaponType": "MG",
+    "nameEn": "Cinderella: Crystal Wave",
+    "nameJa": "シンデレラ：クリスタルウェーブ"
+  },
+  {
+    "id": "175",
+    "name": "라피",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Rapi.png",
+    "sound": "data/audio/voice/라피.wav",
+    "weaponType": "AR",
+    "nameEn": "Rapi",
+    "nameJa": "ラピ"
+  },
+  {
+    "id": "176",
+    "name": "네온",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Neon.png",
+    "sound": "data/audio/voice/네온.wav",
+    "weaponType": "SG",
+    "nameEn": "Neon",
+    "nameJa": "ネオン"
+  },
+  {
+    "id": "177",
+    "name": "델타",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Delta.png",
+    "sound": "data/audio/voice/델타.wav",
+    "weaponType": "SR",
+    "nameEn": "Delta",
+    "nameJa": "デルタ"
+  },
+  {
+    "id": "178",
+    "name": "앵커",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Wind",
+    "burst": "1",
+    "releaseOrder": "28",
+    "releaseDate": "2023-08-03",
+    "image": "data/image/nikke/Anchor.png",
+    "sound": "data/audio/voice/앵커.wav",
+    "weaponType": "RL",
+    "nameEn": "Anchor",
+    "nameJa": "アンカー"
+  },
+  {
+    "id": "179",
+    "name": "미하라",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Mihara.png",
+    "sound": "data/audio/voice/미하라.wav",
+    "weaponType": "AR",
+    "nameEn": "Mihara",
+    "nameJa": "ミハラ"
+  },
+  {
+    "id": "180",
+    "name": "N102",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/N102.png",
+    "sound": "data/audio/voice/N102.wav",
+    "weaponType": "RL",
+    "nameEn": "N102",
+    "nameJa": "N102"
+  },
+  {
+    "id": "181",
+    "name": "에테르",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Ether.png",
+    "sound": "data/audio/voice/에테르.wav",
+    "weaponType": "SG",
+    "nameEn": "Ether",
+    "nameJa": "エーテル"
+  },
+  {
+    "id": "182",
+    "name": "아니스",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Anis.png",
+    "sound": "data/audio/voice/아니스.wav",
+    "weaponType": "RL",
+    "nameEn": "Anis",
+    "nameJa": "アニス"
+  },
+  {
+    "id": "183",
+    "name": "벨로타",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Electronic",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Belorta.png",
+    "sound": "data/audio/voice/벨로타.wav",
+    "weaponType": "RL",
+    "nameEn": "Belorta",
+    "nameJa": "ベロータ"
+  },
+  {
+    "id": "184",
+    "name": "미카",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Mica.png",
+    "sound": "data/audio/voice/미카.wav",
+    "weaponType": "RL",
+    "nameEn": "Mica",
+    "nameJa": "ミカ"
+  },
+  {
+    "id": "185",
+    "name": "네베",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "3",
+    "releaseOrder": "4",
+    "releaseDate": "2022-12-08",
+    "image": "data/image/nikke/Neve.png",
+    "sound": "data/audio/voice/네베.wav",
+    "weaponType": "SG",
+    "nameEn": "Neve",
+    "nameJa": "ネヴェ"
+  },
+  {
+    "id": "195",
+    "name": "솔져 E.G.",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Electronic",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Soldier EG.png",
+    "sound": "data/audio/voice/솔져 E.G..wav",
+    "weaponType": "AR",
+    "nameEn": "Soldier EG",
+    "nameJa": "ソルジャーE.G."
+  },
+  {
+    "id": "196",
+    "name": "솔져 F.A.",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Iron",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Soldier FA.png",
+    "sound": "data/audio/voice/솔져 F.A..wav",
+    "weaponType": "SG",
+    "nameEn": "Soldier FA",
+    "nameJa": "ソルジャーF.A."
+  },
+  {
+    "id": "197",
+    "name": "솔져 O.W.",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "ELYSION",
+    "element": "Fire",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Soldier OW.png",
+    "sound": "data/audio/voice/솔져 O.W..wav",
+    "weaponType": "SMG",
+    "nameEn": "Soldier OW",
+    "nameJa": "ソルジャーO.W."
+  },
+  {
+    "id": "198",
+    "name": "프로덕트 08",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Electronic",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Product 08.png",
+    "sound": "data/audio/voice/프로덕트 08.wav",
+    "weaponType": "SR",
+    "nameEn": "Product 08",
+    "nameJa": "プロダクト08"
+  },
+  {
+    "id": "199",
+    "name": "프로덕트 12",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Fire",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Product 12.png",
+    "sound": "data/audio/voice/프로덕트 12.wav",
+    "weaponType": "MG",
+    "nameEn": "Product 12",
+    "nameJa": "プロダクト12"
+  },
+  {
+    "id": "200",
+    "name": "프로덕트 23",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "MISSILIS",
+    "element": "Wind",
+    "burst": "2",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/Product 23.png",
+    "sound": "data/audio/voice/프로덕트 23.wav",
+    "weaponType": "SG",
+    "nameEn": "Product 23",
+    "nameJa": "プロダクト23"
+  },
+  {
+    "id": "201",
+    "name": "iDoll 플라워",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Wind",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/iDoll Flower.png",
+    "sound": "data/audio/voice/iDoll 플라워.wav",
+    "weaponType": "RL",
+    "nameEn": "iDoll Flower",
+    "nameJa": "I-DOLL・フラワー"
+  },
+  {
+    "id": "202",
+    "name": "iDoll 오션",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Water",
+    "burst": "1",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/iDoll Ocean.png",
+    "sound": "data/audio/voice/iDoll 오션.wav",
+    "weaponType": "SMG",
+    "nameEn": "iDoll Ocean",
+    "nameJa": "I-DOLL・オーシャン"
+  },
+  {
+    "id": "203",
+    "name": "iDoll 썬",
+    "aliases": [
+      {
+        "text": null,
+        "image": null,
+        "sound": null
+      }
+    ],
+    "company": "TETRA",
+    "element": "Iron",
+    "burst": "3",
+    "releaseOrder": "0",
+    "releaseDate": "2022-11-04",
+    "image": "data/image/nikke/iDoll Sun.png",
+    "sound": "data/audio/voice/iDoll 썬.wav",
+    "weaponType": "AR",
+    "nameEn": "iDoll Sun",
+    "nameJa": "I-DOLL・サン"
+  }
+]

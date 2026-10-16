@@ -1,0 +1,922 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=0.75"><meta name="google-site-verification" content="Gu1EbIytnh1sdrGXl_TxX4mFH4xb_FpGC_SmNF5JOWU"><meta name="astro-view-transitions-enabled" content="true"><meta name="astro-view-transitions-fallback" content="animate"><script type="text/javascript" nonce="014110eece6e4d72b8d1aa95091" src="//local.adguard.org?ts=1792124845745&amp;type=content-script&amp;dmn=nkas.pages.dev&amp;url=https%3A%2F%2Fnkas.pages.dev%2Fcharacters%2Fsi_c9026_00_s.png&amp;app=chrome.exe&amp;css=3&amp;js=1&amp;rel=1&amp;rji=1&amp;sbe=1"></script><script type="text/javascript" nonce="014110eece6e4d72b8d1aa95091" src="//local.adguard.org?ts=1792124845745&amp;name=AdGuard%20Extra&amp;name=AdGuard%20Popup%20Blocker&amp;type=user-script"></script><script type="module" src="/_astro/ClientRouter.astro_astro_type_script_index_0_lang.Db2zAGoj.js"></script><title>NKAS</title><meta name="description" content="A companion website for most of your butt game needs. Inspect character details, stage information, Rapture information, listen to the OST, and more."><link rel="icon" href="/favicon.ico"><meta name="theme-color" content="#00ff86"><meta name="robots" content="index, follow"><meta property="og:url" content="https://nkas.pages.dev/"><meta property="og:type" content="website"><meta property="og:title" content="NKAS"><meta property="og:description" content="A companion website for most of your butt game needs. Inspect character details, stage information, Rapture information, listen to the OST, and more."><meta property="og:image" content="https://nkas.pages.dev/default-og.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="NKAS"><meta name="twitter:description" content="A companion website for most of your butt game needs. Inspect character details, stage information, Rapture information, listen to the OST, and more."><meta name="twitter:image" content="https://nkas.pages.dev/default-og.png"><link rel="canonical" href="https://nkas.pages.dev/"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"NKAS","description":"A companion website for most of your butt game needs. Inspect character details, stage information, Rapture information, listen to the OST, and more.","url":"https://nkas.pages.dev/"}</script><link rel="icon" type="image/png" href="/common/nkas.png"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css" integrity="sha512-ApSLB1Pd3/bZN8fWB/RG9YhN/7bd9Hkf3AGaE2mPfebjrxagjuBtx2GcgdqIlJkUzwylBo61r9Xa9NmgBI0swA==" crossorigin="anonymous" referrerpolicy="no-referrer"><link rel="stylesheet" href="/_astro/Footer.DQh_KV0k.css"><style>div[data-astro-cid-akds2wd5].info-card {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px;
+  box-sizing: border-box;
+  border-left-width: 3px;
+  text-align: left;
+  font-size: 14px;
+  gap: 16px;
+}
+
+div[data-astro-cid-akds2wd5].info-card i[data-astro-cid-akds2wd5] {
+  font-size: 20px;
+}
+
+div[data-astro-cid-akds2wd5].info-card span[data-astro-cid-akds2wd5] {
+  line-height: 1.5;
+}
+
+div[data-astro-cid-akds2wd5].info-card.circle-info {
+  background-color: var(--ele-water-bg);
+  border: 1px solid var(--ele-water);
+}
+
+div[data-astro-cid-akds2wd5].info-card.triangle-exclamation {
+  background-color: var(--ele-iron-bg);
+  border: 1px solid var(--ele-iron);
+}
+
+div[data-astro-cid-akds2wd5].info-card.circle-question {
+  background-color: var(--ele-wind-bg);
+  border: 1px solid var(--ele-wind);
+}
+</style></head><body><link rel="preload" href="/eyes.webp"><link rel="preload" href="/common/bg.png"><div data-astro-transition-persist="astro-xqnp5chy-1" id="wtf-did-you-guys-see-that" data-astro-cid-l7arcky5></div><div data-astro-transition-persist="astro-ic55ljvk-2" id="shooting-stars" data-astro-cid-l7arcky5><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span><span class="shooting-star" data-astro-cid-l7arcky5></span></div><div data-astro-transition-persist="astro-efc7yfzl-3" id="loading-bar" data-astro-cid-l7arcky5></div><div data-astro-transition-persist="astro-ja5w7jm3-4" class="navbar" data-astro-cid-l7arcky5><div class="navbar-inner" data-astro-cid-l7arcky5><div class="navbar-list" data-astro-cid-l7arcky5><a href="/" class="logo" data-astro-cid-l7arcky5><img src="/common/nkas.png" alt="NKAS logo" data-astro-cid-l7arcky5> <span data-astro-cid-l7arcky5>NKAS</span></a></div><div class="navbar-anis" data-astro-cid-l7arcky5><img src="/update_anis.gif" alt="Update Anis" draggable="false" title="Click me!" id="update-anis" data-astro-cid-l7arcky5></div><div class="navbar-list" data-astro-cid-l7arcky5><a href="/" data-astro-cid-l7arcky5>Home</a><a href="/feedback/" data-astro-cid-l7arcky5>Feedback</a><i class="fa-solid fa-star extra" id="toggle-stars" data-astro-cid-l7arcky5></i><!-- <a href="https://skuqre.itch.io/ultimate-scenario-creator" class="extra"><img src="/common/usc.svg" alt="USC"></a> --></div></div></div><script type="module">//#region src/components/Navbar.astro?astro&type=script&index=0&lang.ts
+var bar = document.getElementById("loading-bar");
+document.addEventListener("astro:before-preparation", (event) => {
+	bar.style.width = "0%";
+	bar.classList.add("active");
+	bar.classList.remove("done");
+	const originalLoader = event.loader;
+	event.loader = async () => {
+		bar.style.width = "30%";
+		await originalLoader();
+		bar.style.width = "90%";
+	};
+});
+document.addEventListener("astro:after-swap", () => {
+	bar.style.width = "100%";
+});
+document.addEventListener("astro:page-load", () => {
+	bar.classList.add("done");
+	setTimeout(() => {
+		bar.classList.remove("active");
+		bar.style.width = "0%";
+	}, 500);
+});
+async function theEntireScript() {
+	const shootingStars = document.getElementById("shooting-stars");
+	const starsToggle = document.getElementById("toggle-stars");
+	const wtf = document.getElementById("wtf-did-you-guys-see-that");
+	if (window.skelTimeout) {
+		wtf.style.backgroundImage = null;
+		clearInterval(window.skelTimeout);
+		window.skelTimeout = null;
+	}
+	window.skelTimeout = setInterval(() => {
+		if (Math.random() < .1) wtf.style.backgroundImage = "url('/eyes.webp#t=" + Date.now() + "')";
+		wtf.offsetLeft;
+		setTimeout(() => {
+			wtf.style.backgroundImage = null;
+		}, 780);
+	}, 8780);
+	if (localStorage.getItem("stars") !== null) {
+		if (localStorage.getItem("stars") === "yes") shootingStars.style.display = null;
+		else shootingStars.style.display = "none";
+	} else localStorage.setItem("stars", "yes");
+	starsToggle.className = `fa-${localStorage.getItem("stars") === "yes" ? "solid" : "regular"} fa-star extra`;
+	starsToggle.onclick = () => {
+		if (localStorage.getItem("stars") !== null) {
+			if (localStorage.getItem("stars") === "yes") localStorage.setItem("stars", "no");
+			else localStorage.setItem("stars", "yes");
+		} else localStorage.setItem("stars", "yes");
+		starsToggle.className = `fa-${localStorage.getItem("stars") === "yes" ? "solid" : "regular"} fa-star extra`;
+		shootingStars.style.display = localStorage.getItem("stars") === "yes" ? null : "none";
+	};
+	const mainPageData = await (await fetch(`/site_data/main_page_data.json`)).json();
+	const updateAnis = document.getElementById("update-anis");
+	updateAnis.onclick = () => {
+		const div = document.createElement("div");
+		div.classList.add("update-anis-bubble");
+		const name = document.createElement("span");
+		name.classList.add("name");
+		name.textContent = `Anis`;
+		const text = document.createElement("span");
+		text.classList.add("text");
+		text.textContent = mainPageData.ver.anisSays;
+		div.appendChild(name);
+		div.appendChild(text);
+		div.style.top = window.innerHeight * .25 + Math.random() * window.innerHeight * .5 + "px";
+		div.style.left = window.innerWidth * .25 + Math.random() * window.innerWidth * .5 + "px";
+		document.body.appendChild(div);
+		setTimeout(() => {
+			div.remove();
+		}, 2100);
+	};
+}
+document.addEventListener("astro:page-load", theEntireScript);
+//#endregion</script><div class="content e-enter"><h1 style="text-align: center; margin-bottom: 0; text-shadow: 0 0 16px black;">Welcome to NKAS: 🎃 SPOOKY 🎃 edition!</h1><p class="sub-text">you're running on NKAS master@<code>f44657</code><br>dp@<code>6abb5d0</code> &bullet; core@<code>152.8.p23</code> &bullet; static@<code>571447</code><br><b>last updated <span id="build-date"></span></b></p><div class="generic-grid"><a href="/nikkes/" class="button-link"><div class="hero-button custom"><img src="/common/ui/icn_nikke.png"><div class="hero-button-content"><b>Nikkes</b><span>Nikkes and their skills.</span></div></div></a><a href="/bestiary/" class="button-link"><div class="hero-button custom"><img src="/common/ui/icn_boss.png"><div class="hero-button-content"><b>Bestiary</b><span>Raptures and their abilities.</span></div></div></a><a href="/battlefield-info/" class="button-link"><div class="hero-button"><i class="fa-solid fa-flag"></i><div class="hero-button-content"><b>Battlefield Info</b><span>Campaign and Tower stages.</span></div></div></a><a href="/jukebox/" class="button-link"><div class="hero-button"><i class="fa-solid fa-music"></i><div class="hero-button-content"><b>Jukebox</b><span>Wanna listen to some tunes?</span></div></div></a><a href="/viewer/" class="button-link"><div class="hero-button"><i class="fa-solid fa-person"></i><div class="hero-button-content"><b>Viewer</b><span>Inspect characters for details.</span></div></div></a><a href="/gallery/" class="button-link"><div class="hero-button"><i class="fa-solid fa-images"></i><div class="hero-button-content"><b>Gallery</b><span>View CGs from cutscenes.</span></div></div></a><a href="/advise/" class="button-link"><div class="hero-button"><i class="fa-solid fa-heart"></i><div class="hero-button-content"><b>Advise</b><span>Good answers and outcomes.</span></div></div></a><a href="/chibi/" class="button-link"><div class="hero-button"><i class="fa-solid fa-person smaller"></i><div class="hero-button-content"><b>Chibi Viewer</b><span>Inspect chibi characters.</span></div></div></a><a href="/data/" class="button-link"><div class="hero-button"><i class="fa-solid fa-database"></i><div class="hero-button-content"><b>Data</b><span>Use NKAS for your projects!</span></div></div></a><a href="/feedback/" class="button-link"><div class="hero-button"><i class="fa-solid fa-comment-dots"></i><div class="hero-button-content"><b>Feedback</b><span>Make NKAS better!</span></div></div></a></div><br><div class="info-card circle-question" data-astro-cid-akds2wd5><i class="fa-solid fa-circle-question" data-astro-cid-akds2wd5></i><span data-astro-cid-akds2wd5><b>You may be wondering why asset updates have been slower. </b>I can't quite promise patch-by-the-hour updates right now since my schedule has me on a chokehold. However, I can assure you updates can occur around the same day or a couple of days after. I apologize for the inconvenience, and to the people who visit NKAS when patches are up, expecting an update.</span></div><h2 style="text-align: center; line-height: 0.8; text-shadow: 0 0 16px black;">Other tools I've made<br><span class="other">and shilling here now (just because)</span></h2><div class="generic-grid twofer"><a href="https://skuqre.github.io/nikke-font-generator/" class="button-link"><div class="hero-button custom"><img src="/common/nfg.png"><div class="hero-button-content"><b>NIKKE Font Generator</b><span>Create fake screenshots with NIKKE interfaces.</span></div></div></a><a href="https://skuqre.itch.io/ultimate-scenario-creator/" class="button-link"><div class="hero-button custom"><img src="/common/usc.svg"><div class="hero-button-content"><b>Ultimate Scenario Creator</b><span>A comprehensive NIKKE Visual Novel engine.</span></div></div></a></div><div class="text-content" style="text-align: center; animation-delay: 0.05s;"><h2>Update Log</h2><br><div class="update-log">
+    <div class="update-entry">
+    <p class="update-date">10-13-2026</p>
+    <div class="update-content"><ul>
+<li><p><a href="/nk_data/colors.json"><code>colors.json</code></a> has been updated to be from direct game data. Now includes skin colors as well. Uses primary color (see colors_comp.json)</p>
+</li>
+<li><p><a href="/nk_data/colors_comp.json"><code>colors_comp.json</code></a> has been added as well, which provides primary (<code>pr</code>), secondary (<code>sc</code>), and view mode (<code>vm</code>) stripe colors. Uses resource IDs for keys instead of names.</p>
+</li>
+<li><p>Will add NPCs as well if demand is enough.</p>
+</li>
+<li><p>Added an Anis that, when clicked, displays what the latest currently added thing there is.</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">10-12-2026</p>
+    <div class="update-content"><p><strong>Chibi Viewer (ALPHA)</strong></p>
+<p>Added the <a href="/chibi/">Chibi Viewer</a>!</p>
+<p>This viewer is massively in an alpha state, so please report bugs and inconsistencies on the <a href="/feedback/">Feedback</a> form or through <a href="https://github.com/skuqre/nkas-issues/issues/new?template=1-bug.yaml">nkas-issues on GitHub</a>!</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">10-08-2026</p>
+    <div class="update-content"><p>wtf did you guys see that 👀</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">10-06-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Added realtime bulk editing. May cause lag if every layer is being edited. Can be disabled.</p>
+</li>
+<li><p>(experimental) Pressing SHIFT on an edit input will make the step by 10s instead of 1s, except for Scale inputs.</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">10-05-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Added the <strong>Miscellaneous</strong> list for all your minigame and other needs.</p>
+<ul>
+<li>This list probably won&#39;t be updated as much as the main lists.</li>
+</ul>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">10-03-2026</p>
+    <div class="update-content"><p><strong>Gallery</strong></p>
+<ul>
+<li>Added download buttons to download individual image and whole gallery ordered in ZIP.</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">10-02-2026</p>
+    <div class="update-content"><p><strong>Jukebox</strong></p>
+<ul>
+<li><p>Added new curated albums.</p>
+<ul>
+<li><p><strong>TRANQUIL TALE</strong>: Calm tracks, not necessarily joyous.</p>
+</li>
+<li><p><strong>PRESSURE POINT</strong>: Tracks that create tension or suspense.</p>
+</li>
+</ul>
+</li>
+<li><p>TORN SOUL and FOREVER HALCYON has been sifted with a new criteria.</p>
+<ul>
+<li><p><strong>TORN SOUL</strong> should now contain the more somber tracks.</p>
+</li>
+<li><p><strong>FOREVER HALCYON</strong> should now contain the more upbeat tracks.</p>
+</li>
+</ul>
+</li>
+<li><p>Curated albums now show album covers instead of track numbers.</p>
+</li>
+<li><p>The theme of Ziz now plays properly with the intro.</p>
+</li>
+<li><p>The bug of Special Omurice not being able to play due to being misnamed has been fixed.</p>
+</li>
+</ul>
+<p><strong>Nikkes</strong></p>
+<ul>
+<li><p>Added Rarity sort (with alphabetical subsort).</p>
+</li>
+<li><p>Sorting now should not affect search results.</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">09-27-2026</p>
+    <div class="update-content"><p><strong>Gallery</strong></p>
+<ul>
+<li><p>Added drag, pan, and zoom controls for Mobile and PC.</p>
+<ul>
+<li>You can reset by double-clicking or double-tapping.</li>
+</ul>
+</li>
+<li><p>Removed swipe to change image on mobile.</p>
+</li>
+<li><p>Updated Main Story Chapter 40+ images that fixed continuity errors and height differences (rip big and tall Anis)</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">09-20-2026</p>
+    <div class="update-content"><p><strong>Battlefield Info</strong></p>
+<p>The game had recently changed the names of the Elites to Exceeds. Why? No idea. The issues with stages not being opened should be fixed now.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">09-19-2026</p>
+    <div class="update-content"><p><strong>Nikkes</strong></p>
+<ul>
+<li><p>Added sorting.</p>
+</li>
+<li><p>Added the &quot;New on Top&quot; feature from Viewer.</p>
+<ul>
+<li>Nikkes with new skins have a red dot instead of the red N-dot.</li>
+</ul>
+</li>
+<li><p>Search states now save per session.</p>
+</li>
+<li><p>Nikkes with skins unavailable for preview now are now inaccessible but still displayed (see <a href="/nikkes/label/">Label</a>)</p>
+</li>
+</ul>
+<p><strong>Bestiary</strong></p>
+<ul>
+<li><p>Search states now save.</p>
+<ul>
+<li><p>Filters and queries are per tab.</p>
+</li>
+<li><p>&quot;New on Top&quot; and sort is persistent across tabs.</p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">09-15-2026</p>
+    <div class="update-content"><p><strong>General</strong></p>
+<ul>
+<li><p>Removed shilling on navbar, now in main page. Now includes NIKKE Font Generator.</p>
+</li>
+<li><p>Changed &quot;last updated&quot; to show your local time and days passed.</p>
+</li>
+</ul>
+<p><strong>Viewer</strong></p>
+<ul>
+<li><p>Changed &quot;Screenshot&quot; to &quot;Download as PNG&quot;, as it was misleading people into thinking the background was included.</p>
+<ul>
+<li>Added additional text that confirms the fact that the background (and stars) are infact not included.</li>
+</ul>
+</li>
+<li><p>UV Layer now takes the actual size of the image.</p>
+<ul>
+<li><em>What went over me designing it not like that before anyway???</em></li>
+</ul>
+</li>
+</ul>
+<p>If you&#39;re still wondering how to disable the stars, look for a star at the top of your screen.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">09-13-2026</p>
+    <div class="update-content"><p><strong>Jukebox</strong></p>
+<ul>
+<li><p>Added a visualizer. Click the magic wand icon next to the volume icon.</p>
+<ul>
+<li><p><strong>This produces <u>intense</u> strobing visuals that may trigger seizures for people with photosensitive epilepsy. Please only toggle if you can withstand viewing flashing lights and visuals.</strong></p>
+</li>
+<li><p>Click the visualizer to switch between presets.</p>
+</li>
+<li><p>Powered by <a href="https://butterchurnviz.com/">Butterchurn</a>.</p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">09-04-2026</p>
+    <div class="update-content"><p><strong>Nikkes</strong></p>
+<ul>
+<li>Added squad affiliations.</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">08-29-2026</p>
+    <div class="update-content"><p><strong>Jukebox</strong></p>
+<ul>
+<li>Added track search.</li>
+</ul>
+<p><strong>General</strong></p>
+<ul>
+<li>Fixed keybinds being persistent across pages, causing some default functions to stop working (e.g. going from Jukebox to Feedback makes the spacebar stop working).</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">08-26-2026</p>
+    <div class="update-content"><p><strong>Jukebox</strong></p>
+<ul>
+<li><p>Fixed the curated album TORN SOUL having tracks meant for ENCOUNTER.</p>
+</li>
+<li><p>Fixed the seekbar not being quite a seekbar on mobile.</p>
+</li>
+</ul>
+<p><strong>Viewer</strong></p>
+<ul>
+<li>Fixed background not being set properly when changed.</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">08-25-2026</p>
+    <div class="update-content"><h2>The Ultimate Redo</h2>
+<p><em>date fixed</em></p>
+<p>The site has been slightly tweaked to look and feel better. You may also notice that the site is now incredibly green.</p>
+<p>Also added new stuff!</p>
+<ul>
+<li><p><a href="/nikkes/"><strong>Nikkes</strong></a>: You can now view Nikke information and advise sessions directly through NKAS.</p>
+</li>
+<li><p><a href="/advise/"><strong>Advises</strong></a>: Easily search for advise answers!</p>
+</li>
+</ul>
+<p>Fixes!</p>
+<ul>
+<li><p><a href="/viewer/"><strong>Viewer</strong></a>: Zooming with pinching/spreading on mobile is now much more uniform.</p>
+</li>
+<li><p><a href="/gallery/"><strong>Gallery</strong></a>: Essentially much more polished now.</p>
+</li>
+<li><p><a href="/bestiary/"><strong>Bestiary</strong></a>:</p>
+<ul>
+<li><p>Now spelt correctly.</p>
+</li>
+<li><p><strong>3D PREVIEWS</strong>! Of course, some Raptures still look bugged visual-wise, but is a big feature! You can tilt and move them around to inspect them.</p>
+<ul>
+<li>If you&#39;d like a &quot;Rapture Viewer&quot; of some sort, toss it over to <a href="/feedback/">feedback</a>!</li>
+</ul>
+</li>
+<li><p>Data related to this page <em>will still be served under</em> <code>beastiary</code>.</p>
+</li>
+<li><p><a href="https://nkas.pages.dev/beastiary/">https://nkas.pages.dev/beastiary/</a> now automatically redirects to <code>/bestiary/</code>.</p>
+</li>
+</ul>
+</li>
+<li><p><a href="/jukebox/"><strong>Jukebox</strong></a>:</p>
+<ul>
+<li><p>Remade from the ground up.</p>
+</li>
+<li><p>Composer credits are now in the main page, with each composer being their own album.</p>
+</li>
+<li><p>Tracks played in Curated Albums will now take form of their actual album.</p>
+</li>
+<li><p>Added volume slider.</p>
+</li>
+<li><p>Added the ability to directly download tracks and whole albums.</p>
+</li>
+<li><p>Improved interface by like tenfold.</p>
+</li>
+<li><p>Improved transitions for songs that are split with intro + looping tracks.</p>
+</li>
+<li><p>Improved transitions when playing the next song.</p>
+</li>
+</ul>
+</li>
+<li><p><a href="/jukebox/"><strong>Battlefield Info</strong></a>:</p>
+<ul>
+<li><p>Added Tower stages.</p>
+</li>
+<li><p>Added Rapture stats.</p>
+</li>
+<li><p>Improved interface.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>This entire update may be buggy. As always, report issues ASAP in <a href="https://github.com/skuqre/nkas-issues/issues/new/choose/">nkas-issues</a> or in <a href="/feedback/">Feedback</a>.</p>
+<p>Thank you for visiting NKAS!</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">08-14-2026</p>
+    <div class="update-content"><p>Data is back up to latest.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">08-13-2026</p>
+    <div class="update-content"><p><del>NKAS at static@552965 is currently incomplete for data (stages and whatnot). Viewer should be fine though. If the static version isn&#39;t at 552965, you can safely ignore this log.</del></p>
+<p><del>It will take a while longer than usual when I&#39;ll update for this. I apologize for the inconvenience!</del></p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-28-2026</p>
+    <div class="update-content"><p>Updates may be less &quot;immediate&quot; from now on. Expect updates on patch days to be quite later than usual. Thank you!</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-23-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Improvements to Copy as Link -- added the ability to share everything in the lists as links.</p>
+</li>
+<li><p>You can now see the full name of the model when its truncated simply by hovering over it in the list.</p>
+</li>
+<li><p>Improvements to layout shifts. Should be smoother now.</p>
+</li>
+<li><p>Treasure models now work consistently, even with asynchronous animations.</p>
+<ul>
+<li><p>The animation list will now be hidden for two animations, Idle and Tap. That way, you don&#39;t have to set individual animation for each extra model.</p>
+</li>
+<li><p>You can now scrub the timeline properly for treasures with asynchronous animations like Helm and Miranda.</p>
+</li>
+<li><p>While this was somewhat thoroughly tested, I may have forgotten a foreground or two. Please let me know if issues arise!</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>I accidentally pushed to the main NKAS website first before the L2D storage was done. Sorry!</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-22-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Added changes to address <a href="https://github.com/skuqre/nkas-issues/issues/3">nkas-issues#3</a>.</p>
+<ul>
+<li>There may be issues with this, so please let me know if you encounter any!</li>
+</ul>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-19-2026</p>
+    <div class="update-content"><p><strong>Gallery</strong></p>
+<ul>
+<li>Improved keybind responsiveness.</li>
+</ul>
+<p><strong>Viewer</strong></p>
+<ul>
+<li><p>Added keybinds. Click on the &quot;Keybinds&quot; dropdown on the right panel.</p>
+</li>
+<li><p>Buttons for model type now actually work properly when disabling and enabling.</p>
+</li>
+<li><p><strong>Post mortem</strong>: Fixed the keybinds blocking LITERALLY anything. Sorry!</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-17-2026</p>
+    <div class="update-content"><p>Added the <a href="/data/">Data</a> page.</p>
+<ul>
+<li>If you&#39;re a developer that wants to use NKAS&#39;s data, here&#39;s a more in-depth documentation!</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-08-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Added toggles for BG and FG extras</p>
+</li>
+<li><p>Added a toggle to sort by newly added models for all lists</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-05-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Added the extra layers for some models.</p>
+<ul>
+<li>Some models are now compositions of multiple Spine models! This actually started from Favorite CGs, to newer models like Anis: Star - T.T. STAR and Anis: Star - Starlight.</li>
+</ul>
+</li>
+<li><p>Extra layers will now play if an equivalent of it exists from the actual character layer.</p>
+</li>
+</ul>
+<p><strong>Other</strong></p>
+<ul>
+<li>Reexported some images from <code>characters_hq/</code></li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">05-29-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Layer system revamped (again).</p>
+<ul>
+<li><p>Fixes <a href="https://github.com/skuqre/nkas-issues/issues/4">nkas-issues#4</a></p>
+</li>
+<li><p><strong>FOR USC USERS: Exported USC layers will not work for now; this new layer system is already implemented for v1.7.0, but no migration is implemented.</strong></p>
+</li>
+</ul>
+</li>
+<li><p>Added Bulk Edit!</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">05-29-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Removed the higher quality scales.</p>
+<ul>
+<li><p>Out of people&#39;s curiosity, they will try what 8x and 16x are. They were added out of fun, really.</p>
+</li>
+<li><p>What Quality Scale does is change to a higher render size relative to your screen&#39;s resolution.</p>
+</li>
+<li><p>So 2x is <strong>twice</strong> the screen size, 1x is just the screen size, and so on...</p>
+</li>
+<li><p>Now ask yourself what setting it to 16x does...</p>
+</li>
+<li><p>Oh right, this also resets the setting.</p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">05-29-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Filters have been added! You can now easily investigate for veins in the Viewer.</p>
+<ul>
+<li>Duly note that this does not affect exporting, so when you export images/gifs, they will look normal.</li>
+</ul>
+</li>
+<li><p>GIF Exporting has been massively improved with FFmpeg!</p>
+<ul>
+<li><p>I don&#39;t know if people want advanced settings for this, but if you do, tell me through <a href="https://github.com/skuqre/nkas-issues/issues">nkas-issues</a> or the <a href="/feedback/">Feedback Form</a>.</p>
+</li>
+<li><p>But if you do want higher control for now, consider using the &quot;Download as Frames&quot; option and using FFmpeg with those instead.</p>
+</li>
+</ul>
+</li>
+<li><p>For exports with framerates, you can now set a custom framerate.</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">05-17-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li>Characters have now been reexported and redone in a different way. If there are issues, please let me know.</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">05-04-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>(experimental) You can now toggle pieces through the UV Viewer. Even download the modified page for it, too.</p>
+<ul>
+<li>Be sure to report bugs at <a href="https://github.com/skuqre/nkas-issues/issues">nkas-issues</a> or at the <a href="/feedback/">Feedback Form</a>.</li>
+</ul>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">04-23-2026</p>
+    <div class="update-content"><p><strong>Jukebox</strong></p>
+<ul>
+<li>Most audio files have been recompressed to 320kbps MP3! Songs should sound better now.</li>
+</ul>
+<p><strong>Gallery</strong></p>
+<ul>
+<li><p>Updated the organization for the Events category, they are now separated</p>
+</li>
+<li><p>Changed the carousel at the bottom to actually display the images</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">04-11-2026</p>
+    <div class="update-content"><p><strong>Jukebox</strong></p>
+<ul>
+<li><p>The &quot;TORN SOUL&quot; album now contains some new tracks (50 -&gt; 80)! Several tracks have been removed as well to fit a new criteria.</p>
+</li>
+<li><p>Other albums will also be updated in the meanwhile. Please wait!</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">03-09-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Event scenes get a massive reorganization</p>
+<ul>
+<li><p>Missing images have been fixed with fallback images</p>
+</li>
+<li><p>Some event scenes have been renamed to in-game names</p>
+</li>
+<li><p>Some unnamed event scenes have been renamed to less cleverer names</p>
+</li>
+</ul>
+</li>
+<li><p>Gatekeeper&#39;s other elements have been added</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">03-08-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Rehauled how images are screenshot.</p>
+</li>
+<li><p>Also retook all images in <code>characters_hq/</code>.</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">03-01-2026</p>
+    <div class="update-content"><p><strong>Battlefield Info</strong></p>
+<ul>
+<li><p>Full revamp!</p>
+</li>
+<li><p>Added the ability to get deficits across all stages</p>
+</li>
+<li><p>Redid the interface for scrutinizing a stage</p>
+</li>
+<li><p>Added the ability to view what the weak elements are in a stage</p>
+</li>
+<li><p>The whole purpose of this update is to make the functions more inline with my Discord bot, Anisé.</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">02-12-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li>Favorites are now sorted in <strong>release order</strong> rather than Character ID order.</li>
+</ul>
+<p><strong>Jukebox</strong></p>
+<ul>
+<li>Songs that are next to play are now preloaded. Smooth transitions be damned.</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">01-26-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li>Improved how Burst images are displayed</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">01-18-2026</p>
+    <div class="update-content"><p><strong>Viewer</strong></p>
+<ul>
+<li><p>Bursts are now available in the <a href="/viewer/">Viewer</a>.</p>
+<ul>
+<li><p>Most of them look incomplete, either lacking backgrounds or effects.</p>
+</li>
+<li><p>There may be issues with some, so if you do find these issues, please shout it immediately at <a href="https://github.com/skuqre/nkas-issues/issues">nkas-issues</a> or at the <a href="/feedback/">Feedback Form</a>.</p>
+</li>
+</ul>
+</li>
+<li><p>Event Scenes have been updated</p>
+</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">01-16-2026</p>
+    <div class="update-content"><p><strong>Jukebox Credits</strong></p>
+<ul>
+<li><p>The <a href="/jukebox/">Jukebox</a> now has a <a href="/jukebox/credits/">Credits</a> page!</p>
+</li>
+<li><p>This page lists every composer, how many tracks they&#39;ve worked on, and the tracks they&#39;ve worked on!</p>
+</li>
+</ul>
+<p><strong>Acknowledged Feedback</strong></p>
+<ul>
+<li>The <a href="/feedback/">Feedback</a> page now has an &quot;Acknowledged Feedback&quot; section to let you know I actually read them.</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">01-08-2026</p>
+    <div class="update-content"><p><strong><a href="/viewer/">Viewer</a> updates!</strong></p>
+<ul>
+<li><p>Revamped the Layer Editor (for USC testers: it is now similar to USC&#39;s layer editor)</p>
+</li>
+<li><p>Now takes in slots instead of raw attachments</p>
+</li>
+<li><p>Uncapped color inputs</p>
+</li>
+<li><p>Added importing and exporting. <strong>The files exported by this does not work on NIKKE-DB! NIKKE-DB does not work either when importing!</strong></p>
+</li>
+<li><p>Updated language for UVs (triangles -&gt; UVs, essentially)</p>
+</li>
+</ul>
+<p><strong>General</strong></p>
+<ul>
+<li>Updated scrollbars to be better on most browsers</li>
+</ul>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">12-07-2025</p>
+    <div class="update-content"><p>Updated the <a href="/gallery/">Gallery</a> to have better preloading.</p>
+<p>It now will preload the next and previous image instead of preloading the whole gallery.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">12-01-2025</p>
+    <div class="update-content"><p>Updated this update log system to be better. It&#39;s a <a href="/site_data/main_page_data.json">JSON</a> now.</p>
+<p>Oh yeah i also changed the layout but nobody cares about that i think</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">11-30-2025</p>
+    <div class="update-content"><p>By popular demand, the <a href="/gallery/">Gallery</a> has been added.</p>
+<p>Maybe buggy since it&#39;s rushed in a day, but it&#39;s fine.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">11-21-2025</p>
+    <div class="update-content"><p>Added <strong>CURATED ALBUMS</strong>!<br></p>
+<ul>
+<li><p><a href="https://nkas.pages.dev/jukebox/?a=99999990"><strong>BOSS RUSH</strong></a> - Should be all of the Boss tracks? Most of them should be there.</p>
+</li>
+<li><p><a href="https://nkas.pages.dev/jukebox/?a=99999991"><strong>FOREVER HALCYON</strong></a> - Mostly delightful tracks, either happy, joyous, or chill.</p>
+</li>
+<li><p><a href="https://nkas.pages.dev/jukebox/?a=99999992"><strong>TORN SOUL</strong></a> - Tracks that may have or may have not made me cry at times.</p>
+</li>
+</ul>
+<p>These are some songs I listen to on the daily that I just clumped together in an album.<br></p>
+<p>If you have a suggestion, and is able to contact me in some kind of way, don&#39;t hesitate to let me know.</p>
+<p><em>oh yeah, I&#39;ll also add more albums, what&#39;s coming next is Battle Mixes!</em></p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">11-20-2025</p>
+    <div class="update-content"><p>Apparently, the Beastiary had some issues on compile time, getting the wrong data when building the page.<br></p>
+<p>I also had errors with my parser, taking in &quot;summoned&quot; Raptures rather than actual on-field Raptures.</p>
+<p>Thanks to MochiNekoRyu from Discord for pointing this out!</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">11-04-2025</p>
+    <div class="update-content"><p><strong>L2D Viewer -&gt; Viewer</strong><br></p>
+<p>Let me address the somewhat weirdly shaped elephant in the room.</p>
+<p>The game does not use <a href="https://www.live2d.com/en/">Live2D Cubism</a>. It uses <a href="https://esotericsoftware.com/">Spine</a>. The game using Live 2D is such a common misconception I just decided to use the term. But it kind of hurts.</p>
+<p>So the &quot;L2D Viewer&quot; has been renamed to just &quot;<a href="/viewer/">Viewer</a>.&quot; &quot;Spine Viewer&quot; doesn&#39;t really roll off the tongue does it?</p>
+<br>
+
+<p><strong>Jukebox (ALPHA)</strong><br></p>
+<p>I introduce: the Jukebox!</p>
+<p>Right now, it&#39;s barely functional. But I plan to add things like playlists, history, and all that soon.</p>
+<p><em>This has been available in the dev branch for a long time... Though, this branch will be retired.</em></p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">08-14-2025</p>
+    <div class="update-content"><p><strong>Sunsetting Chinese Assets</strong></p>
+<p>I have removed the Chinese assets due to really not being able to be updated. The whole thing is a storage hog, which leaves less for future content from Global. I&#39;m sorry, and I hope you understand where I&#39;m going with this.</p>
+<p>Just hope someone in CN has the ability to store them on their own. Which honestly, given how the CN version is built, it&#39;s not impossible.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">04-24-2025</p>
+    <div class="update-content"><p>This site does get updated a lot! It&#39;s just not being written here because they&#39;re basic additions!</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">02-03-2025</p>
+    <div class="update-content"><p>Added, then removed the Gallery.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">01-29-2025</p>
+    <div class="update-content"><p>Added the <a href="/viewer/">Viewer</a>.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-30-2024</p>
+    <div class="update-content"><p>Added the <a href="/beastiary/">Beastiary</a>.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-29-2024</p>
+    <div class="update-content"><p>Added a homepage.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-26-2024</p>
+    <div class="update-content"><p><a href="https://skuqre.github.io/rb-anise/">Rebuild Anisé</a> now fully uses NKAS.</p>
+</div>
+    </div>
+    
+    <div class="update-entry">
+    <p class="update-date">07-22-2024</p>
+    <div class="update-content"><p>The website was made at this date.</p>
+</div>
+    </div>
+    </div></div><br><img src="/anis.gif" height="120" style="margin: auto; display: block;" class="e-enter" loading="lazy" alt="Anis dancing"><span class="other fullwidth" style="text-align: center; display: block;">anis dancing</span><br><span class="other fullwidth" style="text-align: center; display: block;">don't like the slide-in animation for every page?</span><span class="other fullwidth" style="text-align: center; display: block;"><label for="off-slide"><input autocomplete="off" type="checkbox" name="off-slide" oninput="localStorage.setItem('slide-off', this.checked)" id="slide-off">tick this to turn it off</label></span></div><div data-astro-transition-persist="astro-cdto6mur-5" class="footer" data-astro-cid-jo6i4kqk><div class="footer-inner" data-astro-cid-jo6i4kqk><div data-astro-cid-jo6i4kqk>NKAS, an asset storage maintained by <a href="https://skuqre.github.io/" data-astro-cid-jo6i4kqk>skuqre</a> &bullet; <a href="/credits/" data-astro-cid-jo6i4kqk>Credits</a> &bullet; <a href="https://github.com/skuqre/nkas-issues/issues/new/choose/" data-astro-cid-jo6i4kqk>Report an issue</a></div></div></div><script data-astro-rerun>
+    // @ts-nocheck
+    function theEntireScript() {
+        const slideOff = document.getElementById("slide-off");
+        if (slideOff) {
+            slideOff.checked = localStorage.getItem('slide-off') === "true";
+        }
+
+        if (localStorage.getItem('slide-off') === "true") {
+            document.body.classList.add("no-slide");
+        }
+    }
+
+    document.addEventListener("astro:page-load", theEntireScript);
+</script><script>(function(){const buildDate = "2026-10-13T18:13:31.620Z";
+
+            async function theEntireScript() {
+                if (!document.getElementById("build-date")) return;
+                const build = new Date(buildDate);
+
+                const dateTime = build.toLocaleString(undefined, {
+                    dateStyle: "medium",
+                    timeStyle: "short"
+                });
+
+                const timeZone = new Intl.DateTimeFormat(undefined, {
+                    timeZoneName: "short"
+                }).formatToParts(build).find(p => p.type === "timeZoneName")?.value ?? "";
+
+                const now = new Date();
+                const msPerDay = 1000 * 60 * 60 * 24;
+                const startOfBuild = new Date(build.getFullYear(), build.getMonth(), build.getDate());
+                const startOfNow = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+                const daysElapsed = Math.round((startOfNow - startOfBuild) / msPerDay);
+
+                const rtf = new Intl.RelativeTimeFormat(undefined, { numeric: "auto" });
+                const relativeDays = rtf.format(-daysElapsed, "day");
+                document.getElementById("build-date").textContent = `${dateTime} ${timeZone} (${relativeDays})`;
+            }
+
+            document.addEventListener("astro:page-load", theEntireScript);
+        })();</script><!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "74fd259ebc1e474a90627ee53d0dafbb"}'></script><!-- Cloudflare Pages Analytics --></body></html>

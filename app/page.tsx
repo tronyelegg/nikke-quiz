@@ -3,8 +3,9 @@
 import { useState, useMemo, useEffect } from 'react';
 import nikkesData from '../src/data/nikkes.json';
 
+// 💡 [수정] 'all' 모드 추가
 type GameState = 'menu' | 'playing';
-type GroupMode = 'company' | 'burst' | 'element' | 'release' | 'weapon';
+type GroupMode = 'all' | 'company' | 'burst' | 'element' | 'release' | 'weapon';
 type Language = 'ko' | 'en' | 'ja';
 
 const uiText = {
@@ -22,7 +23,7 @@ const uiText = {
   },
   ja: {
     title: "ニケクイズ", startAll: "全ニケを当てる", selectMode: "カテゴリ選択",
-    modes: { company: "企業別", burst: "バースト別", element: "コード別", release: "実装年別", weapon: "武器종별" },
+    modes: { company: "企業別", burst: "バースト別", element: "コード別", release: "実装年別", weapon: "武器種別" },
     giveUp: "諦める / メニュー", inputLabel: "ニケの名前:", placeholder: "名前を入力...",
     dark: "ダーク", light: "ライト", audioOn: "音声 ON", audioOff: "音声 OFF", shadowOn: "シルエット ON", shadowOff: "シルエット OFF",
   }
@@ -30,6 +31,11 @@ const uiText = {
 
 const translateTerm = (term: string, lang: Language) => {
   if (!term) return 'Unknown';
+
+  // 💡 [수정] ALL 모드 및 ALL 버스트 예외 처리 번역
+  if (term === 'All') return lang === 'ko' ? '모든 니케 (출시순)' : lang === 'ja' ? '全ニケ (実装順)' : 'All Nikkes (Release Order)';
+  if (term === 'ALL Burst') return lang === 'ko' ? '올 버스트' : lang === 'ja' ? 'オール バースト' : 'ALL BURST';
+
   if (term.includes('Burst')) return term.replace('Burst', lang === 'ko' ? '버스트' : lang === 'ja' ? 'バースト' : 'Burst');
   if (term.includes('Release')) return term.replace('Release', lang === 'ko' ? '년 출시' : lang === 'ja' ? '年 実装' : ' Release');
 
@@ -38,14 +44,14 @@ const translateTerm = (term: string, lang: Language) => {
     "MISSILIS": { ko: "미실리스", en: "Missilis", ja: "ミシリス" },
     "TETRA": { ko: "테트라", en: "Tetra", ja: "テトラ" },
     "PILGRIM": { ko: "필그림", en: "Pilgrim", ja: "ピルグリム" },
-    "ABNORMAL": { ko: "어브노멀", en: "Abnormal", ja: "アブノーマル" },
+    "ABNORMAL": { ko: "앱노멀", en: "Abnormal", ja: "アブノーマル" },
     "Fire": { ko: "작열 (Fire)", en: "Fire", ja: "灼熱 (Fire)" },
     "Water": { ko: "수냉 (Water)", en: "Water", ja: "水冷 (Water)" },
     "Wind": { ko: "풍압 (Wind)", en: "Wind", ja: "風圧 (Wind)" },
     "Iron": { ko: "철갑 (Iron)", en: "Iron", ja: "鉄甲 (Iron)" },
     "Electric": { ko: "전격 (Electric)", en: "Electric", ja: "電撃 (Electric)" },
     "SG": { ko: "샷건 (SG)", en: "Shotgun (SG)", ja: "ショットガン (SG)" },
-    "SMG": { ko: "기관단총 (SMG)", en: "Sub Machine Gun (SMG)", ja: "サブマシンガン (SMG)" },
+    "SMG": { ko: "기관단총 (SMG)", en: "SMG", ja: "サブマシンガン (SMG)" },
     "AR": { ko: "소총 (AR)", en: "Assault Rifle (AR)", ja: "アサルトライフル (AR)" },
     "MG": { ko: "머신건 (MG)", en: "Machine Gun (MG)", ja: "マシンガン (MG)" },
     "SR": { ko: "저격소총 (SR)", en: "Sniper Rifle (SR)", ja: "スナイパーライフル (SR)" },
@@ -108,14 +114,27 @@ export default function Home() {
 
     const groups = sortedNikkes.reduce((acc: Record<string, typeof nikkesData>, nikke: any) => {
       let key = '기타';
-      if (groupMode === 'company') key = nikke.company || '기타';
-      else if (groupMode === 'burst') {
-        const burstNum = String(nikke.burst).replace(/[^0-9]/g, '');
-        key = burstNum ? `${burstNum} Burst` : 'ALL 버스트';
+      
+      // 💡 [수정] 전체 보기 모드일 때는 모두 'All' 이라는 단일 그룹으로 묶음
+      if (groupMode === 'all') {
+        key = 'All';
+      } else if (groupMode === 'company') {
+        key = nikke.company || '기타';
+      } else if (groupMode === 'burst') {
+        // 💡 [수정] 레드후드 등 ALL 버스트 예외 처리
+        if (String(nikke.burst).toUpperCase() === 'ALL') {
+          key = 'ALL Burst';
+        } else {
+          const burstNum = String(nikke.burst).replace(/[^0-9]/g, '');
+          key = burstNum ? `${burstNum} Burst` : '기타';
+        }
+      } else if (groupMode === 'element') {
+        key = nikke.element || '기타';
+      } else if (groupMode === 'release') {
+        key = nikke.releaseDate ? `${nikke.releaseDate.substring(0, 4)} Release` : 'Unknown';
+      } else if (groupMode === 'weapon') {
+        key = nikke.weaponType || '기타';
       }
-      else if (groupMode === 'element') key = nikke.element || '기타';
-      else if (groupMode === 'release') key = nikke.releaseDate ? `${nikke.releaseDate.substring(0, 4)} Release` : 'Unknown';
-      else if (groupMode === 'weapon') key = nikke.weaponType || '기타';
 
       if (!acc[key]) acc[key] = [];
       acc[key].push(nikke);
@@ -183,13 +202,14 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center grow max-w-2xl mx-auto w-full pb-20">
             <h1 className="text-5xl font-black text-white mb-12 drop-shadow-lg tracking-wider text-center">{t.title}</h1>
             <div className="flex flex-col items-center space-y-6 w-full">
-              <button onClick={() => startGame('company')} className="w-64 py-6 bg-[#8ab661] hover:bg-[#9ccb6f] dark:bg-[#5b803a] dark:hover:bg-[#6c9846] text-white font-bold text-2xl transition-all shadow-lg hover:-translate-y-1 rounded-tl-3xl rounded-br-3xl rounded-tr-md rounded-bl-md">
+              {/* 💡 [수정] 모든 니케 맞추기 버튼 클릭 시 'all' 모드로 실행되게 변경 */}
+              <button onClick={() => startGame('all')} className="w-64 py-6 bg-[#8ab661] hover:bg-[#9ccb6f] dark:bg-[#5b803a] dark:hover:bg-[#6c9846] text-white font-bold text-2xl transition-all shadow-lg hover:-translate-y-1 rounded-tl-3xl rounded-br-3xl rounded-tr-md rounded-bl-md">
                 {t.startAll}
               </button>
               <div className="w-full border-t border-white/20 my-4"></div>
               <h2 className="text-white/80 font-bold mb-2">{t.selectMode}</h2>
               <div className="flex flex-wrap justify-center gap-4 w-full">
-                {(Object.keys(t.modes) as GroupMode[]).map((mode) => (
+                {(Object.keys(t.modes) as Exclude<GroupMode, 'all'>[]).map((mode) => (
                   <button key={mode} onClick={() => startGame(mode)} className="py-4 px-6 min-w-[120px] bg-[#8ab661] hover:bg-[#9ccb6f] dark:bg-[#5b803a] dark:hover:bg-[#6c9846] text-white font-bold text-lg transition-all shadow hover:shadow-lg rounded-tl-3xl rounded-br-3xl rounded-tr-md rounded-bl-md">
                     {t.modes[mode as keyof typeof t.modes]}
                   </button>
@@ -207,9 +227,14 @@ export default function Home() {
             <div className="bg-[#8ab661] dark:bg-[#5b803a] text-white px-6 py-2.5 rounded-lg shadow-md font-bold text-lg whitespace-nowrap shrink-0 transition-colors">
               {answeredIds.length} / {nikkesData.length}
             </div>
+            
+            {/* 💡 [수정] 상단 상태 표시줄에 'all' 모드일 경우 별도 텍스트 표기 */}
             <div className="bg-[#4a5c39] dark:bg-gray-900 text-white/90 px-6 py-3 rounded-lg text-sm font-bold flex items-center justify-center whitespace-nowrap shadow-md shrink-0 transition-colors">
-              {t.modes[groupMode as keyof typeof t.modes]}
+              {groupMode === 'all' 
+                ? (lang === 'ko' ? '모든 니케' : lang === 'ja' ? '全ニケ' : 'All Nikkes') 
+                : t.modes[groupMode as keyof typeof t.modes]}
             </div>
+
             <div className="flex bg-[#8ab661] dark:bg-[#5b803a] rounded-lg shadow-md overflow-hidden border-2 border-[#8ab661] dark:border-[#5b803a] grow min-w-[250px] transition-colors">
               <div className="bg-[#4a5c39] dark:bg-gray-900 text-white px-4 py-3 font-bold flex items-center whitespace-nowrap transition-colors">
                 {t.inputLabel}
@@ -222,13 +247,18 @@ export default function Home() {
           </div>
 
           <div className="max-w-7xl mx-auto mt-6">
-            <div className="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-4">
+            {/* 💡 [수정] 'all' 모드일 때는 다단(columns) 레이아웃 해제하고 하나로 꽉 채움 */}
+            <div className={groupMode === 'all' ? "w-full" : "columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-4"}>
               {groupedNikkes.map(([groupTitle, nikkes]) => (
-                <div key={groupTitle} className="break-inside-avoid bg-white dark:bg-gray-900 rounded-xl p-4 mb-4 shadow-sm border border-gray-200 dark:border-gray-700 transition-colors">
+                
+                // 💡 [수정] 'all' 모드일 때는 블록 내부 잘림 방지(break-inside-avoid) 해제하여 부드럽게 감싸지게 함
+                <div key={groupTitle} className={`bg-white dark:bg-gray-900 rounded-xl p-4 mb-4 shadow-sm border border-gray-200 dark:border-gray-700 transition-colors ${groupMode === 'all' ? '' : 'break-inside-avoid'}`}>
+                  
                   <h2 className="text-sm text-gray-600 dark:text-gray-300 mb-3 font-bold border-b dark:border-gray-700 pb-1 flex justify-between transition-colors">
                     <span>{translateTerm(groupTitle, lang)}</span>
                     <span className="text-gray-400 text-xs font-normal">({nikkes.filter((n:any)=>answeredIds.includes(n.id)).length}/{nikkes.length})</span>
                   </h2>
+                  
                   <div className="flex flex-wrap gap-1.5">
                     {nikkes.map((nikke: any) => {
                       const isAnswered = answeredIds.includes(nikke.id);
@@ -238,7 +268,6 @@ export default function Home() {
                           {isAnswered ? (
                             <img src={`/${nikke.image}`} alt={displayName} className="w-full h-full object-cover rounded bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-600 shadow-sm animate-fade-in transition-colors" />
                           ) : isShadowOn ? (
-                            // 💡 [수정] 다크모드일 때 검정 대신 흰색반전(dark:invert) + 투명도 조절로 회색빛 고대비 실루엣 처리
                             <img 
                               src={`/${nikke.image}`} 
                               alt="silhouette" 

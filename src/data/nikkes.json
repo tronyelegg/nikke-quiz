@@ -15,7 +15,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Emma.png",
-    "sound": "data/audio/voice/엠마.wav",
+    "sound": "data/audio/voice/엠마.mp3",
     "weaponType": "MG",
     "nameEn": "Emma",
     "nameJa": "エマ"
@@ -36,7 +36,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Privaty.png",
-    "sound": "data/audio/voice/프리바티.wav",
+    "sound": "data/audio/voice/프리바티.mp3",
     "weaponType": "AR",
     "nameEn": "Privaty",
     "nameJa": "プリバティ"
@@ -57,7 +57,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Signal.png",
-    "sound": "data/audio/voice/시그널.wav",
+    "sound": "data/audio/voice/시그널.mp3",
     "weaponType": "SMG",
     "nameEn": "Signal",
     "nameJa": "シグナル"
@@ -78,7 +78,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Poli.png",
-    "sound": "data/audio/voice/폴리.wav",
+    "sound": "data/audio/voice/폴리.mp3",
     "weaponType": "SG",
     "nameEn": "Poli",
     "nameJa": "ポリ"
@@ -99,7 +99,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Miranda.png",
-    "sound": "data/audio/voice/미란다.wav",
+    "sound": "data/audio/voice/미란다.mp3",
     "weaponType": "SMG",
     "nameEn": "Miranda",
     "nameJa": "ミランダ"
@@ -120,7 +120,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Brid.png",
-    "sound": "data/audio/voice/브리드.wav",
+    "sound": "data/audio/voice/브리드.mp3",
     "weaponType": "AR",
     "nameEn": "Brid",
     "nameJa": "ブリッド"
@@ -141,7 +141,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Soline.png",
-    "sound": "data/audio/voice/솔린.wav",
+    "sound": "data/audio/voice/솔린.mp3",
     "weaponType": "SMG",
     "nameEn": "Soline",
     "nameJa": "ソリン"
@@ -162,7 +162,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Diesel.png",
-    "sound": "data/audio/voice/디젤.wav",
+    "sound": "data/audio/voice/디젤.mp3",
     "weaponType": "MG",
     "nameEn": "Diesel",
     "nameJa": "ディーゼル"
@@ -183,7 +183,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Vesti.png",
-    "sound": "data/audio/voice/베스티.wav",
+    "sound": "data/audio/voice/베스티.mp3",
     "weaponType": "RL",
     "nameEn": "Vesti",
     "nameJa": "ベスティー"
@@ -204,7 +204,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Eunhwa.png",
-    "sound": "data/audio/voice/은화.wav",
+    "sound": "data/audio/voice/은화.mp3",
     "weaponType": "SR",
     "nameEn": "Eunhwa",
     "nameJa": "ウンファ"
@@ -225,7 +225,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Guillotine.png",
-    "sound": "data/audio/voice/길로틴.wav",
+    "sound": "data/audio/voice/길로틴.mp3",
     "weaponType": "MG",
     "nameEn": "Guillotine",
     "nameJa": "ギロチン"
@@ -246,7 +246,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Maiden.png",
-    "sound": "data/audio/voice/메이든.wav",
+    "sound": "data/audio/voice/메이든.mp3",
     "weaponType": "SG",
     "nameEn": "Maiden",
     "nameJa": "メイデン"
@@ -267,7 +267,7 @@
     "releaseOrder": "17",
     "releaseDate": "2023-04-13",
     "image": "data/image/nikke/D.png",
-    "sound": "data/audio/voice/D.wav",
+    "sound": "data/audio/voice/D.mp3",
     "weaponType": "SMG",
     "nameEn": "D",
     "nameJa": "D"
@@ -288,7 +288,7 @@
     "releaseOrder": "1",
     "releaseDate": "2022-11-10",
     "image": "data/image/nikke/Helm.png",
-    "sound": "data/audio/voice/헬름.wav",
+    "sound": "data/audio/voice/헬름.mp3",
     "weaponType": "SR",
     "nameEn": "Helm",
     "nameJa": "ヘルム"
@@ -309,7 +309,7 @@
     "releaseOrder": "24",
     "releaseDate": "2023-06-22",
     "image": "data/image/nikke/Neon_ Blue Ocean.png",
-    "sound": "data/audio/voice/네온 : 블루 오션.wav",
+    "sound": "data/audio/voice/네온_블루오션.mp3",
     "weaponType": "MG",
     "nameEn": "Neon: Blue Ocean",
     "nameJa": "ネオン：ブルーオーシャン"
@@ -330,7 +330,7 @@
     "releaseOrder": "26",
     "releaseDate": "2023-07-20",
     "image": "data/image/nikke/Mast.png",
-    "sound": "data/audio/voice/마스트.wav",
+    "sound": "data/audio/voice/마스트.mp3",
     "weaponType": "SMG",
     "nameEn": "Mast",
     "nameJa": "マスト"
@@ -351,7 +351,7 @@
     "releaseOrder": "29",
     "releaseDate": "2023-08-10",
     "image": "data/image/nikke/Helm_ Aquamarine.png",
-    "sound": "data/audio/voice/헬름 : 아쿠아마린.wav",
+    "sound": "data/audio/voice/헬름_아쿠아마린.mp3",
     "weaponType": "AR",
     "nameEn": "Helm: Aquamarine",
     "nameJa": "ヘルム：アクアマリン"
@@ -372,7 +372,7 @@
     "releaseOrder": "30",
     "releaseDate": "2023-09-21",
     "image": "data/image/nikke/Marciana.png",
-    "sound": "data/audio/voice/마르차나.wav",
+    "sound": "data/audio/voice/마르차나.mp3",
     "weaponType": "SG",
     "nameEn": "Marciana",
     "nameJa": "マルチャーナ"
@@ -393,7 +393,7 @@
     "releaseOrder": "33",
     "releaseDate": "2023-10-19",
     "image": "data/image/nikke/Quiry.png",
-    "sound": "data/audio/voice/키리.wav",
+    "sound": "data/audio/voice/키리.mp3",
     "weaponType": "RL",
     "nameEn": "Quiry",
     "nameJa": "キリ"
@@ -414,7 +414,7 @@
     "releaseOrder": "42",
     "releaseDate": "2024-02-05",
     "image": "data/image/nikke/Privaty_ Unkind Maid.png",
-    "sound": "data/audio/voice/프리바티 : 언카인드 메이드.wav",
+    "sound": "data/audio/voice/프리바티_언카인드메이드.mp3",
     "weaponType": "SG",
     "nameEn": "Privaty: Unkind Maid",
     "nameJa": "プリバティ：アンカインド・メイド"
@@ -435,7 +435,7 @@
     "releaseOrder": "45",
     "releaseDate": "2024-03-07",
     "image": "data/image/nikke/D_ Killer Wife.png",
-    "sound": "data/audio/voice/D : 킬러 와이프.wav",
+    "sound": "data/audio/voice/D_킬러와이프.mp3",
     "weaponType": "SR",
     "nameEn": "D: Killer Wife",
     "nameJa": "D：キラーワイフ"
@@ -456,7 +456,7 @@
     "releaseOrder": "56",
     "releaseDate": "2024-08-08",
     "image": "data/image/nikke/Zwei.png",
-    "sound": "data/audio/voice/츠바이.wav",
+    "sound": "data/audio/voice/츠바이.mp3",
     "weaponType": "SG",
     "nameEn": "Zwei",
     "nameJa": "ツバイ"
@@ -477,7 +477,7 @@
     "releaseOrder": "59",
     "releaseDate": "2024-10-10",
     "image": "data/image/nikke/Phantom.png",
-    "sound": "data/audio/voice/팬텀.wav",
+    "sound": "data/audio/voice/팬텀.mp3",
     "weaponType": "AR",
     "nameEn": "Phantom",
     "nameJa": "ファントム"
@@ -498,7 +498,7 @@
     "releaseOrder": "65",
     "releaseDate": "2024-12-05",
     "image": "data/image/nikke/Maiden_ Ice Rose.png",
-    "sound": "data/audio/voice/메이든 : 아이스 로즈.wav",
+    "sound": "data/audio/voice/메이든_아이스로즈.mp3",
     "weaponType": "RL",
     "nameEn": "Maiden: Ice Rose",
     "nameJa": "メイデン：アイスローズ"
@@ -519,7 +519,7 @@
     "releaseOrder": "66",
     "releaseDate": "2024-12-12",
     "image": "data/image/nikke/Guillotine_ Winter Slayer.png",
-    "sound": "data/audio/voice/길로틴 : 윈터 슬레이어.wav",
+    "sound": "data/audio/voice/길로틴_윈터슬레이어.mp3",
     "weaponType": "AR",
     "nameEn": "Guillotine: Winter Slayer",
     "nameJa": "ギロチン：ウィンタースレイヤー"
@@ -540,7 +540,7 @@
     "releaseOrder": "67",
     "releaseDate": "2025-01-01",
     "image": "data/image/nikke/Rapi_ Red Hood.png",
-    "sound": "data/audio/voice/라피 : 레드 후드.wav",
+    "sound": "data/audio/voice/라피_레드후드.mp3",
     "weaponType": "MG",
     "nameEn": "Rapi: Red Hood",
     "nameJa": "ラピ：レッドフード"
@@ -561,7 +561,7 @@
     "releaseOrder": "69",
     "releaseDate": "2025-01-30",
     "image": "data/image/nikke/Mast_ Romantic Maid.png",
-    "sound": "data/audio/voice/마스트 : 로망틱 메이드.wav",
+    "sound": "data/audio/voice/마스트_로망틱메이드.mp3",
     "weaponType": "MG",
     "nameEn": "Mast: Romantic Maid",
     "nameJa": "マスト：ロマンチックメイド"
@@ -582,7 +582,7 @@
     "releaseOrder": "70",
     "releaseDate": "2025-02-06",
     "image": "data/image/nikke/Anchor_ Innocent Maid.png",
-    "sound": "data/audio/voice/앵커 : 이노센트 메이드.wav",
+    "sound": "data/audio/voice/앵커_이노센트메이드.mp3",
     "weaponType": "RL",
     "nameEn": "Anchor: Innocent Maid",
     "nameJa": "アンカー：イノセントメイド"
@@ -603,7 +603,7 @@
     "releaseOrder": "77",
     "releaseDate": "2025-05-15",
     "image": "data/image/nikke/Arcana.png",
-    "sound": "data/audio/voice/아르카나.wav",
+    "sound": "data/audio/voice/아르카나.mp3",
     "weaponType": "RL",
     "nameEn": "Arcana",
     "nameJa": "アルカナ"
@@ -624,7 +624,7 @@
     "releaseOrder": "78",
     "releaseDate": "2025-05-29",
     "image": "data/image/nikke/K.png",
-    "sound": "data/audio/voice/K.wav",
+    "sound": "data/audio/voice/K.mp3",
     "weaponType": "SMG",
     "nameEn": "K",
     "nameJa": "K"
@@ -645,7 +645,7 @@
     "releaseOrder": "79",
     "releaseDate": "2025-07-03",
     "image": "data/image/nikke/Sora.png",
-    "sound": "data/audio/voice/소라.wav",
+    "sound": "data/audio/voice/소라.mp3",
     "weaponType": "RL",
     "nameEn": "Sora",
     "nameJa": "ソラ"
@@ -666,7 +666,7 @@
     "releaseOrder": "82",
     "releaseDate": "2025-08-07",
     "image": "data/image/nikke/Emma_ Tactical Upgrade.png",
-    "sound": "data/audio/voice/엠마 : 택티컬 업.wav",
+    "sound": "data/audio/voice/엠마_택티컬업.mp3",
     "weaponType": "MG",
     "nameEn": "Emma: Tactical Upgrade",
     "nameJa": "エマ：タクティカル・アップ"
@@ -687,7 +687,7 @@
     "releaseOrder": "84",
     "releaseDate": "2025-08-21",
     "image": "data/image/nikke/Vesti_ Tactical Upgrade.png",
-    "sound": "data/audio/voice/베스티 : 택티컬 업.wav",
+    "sound": "data/audio/voice/베스티_택티컬업.mp3",
     "weaponType": "RL",
     "nameEn": "Vesti: Tactical Upgrade",
     "nameJa": "ベスティー：タクティカル・アップ"
@@ -708,7 +708,7 @@
     "releaseOrder": "83",
     "releaseDate": "2025-08-14",
     "image": "data/image/nikke/Eunhwa_ Tactical Upgrade.png",
-    "sound": "data/audio/voice/은화 : 택티컬 업.wav",
+    "sound": "data/audio/voice/은화_택티컬업.mp3",
     "weaponType": "SR",
     "nameEn": "Eunhwa: Tactical Upgrade",
     "nameJa": "ウンファ：タクティカル・アップ"
@@ -729,7 +729,7 @@
     "releaseOrder": "87",
     "releaseDate": "2025-10-16",
     "image": "data/image/nikke/Delta_ Ninja Thief.png",
-    "sound": "data/audio/voice/델타 : 닌자 시프.wav",
+    "sound": "data/audio/voice/델타_닌자시프.mp3",
     "weaponType": "MG",
     "nameEn": "Delta: Ninja Thief",
     "nameJa": "デルタ：ニンジャシーフ"
@@ -750,7 +750,7 @@
     "releaseOrder": "91",
     "releaseDate": "2025-11-20",
     "image": "data/image/nikke/Soline_ Frost Ticket.png",
-    "sound": "data/audio/voice/솔린 : 프로스트 티켓.wav",
+    "sound": "data/audio/voice/솔린_프로스트티켓.mp3",
     "weaponType": "SG",
     "nameEn": "Soline: Frost Ticket",
     "nameJa": "ソリン：フロストチケット"
@@ -771,7 +771,7 @@
     "releaseOrder": "92",
     "releaseDate": "2025-12-04",
     "image": "data/image/nikke/Diesel_ Winter Sweets.png",
-    "sound": "data/audio/voice/디젤 : 윈터 스위츠.wav",
+    "sound": "data/audio/voice/디젤_윈터스위츠.mp3",
     "weaponType": "RL",
     "nameEn": "Diesel: Winter Sweets",
     "nameJa": "ディーゼル：ウィンタースイーツ"
@@ -792,7 +792,7 @@
     "releaseOrder": "93",
     "releaseDate": "2025-12-11",
     "image": "data/image/nikke/Brid_ Silent Track.png",
-    "sound": "data/audio/voice/브리드 : 사일런트 트랙.wav",
+    "sound": "data/audio/voice/브리드_사일런트트랙.mp3",
     "weaponType": "SG",
     "nameEn": "Brid: Silent Track",
     "nameJa": "ブリッド：サイレントトラック"
@@ -813,7 +813,7 @@
     "releaseOrder": "95",
     "releaseDate": "2026-01-15",
     "image": "data/image/nikke/Label.png",
-    "sound": "data/audio/voice/레이블.wav",
+    "sound": "data/audio/voice/레이블.mp3",
     "weaponType": "AR",
     "nameEn": "Label",
     "nameJa": "レーベル"
@@ -834,7 +834,7 @@
     "releaseOrder": "97",
     "releaseDate": "2026-03-05",
     "image": "data/image/nikke/E.H..png",
-    "sound": "data/audio/voice/E.H..wav",
+    "sound": "data/audio/voice/E.H..mp3",
     "weaponType": "SMG",
     "nameEn": "E.H.",
     "nameJa": "E.H."
@@ -855,7 +855,7 @@
     "releaseOrder": "98",
     "releaseDate": "2026-03-19",
     "image": "data/image/nikke/Arcana_ Fortune Mate.png",
-    "sound": "data/audio/voice/아르카나 : 포츈 메이트.wav",
+    "sound": "data/audio/voice/아르카나_포츈메이트.mp3",
     "weaponType": "SG",
     "nameEn": "Arcana: Fortune Mate",
     "nameJa": "アルカナ：フォーチュンメイト"
@@ -876,7 +876,7 @@
     "releaseOrder": "101",
     "releaseDate": "2026-04-23",
     "image": "data/image/nikke/Avistar.png",
-    "sound": "data/audio/voice/아비스타.wav",
+    "sound": "data/audio/voice/아비스타.mp3",
     "weaponType": "MG",
     "nameEn": "Avistar",
     "nameJa": "アビスタ"
@@ -897,7 +897,7 @@
     "releaseOrder": "107",
     "releaseDate": "2026-07-09",
     "image": "data/image/nikke/Marciana_ Marine Study.png",
-    "sound": "data/audio/voice/마르차나 : 마린 스터디.wav",
+    "sound": "data/audio/voice/마르차나_마린스터디.mp3",
     "weaponType": "AR",
     "nameEn": "Marciana: Marine Study",
     "nameJa": "マルチャーナ：マリンスタディ"
@@ -918,7 +918,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Maxwell.png",
-    "sound": "data/audio/voice/맥스웰.wav",
+    "sound": "data/audio/voice/맥스웰.mp3",
     "weaponType": "SR",
     "nameEn": "Maxwell",
     "nameJa": "マクスウェル"
@@ -939,7 +939,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Yuni.png",
-    "sound": "data/audio/voice/유니.wav",
+    "sound": "data/audio/voice/유니.mp3",
     "weaponType": "RL",
     "nameEn": "Yuni",
     "nameJa": "ユニ"
@@ -960,7 +960,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Liter.png",
-    "sound": "data/audio/voice/리타.wav",
+    "sound": "data/audio/voice/리타.mp3",
     "weaponType": "SMG",
     "nameEn": "Liter",
     "nameJa": "リター"
@@ -981,7 +981,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Julia.png",
-    "sound": "data/audio/voice/율리아.wav",
+    "sound": "data/audio/voice/율리아.mp3",
     "weaponType": "AR",
     "nameEn": "Julia",
     "nameJa": "ジュリア"
@@ -1002,7 +1002,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Centi.png",
-    "sound": "data/audio/voice/센티.wav",
+    "sound": "data/audio/voice/센티.mp3",
     "weaponType": "RL",
     "nameEn": "Centi",
     "nameJa": "センチ"
@@ -1023,7 +1023,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Drake.png",
-    "sound": "data/audio/voice/드레이크.wav",
+    "sound": "data/audio/voice/드레이크.mp3",
     "weaponType": "SG",
     "nameEn": "Drake",
     "nameJa": "ドレイク"
@@ -1044,7 +1044,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Crow.png",
-    "sound": "data/audio/voice/크로우.wav",
+    "sound": "data/audio/voice/크로우.mp3",
     "weaponType": "SMG",
     "nameEn": "Crow",
     "nameJa": "クロウ"
@@ -1065,7 +1065,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Pepper.png",
-    "sound": "data/audio/voice/페퍼.wav",
+    "sound": "data/audio/voice/페퍼.mp3",
     "weaponType": "SG",
     "nameEn": "Pepper",
     "nameJa": "ペッパー"
@@ -1086,7 +1086,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Admi.png",
-    "sound": "data/audio/voice/애드미.wav",
+    "sound": "data/audio/voice/애드미.mp3",
     "weaponType": "SR",
     "nameEn": "Admi",
     "nameJa": "アドミ"
@@ -1107,7 +1107,7 @@
     "releaseOrder": "7",
     "releaseDate": "2023-01-12",
     "image": "data/image/nikke/Jackal.png",
-    "sound": "data/audio/voice/자칼.wav",
+    "sound": "data/audio/voice/자칼.mp3",
     "weaponType": "RL",
     "nameEn": "Jackal",
     "nameJa": "ジャッカル"
@@ -1128,7 +1128,7 @@
     "releaseOrder": "2",
     "releaseDate": "2022-11-24",
     "image": "data/image/nikke/Laplace.png",
-    "sound": "data/audio/voice/라플라스.wav",
+    "sound": "data/audio/voice/라플라스.mp3",
     "weaponType": "RL",
     "nameEn": "Laplace",
     "nameJa": "ラプラス"
@@ -1149,7 +1149,7 @@
     "releaseOrder": "8",
     "releaseDate": "2023-01-12",
     "image": "data/image/nikke/Guilty.png",
-    "sound": "data/audio/voice/길티.wav",
+    "sound": "data/audio/voice/길티.mp3",
     "weaponType": "SG",
     "nameEn": "Guilty",
     "nameJa": "ギルティ"
@@ -1170,7 +1170,7 @@
     "releaseOrder": "9",
     "releaseDate": "2023-01-12",
     "image": "data/image/nikke/Sin.png",
-    "sound": "data/audio/voice/신.wav",
+    "sound": "data/audio/voice/신.mp3",
     "weaponType": "AR",
     "nameEn": "Sin",
     "nameJa": "シン"
@@ -1191,7 +1191,7 @@
     "releaseOrder": "10",
     "releaseDate": "2023-01-12",
     "image": "data/image/nikke/Quency.png",
-    "sound": "data/audio/voice/퀀시.wav",
+    "sound": "data/audio/voice/퀀시.mp3",
     "weaponType": "SMG",
     "nameEn": "Quency",
     "nameJa": "クエンシー"
@@ -1212,7 +1212,7 @@
     "releaseOrder": "5",
     "releaseDate": "2022-12-15",
     "image": "data/image/nikke/Anne_ Miracle Fairy.png",
-    "sound": "data/audio/voice/앤 : 미라클 페어리.wav",
+    "sound": "data/audio/voice/앤_미라클페어리.mp3",
     "weaponType": "RL",
     "nameEn": "Anne: Miracle Fairy",
     "nameJa": "エヌ : ミラクルフェアリー"
@@ -1233,7 +1233,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Epinel.png",
-    "sound": "data/audio/voice/에피넬.wav",
+    "sound": "data/audio/voice/에피넬.mp3",
     "weaponType": "SMG",
     "nameEn": "Epinel",
     "nameJa": "エピネル"
@@ -1254,7 +1254,7 @@
     "releaseOrder": "31",
     "releaseDate": "2023-10-05",
     "image": "data/image/nikke/Naga.png",
-    "sound": "data/audio/voice/나가.wav",
+    "sound": "data/audio/voice/나가.mp3",
     "weaponType": "SG",
     "nameEn": "Naga",
     "nameJa": "ナガ"
@@ -1275,7 +1275,7 @@
     "releaseOrder": "32",
     "releaseDate": "2023-10-12",
     "image": "data/image/nikke/Tia.png",
-    "sound": "data/audio/voice/티아.wav",
+    "sound": "data/audio/voice/티아.mp3",
     "weaponType": "RL",
     "nameEn": "Tia",
     "nameJa": "ティア"
@@ -1296,7 +1296,7 @@
     "releaseOrder": "36",
     "releaseDate": "2023-11-23",
     "image": "data/image/nikke/Tove.png",
-    "sound": "data/audio/voice/토브.wav",
+    "sound": "data/audio/voice/토브.mp3",
     "weaponType": "AR",
     "nameEn": "Tove",
     "nameJa": "トーブ"
@@ -1317,7 +1317,7 @@
     "releaseOrder": "44",
     "releaseDate": "2024-02-22",
     "image": "data/image/nikke/Elegg.png",
-    "sound": "data/audio/voice/일레그.wav",
+    "sound": "data/audio/voice/일레그.mp3",
     "weaponType": "MG",
     "nameEn": "Elegg",
     "nameJa": "エレグ"
@@ -1338,7 +1338,7 @@
     "releaseOrder": "48",
     "releaseDate": "2024-04-25",
     "image": "data/image/nikke/Kilo.png",
-    "sound": "data/audio/voice/킬로.wav",
+    "sound": "data/audio/voice/킬로.mp3",
     "weaponType": "MG",
     "nameEn": "Kilo",
     "nameJa": "キロ"
@@ -1359,7 +1359,7 @@
     "releaseOrder": "49",
     "releaseDate": "2024-05-16",
     "image": "data/image/nikke/Trony.png",
-    "sound": "data/audio/voice/트로니.wav",
+    "sound": "data/audio/voice/트로니.mp3",
     "weaponType": "SR",
     "nameEn": "Trony",
     "nameJa": "トロニー"
@@ -1380,7 +1380,7 @@
     "releaseOrder": "55",
     "releaseDate": "2024-07-25",
     "image": "data/image/nikke/Ein.png",
-    "sound": "data/audio/voice/아인.wav",
+    "sound": "data/audio/voice/아인.mp3",
     "weaponType": "SR",
     "nameEn": "Ein",
     "nameJa": "アイン"
@@ -1401,7 +1401,7 @@
     "releaseOrder": "58",
     "releaseDate": "2024-10-03",
     "image": "data/image/nikke/Quency_ Escape Queen.png",
-    "sound": "data/audio/voice/퀀시 : 이스케이프 퀸.wav",
+    "sound": "data/audio/voice/퀀시_이스케이프퀸.mp3",
     "weaponType": "SMG",
     "nameEn": "Quency: Escape Queen",
     "nameJa": "クエンシー：エスケープクイーン"
@@ -1422,7 +1422,7 @@
     "releaseOrder": "64",
     "releaseDate": "2024-11-21",
     "image": "data/image/nikke/Flora.png",
-    "sound": "data/audio/voice/플로라.wav",
+    "sound": "data/audio/voice/플로라.mp3",
     "weaponType": "MG",
     "nameEn": "Flora",
     "nameJa": "フローラ"
@@ -1443,7 +1443,7 @@
     "releaseOrder": "68",
     "releaseDate": "2025-01-16",
     "image": "data/image/nikke/Mana.png",
-    "sound": "data/audio/voice/마나.wav",
+    "sound": "data/audio/voice/마나.mp3",
     "weaponType": "AR",
     "nameEn": "Mana",
     "nameJa": "マナ"
@@ -1464,7 +1464,7 @@
     "releaseOrder": "71",
     "releaseDate": "2025-03-13",
     "image": "data/image/nikke/Trina.png",
-    "sound": "data/audio/voice/트리나.wav",
+    "sound": "data/audio/voice/트리나.mp3",
     "weaponType": "RL",
     "nameEn": "Trina",
     "nameJa": "トリナ"
@@ -1485,7 +1485,7 @@
     "releaseOrder": "76",
     "releaseDate": "2025-05-01",
     "image": "data/image/nikke/Mihara_ Bonding Chain.png",
-    "sound": "data/audio/voice/미하라 : 본딩 체인.wav",
+    "sound": "data/audio/voice/미하라_본딩체인.mp3",
     "weaponType": "MG",
     "nameEn": "Mihara: Bonding Chain",
     "nameJa": "ミハラ：ボンディングチェーン"
@@ -1506,7 +1506,7 @@
     "releaseOrder": "75",
     "releaseDate": "2025-04-24",
     "image": "data/image/nikke/Mori.png",
-    "sound": "data/audio/voice/모리.wav",
+    "sound": "data/audio/voice/모리.mp3",
     "weaponType": "AR",
     "nameEn": "Mori",
     "nameJa": "モリー"
@@ -1527,7 +1527,7 @@
     "releaseOrder": "81",
     "releaseDate": "2025-07-24",
     "image": "data/image/nikke/Elegg_ Boom and Shock.png",
-    "sound": "data/audio/voice/일레그 : 붐 앤 쇼크.wav",
+    "sound": "data/audio/voice/일레그_붐앤쇼크.mp3",
     "weaponType": "MG",
     "nameEn": "Elegg: Boom and Shock",
     "nameJa": "エレグ：ブーム・アンド・ショック"
@@ -1548,7 +1548,7 @@
     "releaseOrder": "99",
     "releaseDate": "2026-04-09",
     "image": "data/image/nikke/Snow Crane.png",
-    "sound": "data/audio/voice/백학.wav",
+    "sound": "data/audio/voice/백학.mp3",
     "weaponType": "SR",
     "nameEn": "Snow Crane",
     "nameJa": "シラツル"
@@ -1569,7 +1569,7 @@
     "releaseOrder": "102",
     "releaseDate": "2026-04-30",
     "image": "data/image/nikke/Neon_ Vision Eye.png",
-    "sound": "data/audio/voice/네온 : 비전 아이.wav",
+    "sound": "data/audio/voice/네온_비전아이.mp3",
     "weaponType": "RL",
     "nameEn": "Neon: Vision Eye",
     "nameJa": "ネオン：ビジョン・アイ"
@@ -1590,7 +1590,7 @@
     "releaseOrder": "108",
     "releaseDate": "2026-07-23",
     "image": "data/image/nikke/Laplace_ Ultimate Hero.png",
-    "sound": "data/audio/voice/라플라스 : 얼티밋 히어로.wav",
+    "sound": "data/audio/voice/라플라스_얼티밋히어로.mp3",
     "weaponType": "RL",
     "nameEn": "Laplace: Ultimate Hero",
     "nameJa": "ラプラス：アルティメットヒーロー"
@@ -1611,7 +1611,7 @@
     "releaseOrder": "109",
     "releaseDate": "2026-07-30",
     "image": "data/image/nikke/Maxwell_ Ordinary Mechanic.png",
-    "sound": "data/audio/voice/맥스웰 : 오디너리 미케닉.wav",
+    "sound": "data/audio/voice/맥스웰_오디너리미케닉.mp3",
     "weaponType": "SR",
     "nameEn": "Maxwell: Ordinary Mechanic",
     "nameJa": "マクスウェル：オーディナリーメカニック"
@@ -1632,7 +1632,7 @@
     "releaseOrder": "110",
     "releaseDate": "2026-09-03",
     "image": "data/image/nikke/Drake_ Great Villain.png",
-    "sound": "data/audio/voice/드레이크 : 그레이트 빌런.wav",
+    "sound": "data/audio/voice/드레이크_그레이트빌런.mp3",
     "weaponType": "SG",
     "nameEn": "Drake: Great Villain",
     "nameJa": "ドレイク：グレイトヴィラン"
@@ -1653,7 +1653,7 @@
     "releaseOrder": "111",
     "releaseDate": "2026-09-17",
     "image": "data/image/nikke/Guilty_ Mighty Bunny.png",
-    "sound": "data/audio/voice/길티 : 마이티 바니.wav",
+    "sound": "data/audio/voice/길티_마이티바니.mp3",
     "weaponType": "SR",
     "nameEn": "Guilty: Mighty Bunny",
     "nameJa": "ギルティ：マイティバニー"
@@ -1674,7 +1674,7 @@
     "releaseOrder": "112",
     "releaseDate": "2026-09-24",
     "image": "data/image/nikke/Sin_ Swift Bunny.png",
-    "sound": "data/audio/voice/신 : 스위프트 바니.wav",
+    "sound": "data/audio/voice/신_스위프트바니.mp3",
     "weaponType": "SR",
     "nameEn": "Sin: Swift Bunny",
     "nameJa": "シン：スウィフトバニー"
@@ -1695,7 +1695,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Sugar.png",
-    "sound": "data/audio/voice/슈가.wav",
+    "sound": "data/audio/voice/슈가.mp3",
     "weaponType": "SG",
     "nameEn": "Sugar",
     "nameJa": "シュガー"
@@ -1716,7 +1716,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Exia.png",
-    "sound": "data/audio/voice/엑시아.wav",
+    "sound": "data/audio/voice/엑시아.mp3",
     "weaponType": "SR",
     "nameEn": "Exia",
     "nameJa": "エクシア"
@@ -1737,7 +1737,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Alice.png",
-    "sound": "data/audio/voice/앨리스.wav",
+    "sound": "data/audio/voice/앨리스.mp3",
     "weaponType": "SR",
     "nameEn": "Alice",
     "nameJa": "アリス"
@@ -1758,7 +1758,7 @@
     "releaseOrder": "20",
     "releaseDate": "2023-05-18",
     "image": "data/image/nikke/Blanc.png",
-    "sound": "data/audio/voice/블랑.wav",
+    "sound": "data/audio/voice/블랑.mp3",
     "weaponType": "AR",
     "nameEn": "Blanc",
     "nameJa": "ブラン"
@@ -1779,7 +1779,7 @@
     "releaseOrder": "21",
     "releaseDate": "2023-05-25",
     "image": "data/image/nikke/Noir.png",
-    "sound": "data/audio/voice/누아르.wav",
+    "sound": "data/audio/voice/누아르.mp3",
     "weaponType": "SG",
     "nameEn": "Noir",
     "nameJa": "ノワール"
@@ -1800,7 +1800,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Frima.png",
-    "sound": "data/audio/voice/프림.wav",
+    "sound": "data/audio/voice/프림.mp3",
     "weaponType": "SR",
     "nameEn": "Frima",
     "nameJa": "プリム"
@@ -1821,7 +1821,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Mary.png",
-    "sound": "data/audio/voice/메어리.wav",
+    "sound": "data/audio/voice/메어리.mp3",
     "weaponType": "SG",
     "nameEn": "Mary",
     "nameJa": "メアリー"
@@ -1842,7 +1842,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Milk.png",
-    "sound": "data/audio/voice/밀크.wav",
+    "sound": "data/audio/voice/밀크.mp3",
     "weaponType": "SR",
     "nameEn": "Milk",
     "nameJa": "ミルク"
@@ -1863,7 +1863,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Yulha.png",
-    "sound": "data/audio/voice/율하.wav",
+    "sound": "data/audio/voice/율하.mp3",
     "weaponType": "SR",
     "nameEn": "Yulha",
     "nameJa": "ユルハ"
@@ -1884,7 +1884,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Ludmilla.png",
-    "sound": "data/audio/voice/루드밀라.wav",
+    "sound": "data/audio/voice/루드밀라.mp3",
     "weaponType": "SMG",
     "nameEn": "Ludmilla",
     "nameJa": "ルドミラ"
@@ -1905,7 +1905,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Rupee.png",
-    "sound": "data/audio/voice/루피.wav",
+    "sound": "data/audio/voice/루피.mp3",
     "weaponType": "AR",
     "nameEn": "Rupee",
     "nameJa": "ルピー"
@@ -1926,7 +1926,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Yan.png",
-    "sound": "data/audio/voice/얀.wav",
+    "sound": "data/audio/voice/얀.mp3",
     "weaponType": "RL",
     "nameEn": "Yan",
     "nameJa": "ヤン"
@@ -1947,7 +1947,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Dolla.png",
-    "sound": "data/audio/voice/도라.wav",
+    "sound": "data/audio/voice/도라.mp3",
     "weaponType": "SR",
     "nameEn": "Dolla",
     "nameJa": "ドラー"
@@ -1968,7 +1968,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Novel.png",
-    "sound": "data/audio/voice/노벨.wav",
+    "sound": "data/audio/voice/노벨.mp3",
     "weaponType": "SMG",
     "nameEn": "Novel",
     "nameJa": "ノベル"
@@ -1989,7 +1989,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Folkwang.png",
-    "sound": "data/audio/voice/폴크방.wav",
+    "sound": "data/audio/voice/폴크방.mp3",
     "weaponType": "AR",
     "nameEn": "Folkwang",
     "nameJa": "フォルクヴァン"
@@ -2010,7 +2010,7 @@
     "releaseOrder": "15",
     "releaseDate": "2023-03-30",
     "image": "data/image/nikke/Sakura.png",
-    "sound": "data/audio/voice/사쿠라.wav",
+    "sound": "data/audio/voice/사쿠라.mp3",
     "weaponType": "SMG",
     "nameEn": "Sakura",
     "nameJa": "サクラ"
@@ -2031,7 +2031,7 @@
     "releaseOrder": "11",
     "releaseDate": "2023-01-19",
     "image": "data/image/nikke/Viper.png",
-    "sound": "data/audio/voice/바이퍼.wav",
+    "sound": "data/audio/voice/바이퍼.mp3",
     "weaponType": "SG",
     "nameEn": "Viper",
     "nameJa": "バイパー"
@@ -2052,7 +2052,7 @@
     "releaseOrder": "12",
     "releaseDate": "2023-02-01",
     "image": "data/image/nikke/Cocoa.png",
-    "sound": "data/audio/voice/코코아.wav",
+    "sound": "data/audio/voice/코코아.mp3",
     "weaponType": "SR",
     "nameEn": "Cocoa",
     "nameJa": "ココア"
@@ -2073,7 +2073,7 @@
     "releaseOrder": "13",
     "releaseDate": "2023-02-08",
     "image": "data/image/nikke/Soda.png",
-    "sound": "data/audio/voice/소다.wav",
+    "sound": "data/audio/voice/소다.mp3",
     "weaponType": "MG",
     "nameEn": "Soda",
     "nameJa": "ソーダ"
@@ -2094,7 +2094,7 @@
     "releaseOrder": "14",
     "releaseDate": "2023-03-15",
     "image": "data/image/nikke/Biscuit.png",
-    "sound": "data/audio/voice/비스킷.wav",
+    "sound": "data/audio/voice/비스킷.mp3",
     "weaponType": "RL",
     "nameEn": "Biscuit",
     "nameJa": "ビスケット"
@@ -2115,7 +2115,7 @@
     "releaseOrder": "19",
     "releaseDate": "2023-04-27",
     "image": "data/image/nikke/Rei.png",
-    "sound": "data/audio/voice/라이.wav",
+    "sound": "data/audio/voice/라이.mp3",
     "weaponType": "SMG",
     "nameEn": "Rei",
     "nameJa": "ライ"
@@ -2136,7 +2136,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Aria.png",
-    "sound": "data/audio/voice/아리아.wav",
+    "sound": "data/audio/voice/아리아.mp3",
     "weaponType": "MG",
     "nameEn": "Aria",
     "nameJa": "アリア"
@@ -2157,7 +2157,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Noise.png",
-    "sound": "data/audio/voice/노이즈.wav",
+    "sound": "data/audio/voice/노이즈.mp3",
     "weaponType": "RL",
     "nameEn": "Noise",
     "nameJa": "ノイズ"
@@ -2178,7 +2178,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Volume.png",
-    "sound": "data/audio/voice/볼륨.wav",
+    "sound": "data/audio/voice/볼륨.mp3",
     "weaponType": "SMG",
     "nameEn": "Volume",
     "nameJa": "ボリューム"
@@ -2199,7 +2199,7 @@
     "releaseOrder": "3",
     "releaseDate": "2022-12-08",
     "image": "data/image/nikke/Rupee_ Winter Shopper.png",
-    "sound": "data/audio/voice/루피 : 윈터 쇼퍼.wav",
+    "sound": "data/audio/voice/루피_윈터쇼퍼.mp3",
     "weaponType": "AR",
     "nameEn": "Rupee: Winter Shopper",
     "nameJa": "ルピー：ウィンターショッパー"
@@ -2220,7 +2220,7 @@
     "releaseOrder": "22",
     "releaseDate": "2023-06-01",
     "image": "data/image/nikke/Rosanna.png",
-    "sound": "data/audio/voice/로산나.wav",
+    "sound": "data/audio/voice/로산나.mp3",
     "weaponType": "MG",
     "nameEn": "Rosanna",
     "nameJa": "ロザンナ"
@@ -2241,7 +2241,7 @@
     "releaseOrder": "23",
     "releaseDate": "2023-06-15",
     "image": "data/image/nikke/Mary_ Bay Goddess.png",
-    "sound": "data/audio/voice/메어리 : 베이 갓데스.wav",
+    "sound": "data/audio/voice/메어리_베이갓데스.mp3",
     "weaponType": "SR",
     "nameEn": "Mary: Bay Goddess",
     "nameJa": "メアリー：ベイゴッデス"
@@ -2262,7 +2262,7 @@
     "releaseOrder": "25",
     "releaseDate": "2023-07-06",
     "image": "data/image/nikke/Nero.png",
-    "sound": "data/audio/voice/네로.wav",
+    "sound": "data/audio/voice/네로.mp3",
     "weaponType": "SMG",
     "nameEn": "Nero",
     "nameJa": "ネロ"
@@ -2283,7 +2283,7 @@
     "releaseOrder": "27",
     "releaseDate": "2023-08-03",
     "image": "data/image/nikke/Anis_ Sparkling Summer.png",
-    "sound": "data/audio/voice/아니스 : 스파클링 서머.wav",
+    "sound": "data/audio/voice/아니스_스파클링서머.mp3",
     "weaponType": "SG",
     "nameEn": "Anis: Sparkling Summer",
     "nameJa": "アニス：スパークリングサマー"
@@ -2304,7 +2304,7 @@
     "releaseOrder": "37",
     "releaseDate": "2023-12-07",
     "image": "data/image/nikke/Ludmilla_ Winter Owner.png",
-    "sound": "data/audio/voice/루드밀라 : 윈터 오너.wav",
+    "sound": "data/audio/voice/루드밀라_윈터오너.mp3",
     "weaponType": "MG",
     "nameEn": "Ludmilla: Winter Owner",
     "nameJa": "ルドミラ：ウィンターオーナー"
@@ -2325,7 +2325,7 @@
     "releaseOrder": "38",
     "releaseDate": "2023-12-14",
     "image": "data/image/nikke/Mica_ Snow Buddy.png",
-    "sound": "data/audio/voice/미카 : 스노우 버디.wav",
+    "sound": "data/audio/voice/미카_스노우버디.mp3",
     "weaponType": "SMG",
     "nameEn": "Mica: Snow Buddy",
     "nameJa": "ミカ：スノーバディ"
@@ -2346,7 +2346,7 @@
     "releaseOrder": "40",
     "releaseDate": "2024-01-11",
     "image": "data/image/nikke/Leona.png",
-    "sound": "data/audio/voice/레오나.wav",
+    "sound": "data/audio/voice/레오나.mp3",
     "weaponType": "SG",
     "nameEn": "Leona",
     "nameJa": "レオナ"
@@ -2367,7 +2367,7 @@
     "releaseOrder": "41",
     "releaseDate": "2024-01-25",
     "image": "data/image/nikke/Moran.png",
-    "sound": "data/audio/voice/목단.wav",
+    "sound": "data/audio/voice/목단.mp3",
     "weaponType": "AR",
     "nameEn": "Moran",
     "nameJa": "モラン"
@@ -2388,7 +2388,7 @@
     "releaseOrder": "43",
     "releaseDate": "2024-02-15",
     "image": "data/image/nikke/Ade.png",
-    "sound": "data/audio/voice/에이드.wav",
+    "sound": "data/audio/voice/에이드.mp3",
     "weaponType": "AR",
     "nameEn": "Ade",
     "nameJa": "エード"
@@ -2409,7 +2409,7 @@
     "releaseOrder": "46",
     "releaseDate": "2024-04-11",
     "image": "data/image/nikke/Bay.png",
-    "sound": "data/audio/voice/베이.wav",
+    "sound": "data/audio/voice/베이.mp3",
     "weaponType": "RL",
     "nameEn": "Bay",
     "nameJa": "ベイ"
@@ -2430,7 +2430,7 @@
     "releaseOrder": "50",
     "releaseDate": "2024-05-30",
     "image": "data/image/nikke/Soda_ Twinkling Bunny.png",
-    "sound": "data/audio/voice/소다 : 트윙클링 바니.wav",
+    "sound": "data/audio/voice/소다_트윙클링바니.mp3",
     "weaponType": "SG",
     "nameEn": "Soda: Twinkling Bunny",
     "nameJa": "ソーダ：トゥインクルバニー"
@@ -2451,7 +2451,7 @@
     "releaseOrder": "51",
     "releaseDate": "2024-06-06",
     "image": "data/image/nikke/Alice_ Wonderland Bunny.png",
-    "sound": "data/audio/voice/앨리스 : 원더랜드 바니.wav",
+    "sound": "data/audio/voice/앨리스_원더랜드바니.mp3",
     "weaponType": "SMG",
     "nameEn": "Alice: Wonderland Bunny",
     "nameJa": "アリス：ワンダーランドバニー"
@@ -2472,7 +2472,7 @@
     "releaseOrder": "52",
     "releaseDate": "2024-06-20",
     "image": "data/image/nikke/Clay.png",
-    "sound": "data/audio/voice/클레이.wav",
+    "sound": "data/audio/voice/클레이.mp3",
     "weaponType": "SMG",
     "nameEn": "Clay",
     "nameJa": "クレイ"
@@ -2493,7 +2493,7 @@
     "releaseOrder": "54",
     "releaseDate": "2024-07-11",
     "image": "data/image/nikke/Rosanna_ Chic Ocean.png",
-    "sound": "data/audio/voice/로산나 : 시크 오션.wav",
+    "sound": "data/audio/voice/로산나_시크오션.mp3",
     "weaponType": "AR",
     "nameEn": "Rosanna: Chic Ocean",
     "nameJa": "ロザンナ：シックオーシャン"
@@ -2514,7 +2514,7 @@
     "releaseOrder": "53",
     "releaseDate": "2024-07-04",
     "image": "data/image/nikke/Sakura_ Bloom in Summer.png",
-    "sound": "data/audio/voice/사쿠라 : 블룸 인 서머.wav",
+    "sound": "data/audio/voice/사쿠라_블룸인서머.mp3",
     "weaponType": "AR",
     "nameEn": "Sakura: Bloom in Summer",
     "nameJa": "サクラ：ブルーム・イン・サマー"
@@ -2535,7 +2535,7 @@
     "releaseOrder": "57",
     "releaseDate": "2024-09-19",
     "image": "data/image/nikke/Rouge.png",
-    "sound": "data/audio/voice/루주.wav",
+    "sound": "data/audio/voice/루주.mp3",
     "weaponType": "SR",
     "nameEn": "Rouge",
     "nameJa": "ルージュ"
@@ -2556,7 +2556,7 @@
     "releaseOrder": "60",
     "releaseDate": "2024-10-17",
     "image": "data/image/nikke/Rumani.png",
-    "sound": "data/audio/voice/루마니.wav",
+    "sound": "data/audio/voice/루마니.mp3",
     "weaponType": "RL",
     "nameEn": "Rumani",
     "nameJa": "ルマニ"
@@ -2577,7 +2577,7 @@
     "releaseOrder": "72",
     "releaseDate": "2025-03-27",
     "image": "data/image/nikke/Bready.png",
-    "sound": "data/audio/voice/브래디.wav",
+    "sound": "data/audio/voice/브래디.mp3",
     "weaponType": "SR",
     "nameEn": "Bready",
     "nameJa": "ブレッディ"
@@ -2598,7 +2598,7 @@
     "releaseOrder": "73",
     "releaseDate": "2025-04-10",
     "image": "data/image/nikke/Crust.png",
-    "sound": "data/audio/voice/크러스트.wav",
+    "sound": "data/audio/voice/크러스트.mp3",
     "weaponType": "RL",
     "nameEn": "Crust",
     "nameJa": "クラスト"
@@ -2619,7 +2619,7 @@
     "releaseOrder": "86",
     "releaseDate": "2025-09-11",
     "image": "data/image/nikke/Milk_ Blooming Bunny.png",
-    "sound": "data/audio/voice/밀크 : 블루밍 바니.wav",
+    "sound": "data/audio/voice/밀크_블루밍바니.mp3",
     "weaponType": "SR",
     "nameEn": "Milk: Blooming Bunny",
     "nameJa": "ミルク：ブルーミングバニー"
@@ -2640,7 +2640,7 @@
     "releaseOrder": "85",
     "releaseDate": "2025-09-04",
     "image": "data/image/nikke/Ade_ Agent Bunny.png",
-    "sound": "data/audio/voice/에이드 : 에이전트 바니.wav",
+    "sound": "data/audio/voice/에이드_에이전트바니.mp3",
     "weaponType": "SR",
     "nameEn": "Ade: Agent Bunny",
     "nameJa": "エード：エージェントバニー"
@@ -2661,7 +2661,7 @@
     "releaseOrder": "96",
     "releaseDate": "2026-01-29",
     "image": "data/image/nikke/Velvet.png",
-    "sound": "data/audio/voice/벨벳.wav",
+    "sound": "data/audio/voice/벨벳.mp3",
     "weaponType": "SR",
     "nameEn": "Velvet",
     "nameJa": "ベルベット"
@@ -2682,7 +2682,7 @@
     "releaseOrder": "100",
     "releaseDate": "2026-04-23",
     "image": "data/image/nikke/Anis_ Star.png",
-    "sound": "data/audio/voice/아니스 : 스타.wav",
+    "sound": "data/audio/voice/아니스_스타.mp3",
     "weaponType": "RL",
     "nameEn": "Anis: Star",
     "nameJa": "アニス：スター"
@@ -2703,7 +2703,7 @@
     "releaseOrder": "103",
     "releaseDate": "2026-05-14",
     "image": "data/image/nikke/Mint.png",
-    "sound": "data/audio/voice/민트.wav",
+    "sound": "data/audio/voice/민트.mp3",
     "weaponType": "RL",
     "nameEn": "Mint",
     "nameJa": "ミント"
@@ -2724,7 +2724,7 @@
     "releaseOrder": "104",
     "releaseDate": "2026-05-28",
     "image": "data/image/nikke/Prika.png",
-    "sound": "data/audio/voice/프리카.wav",
+    "sound": "data/audio/voice/프리카.mp3",
     "weaponType": "SR",
     "nameEn": "Prika",
     "nameJa": "プリカ"
@@ -2745,7 +2745,7 @@
     "releaseOrder": "105",
     "releaseDate": "2026-06-11",
     "image": "data/image/nikke/Ark Ranger Black.png",
-    "sound": "data/audio/voice/아크레인저 블랙.wav",
+    "sound": "data/audio/voice/아크레인저블랙.mp3",
     "weaponType": "AR",
     "nameEn": "Ark Ranger Black",
     "nameJa": "アークレンジャー・ブラック"
@@ -2766,7 +2766,7 @@
     "releaseOrder": "113",
     "releaseDate": "2026-10-08",
     "image": "data/image/nikke/Belorta_ Pumpkin Witch.png",
-    "sound": "data/audio/voice/벨로타 : 펌킨 위치.wav",
+    "sound": "data/audio/voice/벨로타_펌킨위치.mp3",
     "weaponType": "RL",
     "nameEn": "Belorta: Pumpkin Witch",
     "nameJa": "ベロータ：パンプキンウィッチ"
@@ -2787,7 +2787,7 @@
     "releaseOrder": 0,
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Snow White.png",
-    "sound": "data/audio/voice/스노우 화이트.wav",
+    "sound": "data/audio/voice/스노우화이트.mp3",
     "weaponType": "AR",
     "nameEn": "Snow White",
     "nameJa": "スノーホワイト"
@@ -2808,7 +2808,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Isabel.png",
-    "sound": "data/audio/voice/이사벨.wav",
+    "sound": "data/audio/voice/이사벨.mp3",
     "weaponType": "SG",
     "nameEn": "Isabel",
     "nameJa": "イサベル"
@@ -2829,7 +2829,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Rapunzel.png",
-    "sound": "data/audio/voice/라푼젤.wav",
+    "sound": "data/audio/voice/라푼젤.mp3",
     "weaponType": "RL",
     "nameEn": "Rapunzel",
     "nameJa": "ラプンツェル"
@@ -2850,7 +2850,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Scarlet.png",
-    "sound": "data/audio/voice/홍련.wav",
+    "sound": "data/audio/voice/홍련.mp3",
     "weaponType": "AR",
     "nameEn": "Scarlet",
     "nameJa": "紅蓮"
@@ -2871,7 +2871,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Harran.png",
-    "sound": "data/audio/voice/하란.wav",
+    "sound": "data/audio/voice/하란.mp3",
     "weaponType": "SR",
     "nameEn": "Harran",
     "nameJa": "ハラン"
@@ -2892,7 +2892,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Noah.png",
-    "sound": "data/audio/voice/노아.wav",
+    "sound": "data/audio/voice/노아.mp3",
     "weaponType": "RL",
     "nameEn": "Noah",
     "nameJa": "ノア"
@@ -2913,7 +2913,7 @@
     "releaseOrder": "6",
     "releaseDate": "2023-01-01",
     "image": "data/image/nikke/Modernia.png",
-    "sound": "data/audio/voice/모더니아.wav",
+    "sound": "data/audio/voice/모더니아.mp3",
     "weaponType": "MG",
     "nameEn": "Modernia",
     "nameJa": "モダニア"
@@ -2934,7 +2934,7 @@
     "releaseOrder": "16",
     "releaseDate": "2023-03-30",
     "image": "data/image/nikke/Nihilister.png",
-    "sound": "data/audio/voice/니힐리스타.wav",
+    "sound": "data/audio/voice/니힐리스타.mp3",
     "weaponType": "SR",
     "nameEn": "Nihilister",
     "nameJa": "ニヒリスター"
@@ -2955,7 +2955,7 @@
     "releaseOrder": "18",
     "releaseDate": "2023-04-27",
     "image": "data/image/nikke/Dorothy.png",
-    "sound": "data/audio/voice/도로시.wav",
+    "sound": "data/audio/voice/도로시.mp3",
     "weaponType": "AR",
     "nameEn": "Dorothy",
     "nameJa": "ドロシー"
@@ -2976,7 +2976,7 @@
     "releaseOrder": "34",
     "releaseDate": "2023-11-02",
     "image": "data/image/nikke/Red Hood.png",
-    "sound": "data/audio/voice/레드 후드.wav",
+    "sound": "data/audio/voice/레드후드.mp3",
     "weaponType": "SR",
     "nameEn": "Red Hood",
     "nameJa": "レッドフード"
@@ -2997,7 +2997,7 @@
     "releaseOrder": "35",
     "releaseDate": "2023-11-02",
     "image": "data/image/nikke/Snow White_ Innocent Days.png",
-    "sound": "data/audio/voice/스노우 화이트 : 이노센트 데이즈.wav",
+    "sound": "data/audio/voice/스노우화이트_이노센트데이즈.mp3",
     "weaponType": "AR",
     "nameEn": "Snow White: Innocent Days",
     "nameJa": "スノーホワイト：イノセントデイズ"
@@ -3018,7 +3018,7 @@
     "releaseOrder": "39",
     "releaseDate": "2024-01-01",
     "image": "data/image/nikke/Scarlet_ Black Shadow.png",
-    "sound": "data/audio/voice/홍련 : 흑영.wav",
+    "sound": "data/audio/voice/홍련_흑영.mp3",
     "weaponType": "RL",
     "nameEn": "Scarlet: Black Shadow",
     "nameJa": "紅蓮：ブラックシャドウ"
@@ -3039,7 +3039,7 @@
     "releaseOrder": "47",
     "releaseDate": "2024-04-25",
     "image": "data/image/nikke/Crown.png",
-    "sound": "data/audio/voice/크라운.wav",
+    "sound": "data/audio/voice/크라운.mp3",
     "weaponType": "MG",
     "nameEn": "Crown",
     "nameJa": "クラウン"
@@ -3060,7 +3060,7 @@
     "releaseOrder": "62",
     "releaseDate": "2024-10-31",
     "image": "data/image/nikke/Rapunzel_ Pure Grace.png",
-    "sound": "data/audio/voice/라푼젤 : 퓨어 그레이스.wav",
+    "sound": "data/audio/voice/라푼젤_퓨어그레이스.mp3",
     "weaponType": "SR",
     "nameEn": "Rapunzel: Pure Grace",
     "nameJa": "ラプンツェル：ピュアグレイス"
@@ -3081,7 +3081,7 @@
     "releaseOrder": "61",
     "releaseDate": "2024-10-31",
     "image": "data/image/nikke/Cinderella.png",
-    "sound": "data/audio/voice/신데렐라.wav",
+    "sound": "data/audio/voice/신데렐라.mp3",
     "weaponType": "RL",
     "nameEn": "Cinderella",
     "nameJa": "シンデレラ"
@@ -3102,7 +3102,7 @@
     "releaseOrder": "63",
     "releaseDate": "2024-11-07",
     "image": "data/image/nikke/Grave.png",
-    "sound": "data/audio/voice/그레이브.wav",
+    "sound": "data/audio/voice/그레이브.mp3",
     "weaponType": "AR",
     "nameEn": "Grave",
     "nameJa": "グレイブ"
@@ -3123,7 +3123,7 @@
     "releaseOrder": "74",
     "releaseDate": "2025-04-24",
     "image": "data/image/nikke/Little Mermaid.png",
-    "sound": "data/audio/voice/리틀 머메이드.wav",
+    "sound": "data/audio/voice/리틀머메이드.mp3",
     "weaponType": "SMG",
     "nameEn": "Little Mermaid",
     "nameJa": "リトルマーメイド"
@@ -3144,7 +3144,7 @@
     "releaseOrder": "80",
     "releaseDate": "2025-07-17",
     "image": "data/image/nikke/Dorothy_ Serendipity.png",
-    "sound": "data/audio/voice/도로시 : 세렌디피티.wav",
+    "sound": "data/audio/voice/도로시_세렌디피티.mp3",
     "weaponType": "SG",
     "nameEn": "Dorothy: Serendipity",
     "nameJa": "ドロシー：セレンディピティ"
@@ -3165,7 +3165,7 @@
     "releaseOrder": "88",
     "releaseDate": "2025-10-30",
     "image": "data/image/nikke/Nayuta.png",
-    "sound": "data/audio/voice/나유타.wav",
+    "sound": "data/audio/voice/나유타.mp3",
     "weaponType": "SMG",
     "nameEn": "Nayuta",
     "nameJa": "ナユタ"
@@ -3186,7 +3186,7 @@
     "releaseOrder": "90",
     "releaseDate": "2025-11-06",
     "image": "data/image/nikke/Liberalio.png",
-    "sound": "data/audio/voice/리버렐리오.wav",
+    "sound": "data/audio/voice/리버렐리오.mp3",
     "weaponType": "SR",
     "nameEn": "Liberalio",
     "nameJa": "リバーレリオ"
@@ -3207,7 +3207,7 @@
     "releaseOrder": "89",
     "releaseDate": "2025-10-30",
     "image": "data/image/nikke/Chime.png",
-    "sound": "data/audio/voice/차임.wav",
+    "sound": "data/audio/voice/차임.mp3",
     "weaponType": "SMG",
     "nameEn": "Chime",
     "nameJa": "チャイム"
@@ -3228,7 +3228,7 @@
     "releaseOrder": "94",
     "releaseDate": "2026-01-01",
     "image": "data/image/nikke/Snow White_ Heavy Arms.png",
-    "sound": "data/audio/voice/스노우 화이트 : 헤비암즈.wav",
+    "sound": "data/audio/voice/스노우화이트_헤비암즈.mp3",
     "weaponType": "SR",
     "nameEn": "Snow White: Heavy Arms",
     "nameJa": "スノーホワイト：ヘビーアームズ"
@@ -3249,7 +3249,7 @@
     "releaseOrder": "106",
     "releaseDate": "2026-07-02",
     "image": "data/image/nikke/Cinderella_ Crystal Wave.png",
-    "sound": "data/audio/voice/신데렐라 : 크리스탈 웨이브.wav",
+    "sound": "data/audio/voice/신데렐라_크리스탈웨이브.mp3",
     "weaponType": "MG",
     "nameEn": "Cinderella: Crystal Wave",
     "nameJa": "シンデレラ：クリスタルウェーブ"
@@ -3270,7 +3270,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Rapi.png",
-    "sound": "data/audio/voice/라피.wav",
+    "sound": "data/audio/voice/라피.mp3",
     "weaponType": "AR",
     "nameEn": "Rapi",
     "nameJa": "ラピ"
@@ -3291,7 +3291,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Neon.png",
-    "sound": "data/audio/voice/네온.wav",
+    "sound": "data/audio/voice/네온.mp3",
     "weaponType": "SG",
     "nameEn": "Neon",
     "nameJa": "ネオン"
@@ -3312,7 +3312,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Delta.png",
-    "sound": "data/audio/voice/델타.wav",
+    "sound": "data/audio/voice/델타.mp3",
     "weaponType": "SR",
     "nameEn": "Delta",
     "nameJa": "デルタ"
@@ -3333,7 +3333,7 @@
     "releaseOrder": "28",
     "releaseDate": "2023-08-03",
     "image": "data/image/nikke/Anchor.png",
-    "sound": "data/audio/voice/앵커.wav",
+    "sound": "data/audio/voice/앵커.mp3",
     "weaponType": "RL",
     "nameEn": "Anchor",
     "nameJa": "アンカー"
@@ -3354,7 +3354,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Mihara.png",
-    "sound": "data/audio/voice/미하라.wav",
+    "sound": "data/audio/voice/미하라.mp3",
     "weaponType": "AR",
     "nameEn": "Mihara",
     "nameJa": "ミハラ"
@@ -3375,7 +3375,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/N102.png",
-    "sound": "data/audio/voice/N102.wav",
+    "sound": "data/audio/voice/N102.mp3",
     "weaponType": "RL",
     "nameEn": "N102",
     "nameJa": "N102"
@@ -3396,7 +3396,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Ether.png",
-    "sound": "data/audio/voice/에테르.wav",
+    "sound": "data/audio/voice/에테르.mp3",
     "weaponType": "SG",
     "nameEn": "Ether",
     "nameJa": "エーテル"
@@ -3417,7 +3417,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Anis.png",
-    "sound": "data/audio/voice/아니스.wav",
+    "sound": "data/audio/voice/아니스.mp3",
     "weaponType": "RL",
     "nameEn": "Anis",
     "nameJa": "アニス"
@@ -3438,7 +3438,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Belorta.png",
-    "sound": "data/audio/voice/벨로타.wav",
+    "sound": "data/audio/voice/벨로타.mp3",
     "weaponType": "RL",
     "nameEn": "Belorta",
     "nameJa": "ベロータ"
@@ -3459,7 +3459,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Mica.png",
-    "sound": "data/audio/voice/미카.wav",
+    "sound": "data/audio/voice/미카.mp3",
     "weaponType": "RL",
     "nameEn": "Mica",
     "nameJa": "ミカ"
@@ -3480,7 +3480,7 @@
     "releaseOrder": "4",
     "releaseDate": "2022-12-08",
     "image": "data/image/nikke/Neve.png",
-    "sound": "data/audio/voice/네베.wav",
+    "sound": "data/audio/voice/네베.mp3",
     "weaponType": "SG",
     "nameEn": "Neve",
     "nameJa": "ネヴェ"
@@ -3501,7 +3501,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Soldier EG.png",
-    "sound": "data/audio/voice/솔져 E.G..wav",
+    "sound": "data/audio/voice/솔져E.G..mp3",
     "weaponType": "AR",
     "nameEn": "Soldier EG",
     "nameJa": "ソルジャーE.G."
@@ -3522,7 +3522,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Soldier FA.png",
-    "sound": "data/audio/voice/솔져 F.A..wav",
+    "sound": "data/audio/voice/솔져F.A..mp3",
     "weaponType": "SG",
     "nameEn": "Soldier FA",
     "nameJa": "ソルジャーF.A."
@@ -3543,7 +3543,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Soldier OW.png",
-    "sound": "data/audio/voice/솔져 O.W..wav",
+    "sound": "data/audio/voice/솔져O.W..mp3",
     "weaponType": "SMG",
     "nameEn": "Soldier OW",
     "nameJa": "ソルジャーO.W."
@@ -3564,7 +3564,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Product 08.png",
-    "sound": "data/audio/voice/프로덕트 08.wav",
+    "sound": "data/audio/voice/프로덕트08.mp3",
     "weaponType": "SR",
     "nameEn": "Product 08",
     "nameJa": "プロダクト08"
@@ -3585,7 +3585,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Product 12.png",
-    "sound": "data/audio/voice/프로덕트 12.wav",
+    "sound": "data/audio/voice/프로덕트12.mp3",
     "weaponType": "MG",
     "nameEn": "Product 12",
     "nameJa": "プロダクト12"
@@ -3606,7 +3606,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/Product 23.png",
-    "sound": "data/audio/voice/프로덕트 23.wav",
+    "sound": "data/audio/voice/프로덕트23.mp3",
     "weaponType": "SG",
     "nameEn": "Product 23",
     "nameJa": "プロダクト23"
@@ -3627,7 +3627,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/iDoll Flower.png",
-    "sound": "data/audio/voice/iDoll 플라워.wav",
+    "sound": "data/audio/voice/iDoll플라워.mp3",
     "weaponType": "RL",
     "nameEn": "iDoll Flower",
     "nameJa": "I-DOLL・フラワー"
@@ -3648,7 +3648,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/iDoll Ocean.png",
-    "sound": "data/audio/voice/iDoll 오션.wav",
+    "sound": "data/audio/voice/iDoll오션.mp3",
     "weaponType": "SMG",
     "nameEn": "iDoll Ocean",
     "nameJa": "I-DOLL・オーシャン"
@@ -3669,7 +3669,7 @@
     "releaseOrder": "0",
     "releaseDate": "2022-11-04",
     "image": "data/image/nikke/iDoll Sun.png",
-    "sound": "data/audio/voice/iDoll 썬.wav",
+    "sound": "data/audio/voice/iDoll썬.mp3",
     "weaponType": "AR",
     "nameEn": "iDoll Sun",
     "nameJa": "I-DOLL・サン"

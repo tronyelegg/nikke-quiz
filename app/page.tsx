@@ -1,9 +1,9 @@
 "use client";
 
-import { useState, useMemo, useEffect } from 'react';
+// 💡 [수정] useRef 추가
+import { useState, useMemo, useEffect, useRef } from 'react';
 import nikkesData from '../src/data/nikkes.json';
 
-// 💡 [수정] 'all' 모드 추가
 type GameState = 'menu' | 'playing';
 type GroupMode = 'all' | 'company' | 'burst' | 'element' | 'release' | 'weapon';
 type Language = 'ko' | 'en' | 'ja';
@@ -14,25 +14,27 @@ const uiText = {
     modes: { company: "기업별", burst: "버스트별", element: "우월 코드별", release: "출시 연도별", weapon: "무기군별" },
     giveUp: "포기 / 메뉴로", inputLabel: "니케 이름:", placeholder: "이름을 입력하세요...",
     dark: "다크모드", light: "라이트모드", audioOn: "소리 ON", audioOff: "소리 OFF", shadowOn: "실루엣 ON", shadowOff: "실루엣 OFF",
+    volume: "볼륨"
   },
   en: {
     title: "Nikke Quiz", startAll: "Name All Nikkes", selectMode: "Select Category",
     modes: { company: "By Company", burst: "By Burst", element: "By Element", release: "By Release", weapon: "By Weapon" },
     giveUp: "Give Up / Menu", inputLabel: "Nikke Name:", placeholder: "Type a name...",
     dark: "Dark Mode", light: "Light Mode", audioOn: "Audio ON", audioOff: "Audio OFF", shadowOn: "Shadow ON", shadowOff: "Shadow OFF",
+    volume: "Volume"
   },
   ja: {
     title: "ニケクイズ", startAll: "全ニケを当てる", selectMode: "カテゴリ選択",
     modes: { company: "企業別", burst: "バースト別", element: "コード別", release: "実装年別", weapon: "武器種別" },
     giveUp: "諦める / メニュー", inputLabel: "ニケの名前:", placeholder: "名前を入力...",
     dark: "ダーク", light: "ライト", audioOn: "音声 ON", audioOff: "音声 OFF", shadowOn: "シルエット ON", shadowOff: "シルエット OFF",
+    volume: "音量"
   }
 };
 
 const translateTerm = (term: string, lang: Language) => {
   if (!term) return 'Unknown';
 
-  // 💡 [수정] ALL 모드 및 ALL 버스트 예외 처리 번역
   if (term === 'All') return lang === 'ko' ? '모든 니케 (출시순)' : lang === 'ja' ? '全ニケ (実装順)' : 'All Nikkes (Release Order)';
   if (term === 'ALL Burst') return lang === 'ko' ? '올 버스트' : lang === 'ja' ? 'オール バースト' : 'ALL BURST';
 
@@ -73,6 +75,10 @@ export default function Home() {
   const [isAudioOn, setIsAudioOn] = useState(true);
   const [isShadowOn, setIsShadowOn] = useState(false);
   const [lang, setLang] = useState<Language>('ko');
+  
+  // 💡 [수정] 볼륨 상태 및 현재 재생 중인 오디오를 추적하는 Ref 추가
+  const [volume, setVolume] = useState(0.5); 
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
   const t = uiText[lang];
 
@@ -84,6 +90,12 @@ export default function Home() {
     } else {
       setIsDarkMode(false);
       document.documentElement.classList.remove('dark');
+    }
+
+    // 💡 [수정] 저장된 볼륨 불러오기
+    const savedVolume = localStorage.getItem('volume');
+    if (savedVolume !== null) {
+      setVolume(parseFloat(savedVolume));
     }
   }, []);
 
@@ -99,10 +111,27 @@ export default function Home() {
     }
   };
 
+  // 💡 [수정] 볼륨 조절 핸들러 (조절 즉시 재생중인 소리에도 반영)
+  const handleVolumeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const newVolume = parseFloat(e.target.value);
+    setVolume(newVolume);
+    localStorage.setItem('volume', newVolume.toString());
+    if (audioRef.current) {
+      audioRef.current.volume = newVolume;
+    }
+  };
+
   const startGame = (mode: GroupMode) => {
     setGroupMode(mode);
     setAnsweredIds([]); 
     setInputValue("");
+    
+    // 게임 시작 시 재생 중인 오디오 정지
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+    }
+    
     setGameState('playing');
   };
 
@@ -115,13 +144,11 @@ export default function Home() {
     const groups = sortedNikkes.reduce((acc: Record<string, typeof nikkesData>, nikke: any) => {
       let key = '기타';
       
-      // 💡 [수정] 전체 보기 모드일 때는 모두 'All' 이라는 단일 그룹으로 묶음
       if (groupMode === 'all') {
         key = 'All';
       } else if (groupMode === 'company') {
         key = nikke.company || '기타';
       } else if (groupMode === 'burst') {
-        // 💡 [수정] 레드후드 등 ALL 버스트 예외 처리
         if (String(nikke.burst).toUpperCase() === 'ALL') {
           key = 'ALL Burst';
         } else {
@@ -164,8 +191,16 @@ export default function Home() {
     if (matchedNikke) {
       setAnsweredIds(prev => [...prev, matchedNikke.id]);
       setInputValue(""); 
+      
+      // 💡 [수정] 오디오 겹침 방지 및 볼륨 적용
       if (isAudioOn && matchedNikke.sound) {
+        if (audioRef.current) {
+          audioRef.current.pause();
+          audioRef.current.currentTime = 0;
+        }
         const audio = new Audio(`/${matchedNikke.sound}`);
+        audio.volume = volume;
+        audioRef.current = audio;
         audio.play().catch(err => console.error("Audio error:", err));
       }
     }
@@ -180,12 +215,30 @@ export default function Home() {
         <span className="opacity-20">|</span>
         <button onClick={() => setLang('ja')} className={`transition-colors ${lang === 'ja' ? "text-green-600 dark:text-green-400" : "opacity-40 hover:opacity-80"}`}>JP</button>
       </div>
+      
       <button onClick={toggleDarkMode} className="bg-white/80 dark:bg-gray-800 text-gray-800 dark:text-gray-200 px-3 py-2 rounded-md font-bold text-xs transition-colors shadow-sm whitespace-nowrap">
         {isDarkMode ? t.light : t.dark}
       </button>
-      <button onClick={() => setIsAudioOn(!isAudioOn)} className="bg-white/80 dark:bg-gray-800 text-gray-800 dark:text-gray-200 px-3 py-2 rounded-md font-bold text-xs transition-colors shadow-sm whitespace-nowrap">
-        {isAudioOn ? t.audioOn : t.audioOff}
-      </button>
+
+      {/* 💡 [수정] 오디오 토글과 볼륨 슬라이더를 하나로 묶음 */}
+      <div className="flex items-center gap-2 bg-white/80 dark:bg-gray-800 px-3 py-2 rounded-md shadow-sm transition-colors">
+        <button onClick={() => setIsAudioOn(!isAudioOn)} className="text-gray-800 dark:text-gray-200 font-bold text-xs transition-colors whitespace-nowrap">
+          {isAudioOn ? t.audioOn : t.audioOff}
+        </button>
+        {isAudioOn && (
+          <input 
+            type="range" 
+            min="0" 
+            max="1" 
+            step="0.05" 
+            value={volume} 
+            onChange={handleVolumeChange} 
+            title={t.volume}
+            className="w-16 md:w-20 h-1.5 bg-gray-300 rounded-lg appearance-none cursor-pointer dark:bg-gray-600 accent-[#8ab661]" 
+          />
+        )}
+      </div>
+
       <button onClick={() => setIsShadowOn(!isShadowOn)} className="bg-white/80 dark:bg-gray-800 text-gray-800 dark:text-gray-200 px-3 py-2 rounded-md font-bold text-xs transition-colors shadow-sm whitespace-nowrap">
         {isShadowOn ? t.shadowOn : t.shadowOff}
       </button>
@@ -202,7 +255,6 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center grow max-w-2xl mx-auto w-full pb-20">
             <h1 className="text-5xl font-black text-white mb-12 drop-shadow-lg tracking-wider text-center">{t.title}</h1>
             <div className="flex flex-col items-center space-y-6 w-full">
-              {/* 💡 [수정] 모든 니케 맞추기 버튼 클릭 시 'all' 모드로 실행되게 변경 */}
               <button onClick={() => startGame('all')} className="w-64 py-6 bg-[#8ab661] hover:bg-[#9ccb6f] dark:bg-[#5b803a] dark:hover:bg-[#6c9846] text-white font-bold text-2xl transition-all shadow-lg hover:-translate-y-1 rounded-tl-3xl rounded-br-3xl rounded-tr-md rounded-bl-md">
                 {t.startAll}
               </button>
@@ -228,7 +280,6 @@ export default function Home() {
               {answeredIds.length} / {nikkesData.length}
             </div>
             
-            {/* 💡 [수정] 상단 상태 표시줄에 'all' 모드일 경우 별도 텍스트 표기 */}
             <div className="bg-[#4a5c39] dark:bg-gray-900 text-white/90 px-6 py-3 rounded-lg text-sm font-bold flex items-center justify-center whitespace-nowrap shadow-md shrink-0 transition-colors">
               {groupMode === 'all' 
                 ? (lang === 'ko' ? '모든 니케' : lang === 'ja' ? '全ニケ' : 'All Nikkes') 
@@ -247,11 +298,8 @@ export default function Home() {
           </div>
 
           <div className="max-w-7xl mx-auto mt-6">
-            {/* 💡 [수정] 'all' 모드일 때는 다단(columns) 레이아웃 해제하고 하나로 꽉 채움 */}
             <div className={groupMode === 'all' ? "w-full" : "columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-4"}>
               {groupedNikkes.map(([groupTitle, nikkes]) => (
-                
-                // 💡 [수정] 'all' 모드일 때는 블록 내부 잘림 방지(break-inside-avoid) 해제하여 부드럽게 감싸지게 함
                 <div key={groupTitle} className={`bg-white dark:bg-gray-900 rounded-xl p-4 mb-4 shadow-sm border border-gray-200 dark:border-gray-700 transition-colors ${groupMode === 'all' ? '' : 'break-inside-avoid'}`}>
                   
                   <h2 className="text-sm text-gray-600 dark:text-gray-300 mb-3 font-bold border-b dark:border-gray-700 pb-1 flex justify-between transition-colors">

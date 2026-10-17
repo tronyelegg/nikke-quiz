@@ -175,14 +175,14 @@ export default function Home() {
     const text = e.target.value;
     setInputValue(text);
 
-    const normalizedText = text.trim().replace(/\s+/g, '').toLowerCase();
+    const normalizedText = text.trim().replace(/[\s:.]+/g, '').toLowerCase();
     if (!normalizedText) return;
 
     const matchedNikke = nikkesData.find((nikke: any) => {
       if (answeredIds.includes(nikke.id)) return false;
-      const namesToCheck = [nikke.name, nikke.nameEn || "", nikke.nameJa || ""].map(n => n.replace(/\s+/g, '').toLowerCase());
+      const namesToCheck = [nikke.name, nikke.nameEn || "", nikke.nameJa || ""].map(n => n.replace(/[\s:.]+/g, '').toLowerCase());
       if (namesToCheck.includes(normalizedText)) return true;
-      if (nikke.aliases && nikke.aliases.some((alias: any) => alias.text && alias.text.replace(/\s+/g, '').toLowerCase() === normalizedText)) return true;
+      if (nikke.aliases && nikke.aliases.some((alias: any) => alias.text && alias.text.replace(/[\s:.]+/g, '').toLowerCase() === normalizedText)) return true;
       return false;
     });
 

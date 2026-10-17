@@ -25,7 +25,12 @@
     "name": "프리바티",
     "aliases": [
       {
-        "text": null,
+        "text": "미쿠",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "파루잔",
         "image": null,
         "sound": null
       }
@@ -67,7 +72,12 @@
     "name": "폴리",
     "aliases": [
       {
-        "text": null,
+        "text": "댕댕이",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "에흉",
         "image": null,
         "sound": null
       }
@@ -151,7 +161,7 @@
     "name": "디젤",
     "aliases": [
       {
-        "text": null,
+        "text": "퉁퉁이",
         "image": null,
         "sound": null
       }
@@ -193,7 +203,7 @@
     "name": "은화",
     "aliases": [
       {
-        "text": null,
+        "text": "도마",
         "image": null,
         "sound": null
       }
@@ -214,7 +224,7 @@
     "name": "길로틴",
     "aliases": [
       {
-        "text": null,
+        "text": "중2병",
         "image": null,
         "sound": null
       }
@@ -277,7 +287,12 @@
     "name": "헬름",
     "aliases": [
       {
-        "text": null,
+        "text": "방최창",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "창녀",
         "image": null,
         "sound": null
       }
@@ -298,7 +313,12 @@
     "name": "네온 : 블루 오션",
     "aliases": [
       {
-        "text": null,
+        "text": "수네온",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 네온",
         "image": null,
         "sound": null
       }
@@ -340,7 +360,12 @@
     "name": "헬름 : 아쿠아마린",
     "aliases": [
       {
-        "text": null,
+        "text": "수헬름",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 헬름",
         "image": null,
         "sound": null
       }
@@ -361,7 +386,17 @@
     "name": "마르차나",
     "aliases": [
       {
-        "text": null,
+        "text": "화장실",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "선생님",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "말차",
         "image": null,
         "sound": null
       }
@@ -403,7 +438,7 @@
     "name": "프리바티 : 언카인드 메이드",
     "aliases": [
       {
-        "text": null,
+        "text": "메프바",
         "image": null,
         "sound": null
       }
@@ -424,7 +459,17 @@
     "name": "D : 킬러 와이프",
     "aliases": [
       {
-        "text": null,
+        "text": "동D",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "동디",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "여보",
         "image": null,
         "sound": null
       }
@@ -466,7 +511,7 @@
     "name": "팬텀",
     "aliases": [
       {
-        "text": null,
+        "text": "괴도",
         "image": null,
         "sound": null
       }
@@ -487,7 +532,12 @@
     "name": "메이든 : 아이스 로즈",
     "aliases": [
       {
-        "text": null,
+        "text": "클이든",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 메이든",
         "image": null,
         "sound": null
       }
@@ -508,7 +558,12 @@
     "name": "길로틴 : 윈터 슬레이어",
     "aliases": [
       {
-        "text": null,
+        "text": "클로틴",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 길로틴",
         "image": null,
         "sound": null
       }
@@ -529,7 +584,17 @@
     "name": "라피 : 레드 후드",
     "aliases": [
       {
-        "text": null,
+        "text": "라레후",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "라후",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "각피",
         "image": null,
         "sound": null
       }
@@ -550,7 +615,12 @@
     "name": "마스트 : 로망틱 메이드",
     "aliases": [
       {
-        "text": null,
+        "text": "메스트",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "메이드 마스트",
         "image": null,
         "sound": null
       }
@@ -571,7 +641,17 @@
     "name": "앵커 : 이노센트 메이드",
     "aliases": [
       {
-        "text": null,
+        "text": "메앵",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "메이드 앵커",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "뫵커",
         "image": null,
         "sound": null
       }
@@ -592,7 +672,7 @@
     "name": "아르카나",
     "aliases": [
       {
-        "text": null,
+        "text": "자기",
         "image": null,
         "sound": null
       }
@@ -613,7 +693,7 @@
     "name": "K",
     "aliases": [
       {
-        "text": null,
+        "text": "처제",
         "image": null,
         "sound": null
       }
@@ -655,7 +735,12 @@
     "name": "엠마 : 택티컬 업",
     "aliases": [
       {
-        "text": null,
+        "text": "택엠",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "택티컬 엠마",
         "image": null,
         "sound": null
       }
@@ -676,7 +761,12 @@
     "name": "베스티 : 택티컬 업",
     "aliases": [
       {
-        "text": null,
+        "text": "택스티",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "택티컬 베스티",
         "image": null,
         "sound": null
       }
@@ -697,7 +787,12 @@
     "name": "은화 : 택티컬 업",
     "aliases": [
       {
-        "text": null,
+        "text": "택은화",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "택티컬 은화",
         "image": null,
         "sound": null
       }
@@ -718,7 +813,17 @@
     "name": "델타 : 닌자 시프",
     "aliases": [
       {
-        "text": null,
+        "text": "닌델",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "닌자 델타",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "닌델타",
         "image": null,
         "sound": null
       }
@@ -739,7 +844,22 @@
     "name": "솔린 : 프로스트 티켓",
     "aliases": [
       {
-        "text": null,
+        "text": "클린",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "농린",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "린로트켓",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 솔린",
         "image": null,
         "sound": null
       }
@@ -760,7 +880,12 @@
     "name": "디젤 : 윈터 스위츠",
     "aliases": [
       {
-        "text": null,
+        "text": "클디젤",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 디젤",
         "image": null,
         "sound": null
       }
@@ -781,7 +906,17 @@
     "name": "브리드 : 사일런트 트랙",
     "aliases": [
       {
-        "text": null,
+        "text": "클리드",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 브리드",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "작열 크라운",
         "image": null,
         "sound": null
       }
@@ -802,7 +937,7 @@
     "name": "레이블",
     "aliases": [
       {
-        "text": null,
+        "text": "음침녀",
         "image": null,
         "sound": null
       }
@@ -823,7 +958,7 @@
     "name": "E.H.",
     "aliases": [
       {
-        "text": null,
+        "text": "태",
         "image": null,
         "sound": null
       }
@@ -844,7 +979,7 @@
     "name": "아르카나 : 포츈 메이트",
     "aliases": [
       {
-        "text": null,
+        "text": "르나포이",
         "image": null,
         "sound": null
       }
@@ -886,7 +1021,17 @@
     "name": "마르차나 : 마린 스터디",
     "aliases": [
       {
-        "text": null,
+        "text": "르나린디",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 마르차나",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수말차",
         "image": null,
         "sound": null
       }
@@ -949,7 +1094,17 @@
     "name": "리타",
     "aliases": [
       {
-        "text": null,
+        "text": "할매",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "아우",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "할머니",
         "image": null,
         "sound": null
       }
@@ -970,7 +1125,17 @@
     "name": "율리아",
     "aliases": [
       {
-        "text": null,
+        "text": "스캠",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "애장품 스캠",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "율황",
         "image": null,
         "sound": null
       }
@@ -1012,7 +1177,12 @@
     "name": "드레이크",
     "aliases": [
       {
-        "text": null,
+        "text": "드황",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "드크",
         "image": null,
         "sound": null
       }
@@ -1033,7 +1203,12 @@
     "name": "크로우",
     "aliases": [
       {
-        "text": null,
+        "text": "테러범",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "폭파광",
         "image": null,
         "sound": null
       }
@@ -1054,7 +1229,12 @@
     "name": "페퍼",
     "aliases": [
       {
-        "text": null,
+        "text": "계단",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "어어 밀지마라",
         "image": null,
         "sound": null
       }
@@ -1096,7 +1276,7 @@
     "name": "자칼",
     "aliases": [
       {
-        "text": null,
+        "text": "멍멍이",
         "image": null,
         "sound": null
       }
@@ -1117,7 +1297,7 @@
     "name": "라플라스",
     "aliases": [
       {
-        "text": null,
+        "text": "히어로",
         "image": null,
         "sound": null
       }
@@ -1180,7 +1360,7 @@
     "name": "퀀시",
     "aliases": [
       {
-        "text": null,
+        "text": "퀸시",
         "image": null,
         "sound": null
       }
@@ -1201,7 +1381,17 @@
     "name": "앤 : 미라클 페어리",
     "aliases": [
       {
-        "text": null,
+        "text": "클앤",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 앤",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "딸랑구",
         "image": null,
         "sound": null
       }
@@ -1306,7 +1496,12 @@
     "name": "일레그",
     "aliases": [
       {
-        "text": null,
+        "text": "boom",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "붐",
         "image": null,
         "sound": null
       }
@@ -1327,7 +1522,12 @@
     "name": "킬로",
     "aliases": [
       {
-        "text": null,
+        "text": "탈로스",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "건담",
         "image": null,
         "sound": null
       }
@@ -1348,7 +1548,17 @@
     "name": "트로니",
     "aliases": [
       {
-        "text": null,
+        "text": "내아내임",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "진순",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "히키코모리",
         "image": null,
         "sound": null
       }
@@ -1390,7 +1600,7 @@
     "name": "퀀시 : 이스케이프 퀸",
     "aliases": [
       {
-        "text": null,
+        "text": "꽌시",
         "image": null,
         "sound": null
       }
@@ -1411,7 +1621,7 @@
     "name": "플로라",
     "aliases": [
       {
-        "text": null,
+        "text": "꽃라운",
         "image": null,
         "sound": null
       }
@@ -1474,7 +1684,7 @@
     "name": "미하라 : 본딩 체인",
     "aliases": [
       {
-        "text": null,
+        "text": "마허라",
         "image": null,
         "sound": null
       }
@@ -1516,7 +1726,12 @@
     "name": "일레그 : 붐 앤 쇼크",
     "aliases": [
       {
-        "text": null,
+        "text": "수레그",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 일레그",
         "image": null,
         "sound": null
       }
@@ -1537,7 +1752,7 @@
     "name": "백학",
     "aliases": [
       {
-        "text": null,
+        "text": "마망",
         "image": null,
         "sound": null
       }
@@ -1558,7 +1773,22 @@
     "name": "네온 : 비전 아이",
     "aliases": [
       {
-        "text": null,
+        "text": "네네온",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "셋째",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "네오네온",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "온전이",
         "image": null,
         "sound": null
       }
@@ -1579,7 +1809,7 @@
     "name": "라플라스 : 얼티밋 히어로",
     "aliases": [
       {
-        "text": null,
+        "text": "풍라플",
         "image": null,
         "sound": null
       }
@@ -1600,7 +1830,7 @@
     "name": "맥스웰 : 오디너리 미케닉",
     "aliases": [
       {
-        "text": null,
+        "text": "풍스웰",
         "image": null,
         "sound": null
       }
@@ -1621,7 +1851,12 @@
     "name": "드레이크 : 그레이트 빌런",
     "aliases": [
       {
-        "text": null,
+        "text": "풍드황",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "풍드크",
         "image": null,
         "sound": null
       }
@@ -1642,7 +1877,12 @@
     "name": "길티 : 마이티 바니",
     "aliases": [
       {
-        "text": null,
+        "text": "바길티",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "바니 길티",
         "image": null,
         "sound": null
       }
@@ -1663,7 +1903,12 @@
     "name": "신 : 스위프트 바니",
     "aliases": [
       {
-        "text": null,
+        "text": "바신",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "바니 신",
         "image": null,
         "sound": null
       }
@@ -1705,7 +1950,12 @@
     "name": "엑시아",
     "aliases": [
       {
-        "text": null,
+        "text": "에식이",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "뉴비",
         "image": null,
         "sound": null
       }
@@ -1726,7 +1976,17 @@
     "name": "앨리스",
     "aliases": [
       {
-        "text": null,
+        "text": "앨끼",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "토끼씨",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "핑그림",
         "image": null,
         "sound": null
       }
@@ -1747,7 +2007,12 @@
     "name": "블랑",
     "aliases": [
       {
-        "text": null,
+        "text": "일진",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "흰 우유",
         "image": null,
         "sound": null
       }
@@ -1768,7 +2033,7 @@
     "name": "누아르",
     "aliases": [
       {
-        "text": null,
+        "text": "초코 우유",
         "image": null,
         "sound": null
       }
@@ -2020,7 +2285,12 @@
     "name": "바이퍼",
     "aliases": [
       {
-        "text": null,
+        "text": "매독",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "독사",
         "image": null,
         "sound": null
       }
@@ -2083,7 +2353,7 @@
     "name": "비스킷",
     "aliases": [
       {
-        "text": null,
+        "text": "강아지",
         "image": null,
         "sound": null
       }
@@ -2125,7 +2395,7 @@
     "name": "아리아",
     "aliases": [
       {
-        "text": null,
+        "text": "랩쳐",
         "image": null,
         "sound": null
       }
@@ -2167,7 +2437,7 @@
     "name": "볼륨",
     "aliases": [
       {
-        "text": null,
+        "text": "개국공신",
         "image": null,
         "sound": null
       }
@@ -2188,7 +2458,12 @@
     "name": "루피 : 윈터 쇼퍼",
     "aliases": [
       {
-        "text": null,
+        "text": "클루피",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 루피",
         "image": null,
         "sound": null
       }
@@ -2209,7 +2484,7 @@
     "name": "로산나",
     "aliases": [
       {
-        "text": null,
+        "text": "노산나",
         "image": null,
         "sound": null
       }
@@ -2230,7 +2505,12 @@
     "name": "메어리 : 베이 갓데스",
     "aliases": [
       {
-        "text": null,
+        "text": "수어리",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 메어리",
         "image": null,
         "sound": null
       }
@@ -2251,7 +2531,7 @@
     "name": "네로",
     "aliases": [
       {
-        "text": null,
+        "text": "야옹이",
         "image": null,
         "sound": null
       }
@@ -2272,7 +2552,12 @@
     "name": "아니스 : 스파클링 서머",
     "aliases": [
       {
-        "text": null,
+        "text": "수니스",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 아니스",
         "image": null,
         "sound": null
       }
@@ -2293,7 +2578,12 @@
     "name": "루드밀라 : 윈터 오너",
     "aliases": [
       {
-        "text": null,
+        "text": "클루드",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 루드밀라",
         "image": null,
         "sound": null
       }
@@ -2314,7 +2604,17 @@
     "name": "미카 : 스노우 버디",
     "aliases": [
       {
-        "text": null,
+        "text": "클미카",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "크리스마스 미카",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "미노우디",
         "image": null,
         "sound": null
       }
@@ -2356,7 +2656,22 @@
     "name": "목단",
     "aliases": [
       {
-        "text": null,
+        "text": "짱룡",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "누님",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "바보",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "빡통",
         "image": null,
         "sound": null
       }
@@ -2377,7 +2692,7 @@
     "name": "에이드",
     "aliases": [
       {
-        "text": null,
+        "text": "ㅈ경",
         "image": null,
         "sound": null
       }
@@ -2419,7 +2734,12 @@
     "name": "소다 : 트윙클링 바니",
     "aliases": [
       {
-        "text": null,
+        "text": "바소다",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "바니 소다",
         "image": null,
         "sound": null
       }
@@ -2440,7 +2760,12 @@
     "name": "앨리스 : 원더랜드 바니",
     "aliases": [
       {
-        "text": null,
+        "text": "바리스",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "바니 앨리스",
         "image": null,
         "sound": null
       }
@@ -2482,7 +2807,12 @@
     "name": "로산나 : 시크 오션",
     "aliases": [
       {
-        "text": null,
+        "text": "수산나",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 로산나",
         "image": null,
         "sound": null
       }
@@ -2503,7 +2833,12 @@
     "name": "사쿠라 : 블룸 인 서머",
     "aliases": [
       {
-        "text": null,
+        "text": "수쿠라",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 사쿠라",
         "image": null,
         "sound": null
       }
@@ -2545,7 +2880,7 @@
     "name": "루마니",
     "aliases": [
       {
-        "text": null,
+        "text": "루적게",
         "image": null,
         "sound": null
       }
@@ -2566,7 +2901,27 @@
     "name": "브래디",
     "aliases": [
       {
-        "text": null,
+        "text": "브레디",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "빵순이",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "댇지",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "댖지",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "돼지",
         "image": null,
         "sound": null
       }
@@ -2587,7 +2942,7 @@
     "name": "크러스트",
     "aliases": [
       {
-        "text": null,
+        "text": "바삭이",
         "image": null,
         "sound": null
       }
@@ -2608,7 +2963,17 @@
     "name": "밀크 : 블루밍 바니",
     "aliases": [
       {
-        "text": null,
+        "text": "바밀크",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "바니 밀크",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "꾹톡이",
         "image": null,
         "sound": null
       }
@@ -2629,7 +2994,17 @@
     "name": "에이드 : 에이전트 바니",
     "aliases": [
       {
-        "text": null,
+        "text": "바이드",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "바이든",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "바니 에이드",
         "image": null,
         "sound": null
       }
@@ -2671,7 +3046,17 @@
     "name": "아니스 : 스타",
     "aliases": [
       {
-        "text": null,
+        "text": "돌니스",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "별니스",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "팔각",
         "image": null,
         "sound": null
       }
@@ -2713,7 +3098,7 @@
     "name": "프리카",
     "aliases": [
       {
-        "text": null,
+        "text": "파프리카",
         "image": null,
         "sound": null
       }
@@ -2734,7 +3119,7 @@
     "name": "아크레인저 블랙",
     "aliases": [
       {
-        "text": null,
+        "text": "아블",
         "image": null,
         "sound": null
       }
@@ -2755,7 +3140,17 @@
     "name": "벨로타 : 펌킨 위치",
     "aliases": [
       {
-        "text": null,
+        "text": "할로타",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "할로윈 벨로타",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "벨타킨치",
         "image": null,
         "sound": null
       }
@@ -2776,7 +3171,12 @@
     "name": "스노우 화이트",
     "aliases": [
       {
-        "text": null,
+        "text": "스화",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "백설",
         "image": null,
         "sound": null
       }
@@ -2797,7 +3197,7 @@
     "name": "이사벨",
     "aliases": [
       {
-        "text": null,
+        "text": "24벨",
         "image": null,
         "sound": null
       }
@@ -2818,7 +3218,7 @@
     "name": "라푼젤",
     "aliases": [
       {
-        "text": null,
+        "text": "변태",
         "image": null,
         "sound": null
       }
@@ -2839,7 +3239,22 @@
     "name": "홍련",
     "aliases": [
       {
-        "text": null,
+        "text": "홍북이",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "홍부기",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "냉삼",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "도령",
         "image": null,
         "sound": null
       }
@@ -2881,7 +3296,7 @@
     "name": "노아",
     "aliases": [
       {
-        "text": null,
+        "text": "키득키득",
         "image": null,
         "sound": null
       }
@@ -2902,7 +3317,7 @@
     "name": "모더니아",
     "aliases": [
       {
-        "text": null,
+        "text": "모엥",
         "image": null,
         "sound": null
       }
@@ -2923,7 +3338,22 @@
     "name": "니힐리스타",
     "aliases": [
       {
-        "text": null,
+        "text": "니힐",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "누오옹",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "농힐",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "화룡",
         "image": null,
         "sound": null
       }
@@ -2944,7 +3374,12 @@
     "name": "도로시",
     "aliases": [
       {
-        "text": null,
+        "text": "도로롱",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "DORO",
         "image": null,
         "sound": null
       }
@@ -2965,7 +3400,12 @@
     "name": "레드 후드",
     "aliases": [
       {
-        "text": null,
+        "text": "레후",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "레듀듀",
         "image": null,
         "sound": null
       }
@@ -2986,7 +3426,12 @@
     "name": "스노우 화이트 : 이노센트 데이즈",
     "aliases": [
       {
-        "text": null,
+        "text": "농설",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "농스화",
         "image": null,
         "sound": null
       }
@@ -3007,7 +3452,17 @@
     "name": "홍련 : 흑영",
     "aliases": [
       {
-        "text": null,
+        "text": "흑북이",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "흑부기",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "흑련",
         "image": null,
         "sound": null
       }
@@ -3028,7 +3483,12 @@
     "name": "크라운",
     "aliases": [
       {
-        "text": null,
+        "text": "여왕",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "인권",
         "image": null,
         "sound": null
       }
@@ -3049,7 +3509,12 @@
     "name": "라푼젤 : 퓨어 그레이스",
     "aliases": [
       {
-        "text": null,
+        "text": "농푼젤",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "구푼젤",
         "image": null,
         "sound": null
       }
@@ -3070,7 +3535,17 @@
     "name": "신데렐라",
     "aliases": [
       {
-        "text": null,
+        "text": "렐라",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "렐루",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "아나키오르",
         "image": null,
         "sound": null
       }
@@ -3091,7 +3566,12 @@
     "name": "그레이브",
     "aliases": [
       {
-        "text": null,
+        "text": "그브",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "그레그레",
         "image": null,
         "sound": null
       }
@@ -3112,7 +3592,12 @@
     "name": "리틀 머메이드",
     "aliases": [
       {
-        "text": null,
+        "text": "세이렌",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "아우",
         "image": null,
         "sound": null
       }
@@ -3133,7 +3618,27 @@
     "name": "도로시 : 세렌디피티",
     "aliases": [
       {
-        "text": null,
+        "text": "수로시",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "도덩이",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 도로시",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "시세렌디",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수도세",
         "image": null,
         "sound": null
       }
@@ -3154,7 +3659,7 @@
     "name": "나유타",
     "aliases": [
       {
-        "text": null,
+        "text": "땡중",
         "image": null,
         "sound": null
       }
@@ -3175,7 +3680,12 @@
     "name": "리버렐리오",
     "aliases": [
       {
-        "text": null,
+        "text": "리버렐루",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "리렐루",
         "image": null,
         "sound": null
       }
@@ -3196,7 +3706,7 @@
     "name": "차임",
     "aliases": [
       {
-        "text": null,
+        "text": "이놈",
         "image": null,
         "sound": null
       }
@@ -3217,7 +3727,17 @@
     "name": "스노우 화이트 : 헤비암즈",
     "aliases": [
       {
-        "text": null,
+        "text": "각설",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "각스화",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수화",
         "image": null,
         "sound": null
       }
@@ -3238,7 +3758,22 @@
     "name": "신데렐라 : 크리스탈 웨이브",
     "aliases": [
       {
-        "text": null,
+        "text": "수신데",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수렐루",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수영복 신데렐라",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "수렐라",
         "image": null,
         "sound": null
       }
@@ -3280,7 +3815,7 @@
     "name": "네온",
     "aliases": [
       {
-        "text": null,
+        "text": "화력",
         "image": null,
         "sound": null
       }
@@ -3364,7 +3899,7 @@
     "name": "N102",
     "aliases": [
       {
-        "text": null,
+        "text": "앤",
         "image": null,
         "sound": null
       }
@@ -3406,7 +3941,7 @@
     "name": "아니스",
     "aliases": [
       {
-        "text": null,
+        "text": "엉덩이",
         "image": null,
         "sound": null
       }
@@ -3427,7 +3962,7 @@
     "name": "벨로타",
     "aliases": [
       {
-        "text": null,
+        "text": "고아",
         "image": null,
         "sound": null
       }
@@ -3490,7 +4025,7 @@
     "name": "솔져 E.G.",
     "aliases": [
       {
-        "text": null,
+        "text": "솔져 이글",
         "image": null,
         "sound": null
       }
@@ -3511,7 +4046,7 @@
     "name": "솔져 F.A.",
     "aliases": [
       {
-        "text": null,
+        "text": "솔져 팔콘",
         "image": null,
         "sound": null
       }
@@ -3532,7 +4067,12 @@
     "name": "솔져 O.W.",
     "aliases": [
       {
-        "text": null,
+        "text": "솔져 아울",
+        "image": null,
+        "sound": null
+      },
+      {
+        "text": "솔져 오울",
         "image": null,
         "sound": null
       }
@@ -3616,7 +4156,7 @@
     "name": "iDoll 플라워",
     "aliases": [
       {
-        "text": null,
+        "text": "아이돌 플라워",
         "image": null,
         "sound": null
       }
@@ -3637,7 +4177,7 @@
     "name": "iDoll 오션",
     "aliases": [
       {
-        "text": null,
+        "text": "아이돌 오션",
         "image": null,
         "sound": null
       }
@@ -3658,7 +4198,7 @@
     "name": "iDoll 썬",
     "aliases": [
       {
-        "text": null,
+        "text": "아이돌 썬",
         "image": null,
         "sound": null
       }

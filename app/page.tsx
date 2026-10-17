@@ -81,6 +81,8 @@ export default function Home() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
+  const [inputKey, setInputKey] = useState(Date.now());
+
   const t = uiText[lang];
 
   useEffect(() => {
@@ -192,6 +194,9 @@ export default function Home() {
     if (matchedNikke) {
       setAnsweredIds(prev => [...prev, matchedNikke.id]);
 
+      // 💡 [수정] 정답을 맞출 때마다 키값을 바꿔서 입력창을 완전히 새로 만듦
+      setInputKey(Date.now());
+
       // 💡 [수정됨] 한글 IME 마지막 글자 찌꺼기 제거 로직
       setInputValue(""); 
       setTimeout(() => {
@@ -299,7 +304,7 @@ export default function Home() {
               <div className="bg-[#4a5c39] dark:bg-gray-900 text-white px-4 py-3 font-bold flex items-center whitespace-nowrap transition-colors">
                 {t.inputLabel}
               </div>
-              <input ref={inputRef} type="text" value={inputValue} onChange={handleInputChange} placeholder={t.placeholder} className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" autoFocus />
+              <input key={inputKey} type="text" value={inputValue} onChange={handleInputChange} placeholder={t.placeholder} className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" autoFocus />
             </div>
             <div className="shrink-0 md:ml-auto w-full md:w-auto flex justify-center md:justify-end mt-2 md:mt-0">
               <SettingsPanel />

@@ -78,9 +78,8 @@ export default function Home() {
   const [volume, setVolume] = useState(0.5); 
   const audioRef = useRef<HTMLAudioElement | null>(null);
   
-  // 💡 [수정] 한글 조합 상태 및 렌더링 제어
-  const [isComposing, setIsComposing] = useState(false);
-  const [showInput, setShowInput] = useState(true);
+  // 💡 [수정] 다시 inputRef 하나만 깔끔하게 사용합니다.
+  const inputRef = useRef<HTMLInputElement>(null);
 
   const t = uiText[lang];
 
@@ -189,13 +188,13 @@ export default function Home() {
 
     if (matchedNikke) {
       setAnsweredIds(prev => [...prev, matchedNikke.id]);
+      setInputValue("");
       
-      // 💡 [수정] 정답 일치 시, 입력창을 강제로 내렸다가 다시 렌더링하는 트릭
-      setShowInput(false);
-      setTimeout(() => {
-        setInputValue("");
-        setShowInput(true);
-      }, 0);
+      // 💡 [수정] 모바일 키보드 애니메이션이 작동할 틈도 없이 포커스를 뺐다 끼워 IME 한글 버퍼만 완벽 초기화!
+      if (inputRef.current) {
+        inputRef.current.blur();
+        inputRef.current.focus();
+      }
 
       if (isAudioOn && matchedNikke.sound) {
         if (audioRef.current) {
@@ -293,19 +292,16 @@ export default function Home() {
               <div className="bg-[#4a5c39] dark:bg-gray-900 text-white px-4 py-3 font-bold flex items-center whitespace-nowrap transition-colors">
                 {t.inputLabel}
               </div>
-              {/* 💡 [수정] showInput 상태에 따라 입력창을 조건부 렌더링하고 조합 이벤트 추가 */}
-              {showInput && (
-                <input 
-                  type="text" 
-                  value={inputValue} 
-                  onChange={handleInputChange} 
-                  onCompositionStart={() => setIsComposing(true)}
-                  onCompositionEnd={() => setIsComposing(false)}
-                  placeholder={t.placeholder} 
-                  className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" 
-                  autoFocus 
-                />
-              )}
+              {/* 💡 [수정] 복잡한 onComposition 조건들 다 지우고, 깔끔하게 inputRef 연결만 유지 */}
+              <input 
+                ref={inputRef}
+                type="text" 
+                value={inputValue} 
+                onChange={handleInputChange} 
+                placeholder={t.placeholder} 
+                className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" 
+                autoFocus 
+              />
             </div>
             <div className="shrink-0 md:ml-auto w-full md:w-auto flex justify-center md:justify-end mt-2 md:mt-0">
               <SettingsPanel />

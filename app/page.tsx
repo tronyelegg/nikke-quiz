@@ -78,8 +78,9 @@ export default function Home() {
   const [volume, setVolume] = useState(0.5); 
   const audioRef = useRef<HTMLAudioElement | null>(null);
   
-  // 💡 [수정] 다시 inputRef 하나만 깔끔하게 사용합니다.
-  const inputRef = useRef<HTMLInputElement>(null);
+  // 💡 [롤백] PC 한글 버퍼 완벽 제거를 위한 상태값 부활
+  const [isComposing, setIsComposing] = useState(false);
+  const [showInput, setShowInput] = useState(true);
 
   const t = uiText[lang];
 
@@ -175,6 +176,7 @@ export default function Home() {
     const text = e.target.value;
     setInputValue(text);
 
+    // 💡 [유지] 공백(\s)과 콜론(:)을 모두 무시하도록 정규식 적용
     const normalizedText = text.trim().replace(/[\s:.]+/g, '').toLowerCase();
     if (!normalizedText) return;
 
@@ -188,13 +190,13 @@ export default function Home() {
 
     if (matchedNikke) {
       setAnsweredIds(prev => [...prev, matchedNikke.id]);
-      setInputValue("");
       
-      // 💡 [수정] 모바일 키보드 애니메이션이 작동할 틈도 없이 포커스를 뺐다 끼워 IME 한글 버퍼만 완벽 초기화!
-      if (inputRef.current) {
-        inputRef.current.blur();
-        inputRef.current.focus();
-      }
+      // 💡 [롤백] 정답 일치 시 DOM 자체를 파괴했다가 재생성하여 PC IME 찌꺼기 완벽 차단
+      setShowInput(false);
+      setTimeout(() => {
+        setInputValue("");
+        setShowInput(true);
+      }, 0);
 
       if (isAudioOn && matchedNikke.sound) {
         if (audioRef.current) {
@@ -292,16 +294,19 @@ export default function Home() {
               <div className="bg-[#4a5c39] dark:bg-gray-900 text-white px-4 py-3 font-bold flex items-center whitespace-nowrap transition-colors">
                 {t.inputLabel}
               </div>
-              {/* 💡 [수정] 복잡한 onComposition 조건들 다 지우고, 깔끔하게 inputRef 연결만 유지 */}
-              <input 
-                ref={inputRef}
-                type="text" 
-                value={inputValue} 
-                onChange={handleInputChange} 
-                placeholder={t.placeholder} 
-                className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" 
-                autoFocus 
-              />
+              {/* 💡 [롤백] showInput 상태로 조건부 렌더링 */}
+              {showInput && (
+                <input 
+                  type="text" 
+                  value={inputValue} 
+                  onChange={handleInputChange} 
+                  onCompositionStart={() => setIsComposing(true)}
+                  onCompositionEnd={() => setIsComposing(false)}
+                  placeholder={t.placeholder} 
+                  className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" 
+                  autoFocus 
+                />
+              )}
             </div>
             <div className="shrink-0 md:ml-auto w-full md:w-auto flex justify-center md:justify-end mt-2 md:mt-0">
               <SettingsPanel />

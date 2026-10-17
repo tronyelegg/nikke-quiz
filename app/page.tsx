@@ -1,6 +1,5 @@
 "use client";
 
-// 💡 [수정] useRef 추가
 import { useState, useMemo, useEffect, useRef } from 'react';
 import nikkesData from '../src/data/nikkes.json';
 
@@ -76,12 +75,12 @@ export default function Home() {
   const [isShadowOn, setIsShadowOn] = useState(false);
   const [lang, setLang] = useState<Language>('ko');
   
-  // 💡 [수정] 볼륨 상태 및 현재 재생 중인 오디오를 추적하는 Ref 추가
   const [volume, setVolume] = useState(0.5); 
   const audioRef = useRef<HTMLAudioElement | null>(null);
-  const inputRef = useRef<HTMLInputElement>(null);
-
-  const [inputKey, setInputKey] = useState(Date.now());
+  
+  // 💡 [수정] 한글 조합 상태 및 렌더링 제어
+  const [isComposing, setIsComposing] = useState(false);
+  const [showInput, setShowInput] = useState(true);
 
   const t = uiText[lang];
 
@@ -95,7 +94,6 @@ export default function Home() {
       document.documentElement.classList.remove('dark');
     }
 
-    // 💡 [수정] 저장된 볼륨 불러오기
     const savedVolume = localStorage.getItem('volume');
     if (savedVolume !== null) {
       setVolume(parseFloat(savedVolume));
@@ -114,7 +112,6 @@ export default function Home() {
     }
   };
 
-  // 💡 [수정] 볼륨 조절 핸들러 (조절 즉시 재생중인 소리에도 반영)
   const handleVolumeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const newVolume = parseFloat(e.target.value);
     setVolume(newVolume);
@@ -129,7 +126,6 @@ export default function Home() {
     setAnsweredIds([]); 
     setInputValue("");
     
-    // 게임 시작 시 재생 중인 오디오 정지
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.currentTime = 0;
@@ -193,19 +189,14 @@ export default function Home() {
 
     if (matchedNikke) {
       setAnsweredIds(prev => [...prev, matchedNikke.id]);
-
-      // 💡 [수정] 정답을 맞출 때마다 키값을 바꿔서 입력창을 완전히 새로 만듦
-      setInputKey(Date.now());
-
-      // 💡 [수정됨] 한글 IME 마지막 글자 찌꺼기 제거 로직
-      setInputValue(""); 
-      setTimeout(() => {
-        if (inputRef.current) {
-          inputRef.current.value = "";
-        }
-      }, 10);
       
-      // 💡 [수정] 오디오 겹침 방지 및 볼륨 적용
+      // 💡 [수정] 정답 일치 시, 입력창을 강제로 내렸다가 다시 렌더링하는 트릭
+      setShowInput(false);
+      setTimeout(() => {
+        setInputValue("");
+        setShowInput(true);
+      }, 0);
+
       if (isAudioOn && matchedNikke.sound) {
         if (audioRef.current) {
           audioRef.current.pause();
@@ -216,7 +207,6 @@ export default function Home() {
         audioRef.current = audio;
         audio.play().catch(err => console.error("Audio error:", err));
       }
-      
     }
   };
 
@@ -234,7 +224,6 @@ export default function Home() {
         {isDarkMode ? t.light : t.dark}
       </button>
 
-      {/* 💡 [수정] 오디오 토글과 볼륨 슬라이더를 하나로 묶음 */}
       <div className="flex items-center gap-2 bg-white/80 dark:bg-gray-800 px-3 py-2 rounded-md shadow-sm transition-colors">
         <button onClick={() => setIsAudioOn(!isAudioOn)} className="text-gray-800 dark:text-gray-200 font-bold text-xs transition-colors whitespace-nowrap">
           {isAudioOn ? t.audioOn : t.audioOff}
@@ -304,7 +293,19 @@ export default function Home() {
               <div className="bg-[#4a5c39] dark:bg-gray-900 text-white px-4 py-3 font-bold flex items-center whitespace-nowrap transition-colors">
                 {t.inputLabel}
               </div>
-              <input key={inputKey} type="text" value={inputValue} onChange={handleInputChange} placeholder={t.placeholder} className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" autoFocus />
+              {/* 💡 [수정] showInput 상태에 따라 입력창을 조건부 렌더링하고 조합 이벤트 추가 */}
+              {showInput && (
+                <input 
+                  type="text" 
+                  value={inputValue} 
+                  onChange={handleInputChange} 
+                  onCompositionStart={() => setIsComposing(true)}
+                  onCompositionEnd={() => setIsComposing(false)}
+                  placeholder={t.placeholder} 
+                  className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" 
+                  autoFocus 
+                />
+              )}
             </div>
             <div className="shrink-0 md:ml-auto w-full md:w-auto flex justify-center md:justify-end mt-2 md:mt-0">
               <SettingsPanel />

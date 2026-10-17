@@ -79,6 +79,7 @@ export default function Home() {
   // 💡 [수정] 볼륨 상태 및 현재 재생 중인 오디오를 추적하는 Ref 추가
   const [volume, setVolume] = useState(0.5); 
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   const t = uiText[lang];
 
@@ -190,7 +191,14 @@ export default function Home() {
 
     if (matchedNikke) {
       setAnsweredIds(prev => [...prev, matchedNikke.id]);
+
+      // 💡 [수정됨] 한글 IME 마지막 글자 찌꺼기 제거 로직
       setInputValue(""); 
+      setTimeout(() => {
+        if (inputRef.current) {
+          inputRef.current.value = "";
+        }
+      }, 10);
       
       // 💡 [수정] 오디오 겹침 방지 및 볼륨 적용
       if (isAudioOn && matchedNikke.sound) {
@@ -203,6 +211,7 @@ export default function Home() {
         audioRef.current = audio;
         audio.play().catch(err => console.error("Audio error:", err));
       }
+      
     }
   };
 
@@ -290,7 +299,7 @@ export default function Home() {
               <div className="bg-[#4a5c39] dark:bg-gray-900 text-white px-4 py-3 font-bold flex items-center whitespace-nowrap transition-colors">
                 {t.inputLabel}
               </div>
-              <input type="text" value={inputValue} onChange={handleInputChange} placeholder={t.placeholder} className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" autoFocus />
+              <input ref={inputRef} type="text" value={inputValue} onChange={handleInputChange} placeholder={t.placeholder} className="px-4 py-3 w-full outline-none font-bold text-gray-800 dark:text-white dark:bg-gray-700 transition-colors" autoFocus />
             </div>
             <div className="shrink-0 md:ml-auto w-full md:w-auto flex justify-center md:justify-end mt-2 md:mt-0">
               <SettingsPanel />

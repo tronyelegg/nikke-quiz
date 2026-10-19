@@ -26,13 +26,13 @@
     "aliases": [
       {
         "text": "미쿠",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/미쿠.png",
+        "sound": "data/audio/voice-alt/미쿠.mp3"
       },
       {
         "text": "파루잔",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/파루잔.png",
+        "sound": "data/audio/voice-alt/파루잔.mp3"
       }
     ],
     "company": "ELYSION",
@@ -73,13 +73,13 @@
     "aliases": [
       {
         "text": "댕댕이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/댕댕이.png",
+        "sound": "data/audio/voice-alt/댕댕이.mp3"
       },
       {
         "text": "에흉",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/에흉.png",
+        "sound": "data/audio/voice-alt/에흉.mp3"
       }
     ],
     "company": "ELYSION",
@@ -162,8 +162,8 @@
     "aliases": [
       {
         "text": "퉁퉁이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/퉁퉁이.png",
+        "sound": "data/audio/voice-alt/퉁퉁이.mp3"
       }
     ],
     "company": "ELYSION",
@@ -204,8 +204,8 @@
     "aliases": [
       {
         "text": "도마",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/도마.png",
+        "sound": "data/audio/voice-alt/도마.mp3"
       }
     ],
     "company": "ELYSION",
@@ -225,8 +225,8 @@
     "aliases": [
       {
         "text": "중2병",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/중2병.png",
+        "sound": "data/audio/voice-alt/중2병.mp3"
       }
     ],
     "company": "ELYSION",
@@ -288,13 +288,13 @@
     "aliases": [
       {
         "text": "방최창",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/방최창.png",
+        "sound": "data/audio/voice-alt/방최창.mp3"
       },
       {
         "text": "창녀",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/창녀.png",
+        "sound": "data/audio/voice-alt/창녀.mp3"
       }
     ],
     "company": "ELYSION",
@@ -314,13 +314,13 @@
     "aliases": [
       {
         "text": "수네온",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수네온.png",
+        "sound": "data/audio/voice-alt/수네온.mp3"
       },
       {
         "text": "수영복 네온",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 네온.png",
+        "sound": "data/audio/voice-alt/수영복 네온.mp3"
       }
     ],
     "company": "ELYSION",
@@ -361,13 +361,13 @@
     "aliases": [
       {
         "text": "수헬름",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수헬름.png",
+        "sound": "data/audio/voice-alt/수헬름.mp3"
       },
       {
         "text": "수영복 헬름",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 헬름.png",
+        "sound": "data/audio/voice-alt/수영복 헬름.mp3"
       }
     ],
     "company": "ELYSION",
@@ -387,18 +387,18 @@
     "aliases": [
       {
         "text": "화장실",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/화장실.png",
+        "sound": "data/audio/voice-alt/화장실.mp3"
       },
       {
         "text": "선생님",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/선생님.png",
+        "sound": "data/audio/voice-alt/선생님.mp3"
       },
       {
         "text": "말차",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/말차.png",
+        "sound": "data/audio/voice-alt/말차.mp3"
       }
     ],
     "company": "ELYSION",
@@ -439,8 +439,8 @@
     "aliases": [
       {
         "text": "메프바",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/메프바.png",
+        "sound": "data/audio/voice-alt/메프바.mp3"
       }
     ],
     "company": "ELYSION",
@@ -460,18 +460,18 @@
     "aliases": [
       {
         "text": "동D",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/동D.png",
+        "sound": "data/audio/voice-alt/동D.mp3"
       },
       {
         "text": "동디",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/동디.png",
+        "sound": "data/audio/voice-alt/동디.mp3"
       },
       {
         "text": "여보",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/여보.png",
+        "sound": "data/audio/voice-alt/여보.mp3"
       }
     ],
     "company": "ELYSION",
@@ -512,8 +512,8 @@
     "aliases": [
       {
         "text": "괴도",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/괴도.png",
+        "sound": "data/audio/voice-alt/괴도.mp3"
       }
     ],
     "company": "ELYSION",
@@ -533,13 +533,13 @@
     "aliases": [
       {
         "text": "클이든",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클이든.png",
+        "sound": "data/audio/voice-alt/클이든.mp3"
       },
       {
         "text": "크리스마스 메이든",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 메이든.png",
+        "sound": "data/audio/voice-alt/크리스마스 메이든.mp3"
       }
     ],
     "company": "ELYSION",
@@ -559,13 +559,13 @@
     "aliases": [
       {
         "text": "클로틴",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클로틴.png",
+        "sound": "data/audio/voice-alt/클로틴.mp3"
       },
       {
         "text": "크리스마스 길로틴",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 길로틴.png",
+        "sound": "data/audio/voice-alt/크리스마스 길로틴.mp3"
       }
     ],
     "company": "ELYSION",
@@ -585,18 +585,18 @@
     "aliases": [
       {
         "text": "라레후",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/라레후.png",
+        "sound": "data/audio/voice-alt/라레후.mp3"
       },
       {
         "text": "라후",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/라후.png",
+        "sound": "data/audio/voice-alt/라후.mp3"
       },
       {
         "text": "각피",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/각피.png",
+        "sound": "data/audio/voice-alt/각피.mp3"
       }
     ],
     "company": "ELYSION",
@@ -616,13 +616,13 @@
     "aliases": [
       {
         "text": "메스트",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/메스트.png",
+        "sound": "data/audio/voice-alt/메스트.mp3"
       },
       {
         "text": "메이드 마스트",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/메이드 마스트.png",
+        "sound": "data/audio/voice-alt/메이드 마스트.mp3"
       }
     ],
     "company": "ELYSION",
@@ -642,18 +642,18 @@
     "aliases": [
       {
         "text": "메앵",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/메앵.png",
+        "sound": "data/audio/voice-alt/메앵.mp3"
       },
       {
         "text": "메이드 앵커",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/메이드 앵커.png",
+        "sound": "data/audio/voice-alt/메이드 앵커.mp3"
       },
       {
         "text": "뫵커",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/뫵커.png",
+        "sound": "data/audio/voice-alt/뫵커.mp3"
       }
     ],
     "company": "ELYSION",
@@ -673,8 +673,8 @@
     "aliases": [
       {
         "text": "자기",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/자기.png",
+        "sound": "data/audio/voice-alt/자기.mp3"
       }
     ],
     "company": "ELYSION",
@@ -694,8 +694,8 @@
     "aliases": [
       {
         "text": "처제",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/처제.png",
+        "sound": "data/audio/voice-alt/처제.mp3"
       }
     ],
     "company": "ELYSION",
@@ -736,13 +736,13 @@
     "aliases": [
       {
         "text": "택엠",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/택엠.png",
+        "sound": "data/audio/voice-alt/택엠.mp3"
       },
       {
         "text": "택티컬 엠마",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/택티컬 엠마.png",
+        "sound": "data/audio/voice-alt/택티컬 엠마.mp3"
       }
     ],
     "company": "ELYSION",
@@ -762,13 +762,13 @@
     "aliases": [
       {
         "text": "택스티",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/택스티.png",
+        "sound": "data/audio/voice-alt/택스티.mp3"
       },
       {
         "text": "택티컬 베스티",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/택티컬 베스티.png",
+        "sound": "data/audio/voice-alt/택티컬 베스티.mp3"
       }
     ],
     "company": "ELYSION",
@@ -788,13 +788,13 @@
     "aliases": [
       {
         "text": "택은화",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/택은화.png",
+        "sound": "data/audio/voice-alt/택은화.mp3"
       },
       {
         "text": "택티컬 은화",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/택티컬 은화.png",
+        "sound": "data/audio/voice-alt/택티컬 은화.mp3"
       }
     ],
     "company": "ELYSION",
@@ -814,18 +814,18 @@
     "aliases": [
       {
         "text": "닌델",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/닌델.png",
+        "sound": "data/audio/voice-alt/닌델.mp3"
       },
       {
         "text": "닌자 델타",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/닌자 델타.png",
+        "sound": "data/audio/voice-alt/닌자 델타.mp3"
       },
       {
         "text": "닌델타",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/닌델타.png",
+        "sound": "data/audio/voice-alt/닌델타.mp3"
       }
     ],
     "company": "ELYSION",
@@ -845,23 +845,23 @@
     "aliases": [
       {
         "text": "클린",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클린.png",
+        "sound": "data/audio/voice-alt/클린.mp3"
       },
       {
         "text": "농린",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/농린.png",
+        "sound": "data/audio/voice-alt/농린.mp3"
       },
       {
         "text": "린로트켓",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/린로트켓.png",
+        "sound": "data/audio/voice-alt/린로트켓.mp3"
       },
       {
         "text": "크리스마스 솔린",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 솔린.png",
+        "sound": "data/audio/voice-alt/크리스마스 솔린.mp3"
       }
     ],
     "company": "ELYSION",
@@ -881,13 +881,13 @@
     "aliases": [
       {
         "text": "클디젤",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클디젤.png",
+        "sound": "data/audio/voice-alt/클디젤.mp3"
       },
       {
         "text": "크리스마스 디젤",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 디젤.png",
+        "sound": "data/audio/voice-alt/크리스마스 디젤.mp3"
       }
     ],
     "company": "ELYSION",
@@ -907,18 +907,18 @@
     "aliases": [
       {
         "text": "클리드",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클리드.png",
+        "sound": "data/audio/voice-alt/클리드.mp3"
       },
       {
         "text": "크리스마스 브리드",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 브리드.png",
+        "sound": "data/audio/voice-alt/크리스마스 브리드.mp3"
       },
       {
         "text": "작열 크라운",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/작열 크라운.png",
+        "sound": "data/audio/voice-alt/작열 크라운.mp3"
       }
     ],
     "company": "ELYSION",
@@ -938,8 +938,8 @@
     "aliases": [
       {
         "text": "음침녀",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/음침녀.png",
+        "sound": "data/audio/voice-alt/음침녀.mp3"
       }
     ],
     "company": "ELYSION",
@@ -959,8 +959,8 @@
     "aliases": [
       {
         "text": "태",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/태.png",
+        "sound": "data/audio/voice-alt/태.mp3"
       }
     ],
     "company": "ELYSION",
@@ -980,8 +980,8 @@
     "aliases": [
       {
         "text": "르나포이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/르나포이.png",
+        "sound": "data/audio/voice-alt/르나포이.mp3"
       }
     ],
     "company": "ELYSION",
@@ -1022,18 +1022,18 @@
     "aliases": [
       {
         "text": "르나린디",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/르나린디.png",
+        "sound": "data/audio/voice-alt/르나린디.mp3"
       },
       {
         "text": "수영복 마르차나",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 마르차나.png",
+        "sound": "data/audio/voice-alt/수영복 마르차나.mp3"
       },
       {
         "text": "수말차",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수말차.png",
+        "sound": "data/audio/voice-alt/수말차.mp3"
       }
     ],
     "company": "ELYSION",
@@ -1095,18 +1095,18 @@
     "aliases": [
       {
         "text": "할매",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/할매.png",
+        "sound": "data/audio/voice-alt/할매.mp3"
       },
       {
         "text": "아우",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/아우.png",
+        "sound": "data/audio/voice-alt/아우.mp3"
       },
       {
         "text": "할머니",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/할머니.png",
+        "sound": "data/audio/voice-alt/할머니.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1126,18 +1126,18 @@
     "aliases": [
       {
         "text": "스캠",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/스캠.png",
+        "sound": "data/audio/voice-alt/스캠.mp3"
       },
       {
         "text": "애장품 스캠",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/애장품 스캠.png",
+        "sound": "data/audio/voice-alt/애장품 스캠.mp3"
       },
       {
         "text": "율황",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/율황.png",
+        "sound": "data/audio/voice-alt/율황.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1178,13 +1178,13 @@
     "aliases": [
       {
         "text": "드황",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/드황.png",
+        "sound": "data/audio/voice-alt/드황.mp3"
       },
       {
         "text": "드크",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/드크.png",
+        "sound": "data/audio/voice-alt/드크.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1204,13 +1204,13 @@
     "aliases": [
       {
         "text": "테러범",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/테러범.png",
+        "sound": "data/audio/voice-alt/테러범.mp3"
       },
       {
         "text": "폭파광",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/폭파광.png",
+        "sound": "data/audio/voice-alt/폭파광.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1230,13 +1230,13 @@
     "aliases": [
       {
         "text": "계단",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/계단.png",
+        "sound": "data/audio/voice-alt/계단.mp3"
       },
       {
         "text": "어어 밀지마라",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/어어 밀지마라.png",
+        "sound": "data/audio/voice-alt/어어 밀지마라.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1277,8 +1277,8 @@
     "aliases": [
       {
         "text": "멍멍이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/멍멍이.png",
+        "sound": "data/audio/voice-alt/멍멍이.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1298,8 +1298,8 @@
     "aliases": [
       {
         "text": "히어로",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/히어로.png",
+        "sound": "data/audio/voice-alt/히어로.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1361,8 +1361,8 @@
     "aliases": [
       {
         "text": "퀸시",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/퀸시.png",
+        "sound": "data/audio/voice-alt/퀸시.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1382,18 +1382,18 @@
     "aliases": [
       {
         "text": "클앤",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클앤.png",
+        "sound": "data/audio/voice-alt/클앤.mp3"
       },
       {
         "text": "크리스마스 앤",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 앤.png",
+        "sound": "data/audio/voice-alt/크리스마스 앤.mp3"
       },
       {
         "text": "딸랑구",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/딸랑구.png",
+        "sound": "data/audio/voice-alt/딸랑구.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1497,13 +1497,13 @@
     "aliases": [
       {
         "text": "boom",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/boom.png",
+        "sound": "data/audio/voice-alt/boom.mp3"
       },
       {
         "text": "붐",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/붐.png",
+        "sound": "data/audio/voice-alt/붐.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1523,13 +1523,13 @@
     "aliases": [
       {
         "text": "탈로스",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/탈로스.png",
+        "sound": "data/audio/voice-alt/탈로스.mp3"
       },
       {
         "text": "건담",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/건담.png",
+        "sound": "data/audio/voice-alt/건담.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1549,18 +1549,18 @@
     "aliases": [
       {
         "text": "내아내임",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/내아내임.png",
+        "sound": "data/audio/voice-alt/내아내임.mp3"
       },
       {
         "text": "진순",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/진순.png",
+        "sound": "data/audio/voice-alt/진순.mp3"
       },
       {
         "text": "히키코모리",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/히키코모리.png",
+        "sound": "data/audio/voice-alt/히키코모리.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1601,8 +1601,8 @@
     "aliases": [
       {
         "text": "꽌시",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/꽌시.png",
+        "sound": "data/audio/voice-alt/꽌시.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1622,8 +1622,8 @@
     "aliases": [
       {
         "text": "꽃라운",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/꽃라운.png",
+        "sound": "data/audio/voice-alt/꽃라운.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1685,8 +1685,8 @@
     "aliases": [
       {
         "text": "마허라",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/마허라.png",
+        "sound": "data/audio/voice-alt/마허라.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1727,13 +1727,13 @@
     "aliases": [
       {
         "text": "수레그",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수레그.png",
+        "sound": "data/audio/voice-alt/수레그.mp3"
       },
       {
         "text": "수영복 일레그",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 일레그.png",
+        "sound": "data/audio/voice-alt/수영복 일레그.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1753,8 +1753,8 @@
     "aliases": [
       {
         "text": "마망",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/마망.png",
+        "sound": "data/audio/voice-alt/마망.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1774,23 +1774,23 @@
     "aliases": [
       {
         "text": "네네온",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/네네온.png",
+        "sound": "data/audio/voice-alt/네네온.mp3"
       },
       {
         "text": "셋째",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/셋째.png",
+        "sound": "data/audio/voice-alt/셋째.mp3"
       },
       {
         "text": "네오네온",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/네오네온.png",
+        "sound": "data/audio/voice-alt/네오네온.mp3"
       },
       {
         "text": "온전이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/온전이.png",
+        "sound": "data/audio/voice-alt/온전이.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1810,8 +1810,8 @@
     "aliases": [
       {
         "text": "풍라플",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/풍라플.png",
+        "sound": "data/audio/voice-alt/풍라플.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1831,8 +1831,8 @@
     "aliases": [
       {
         "text": "풍스웰",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/풍스웰.png",
+        "sound": "data/audio/voice-alt/풍스웰.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1852,13 +1852,13 @@
     "aliases": [
       {
         "text": "풍드황",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/풍드황.png",
+        "sound": "data/audio/voice-alt/풍드황.mp3"
       },
       {
         "text": "풍드크",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/풍드크.png",
+        "sound": "data/audio/voice-alt/풍드크.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1878,13 +1878,13 @@
     "aliases": [
       {
         "text": "바길티",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바길티.png",
+        "sound": "data/audio/voice-alt/바길티.mp3"
       },
       {
         "text": "바니 길티",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바니 길티.png",
+        "sound": "data/audio/voice-alt/바니 길티.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1904,13 +1904,13 @@
     "aliases": [
       {
         "text": "바신",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바신.png",
+        "sound": "data/audio/voice-alt/바신.mp3"
       },
       {
         "text": "바니 신",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바니 신.png",
+        "sound": "data/audio/voice-alt/바니 신.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -1951,13 +1951,13 @@
     "aliases": [
       {
         "text": "에식이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/에식이.png",
+        "sound": "data/audio/voice-alt/에식이.mp3"
       },
       {
         "text": "뉴비",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/뉴비.png",
+        "sound": "data/audio/voice-alt/뉴비.mp3"
       }
     ],
     "company": "TETRA",
@@ -1977,18 +1977,18 @@
     "aliases": [
       {
         "text": "앨끼",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/앨끼.png",
+        "sound": "data/audio/voice-alt/앨끼.mp3"
       },
       {
         "text": "토끼씨",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/토끼씨.png",
+        "sound": "data/audio/voice-alt/토끼씨.mp3"
       },
       {
         "text": "핑그림",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/핑그림.png",
+        "sound": "data/audio/voice-alt/핑그림.mp3"
       }
     ],
     "company": "TETRA",
@@ -2008,13 +2008,13 @@
     "aliases": [
       {
         "text": "일진",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/일진.png",
+        "sound": "data/audio/voice-alt/일진.mp3"
       },
       {
         "text": "흰 우유",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/흰 우유.png",
+        "sound": "data/audio/voice-alt/흰 우유.mp3"
       }
     ],
     "company": "TETRA",
@@ -2034,8 +2034,8 @@
     "aliases": [
       {
         "text": "초코 우유",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/초코 우유.png",
+        "sound": "data/audio/voice-alt/초코 우유.mp3"
       }
     ],
     "company": "TETRA",
@@ -2286,13 +2286,13 @@
     "aliases": [
       {
         "text": "매독",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/매독.png",
+        "sound": "data/audio/voice-alt/매독.mp3"
       },
       {
         "text": "독사",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/독사.png",
+        "sound": "data/audio/voice-alt/독사.mp3"
       }
     ],
     "company": "TETRA",
@@ -2354,8 +2354,8 @@
     "aliases": [
       {
         "text": "강아지",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/강아지.png",
+        "sound": "data/audio/voice-alt/강아지.mp3"
       }
     ],
     "company": "TETRA",
@@ -2396,8 +2396,8 @@
     "aliases": [
       {
         "text": "랩쳐",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/랩쳐.png",
+        "sound": "data/audio/voice-alt/랩쳐.mp3"
       }
     ],
     "company": "TETRA",
@@ -2438,8 +2438,8 @@
     "aliases": [
       {
         "text": "개국공신",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/개국공신.png",
+        "sound": "data/audio/voice-alt/개국공신.mp3"
       }
     ],
     "company": "TETRA",
@@ -2459,13 +2459,13 @@
     "aliases": [
       {
         "text": "클루피",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클루피.png",
+        "sound": "data/audio/voice-alt/클루피.mp3"
       },
       {
         "text": "크리스마스 루피",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 루피.png",
+        "sound": "data/audio/voice-alt/크리스마스 루피.mp3"
       }
     ],
     "company": "TETRA",
@@ -2485,8 +2485,8 @@
     "aliases": [
       {
         "text": "노산나",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/노산나.png",
+        "sound": "data/audio/voice-alt/노산나.mp3"
       }
     ],
     "company": "TETRA",
@@ -2506,13 +2506,13 @@
     "aliases": [
       {
         "text": "수어리",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수어리.png",
+        "sound": "data/audio/voice-alt/수어리.mp3"
       },
       {
         "text": "수영복 메어리",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 메어리.png",
+        "sound": "data/audio/voice-alt/수영복 메어리.mp3"
       }
     ],
     "company": "TETRA",
@@ -2532,8 +2532,8 @@
     "aliases": [
       {
         "text": "야옹이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/야옹이.png",
+        "sound": "data/audio/voice-alt/야옹이.mp3"
       }
     ],
     "company": "TETRA",
@@ -2553,13 +2553,13 @@
     "aliases": [
       {
         "text": "수니스",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수니스.png",
+        "sound": "data/audio/voice-alt/수니스.mp3"
       },
       {
         "text": "수영복 아니스",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 아니스.png",
+        "sound": "data/audio/voice-alt/수영복 아니스.mp3"
       }
     ],
     "company": "TETRA",
@@ -2579,13 +2579,13 @@
     "aliases": [
       {
         "text": "클루드",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클루드.png",
+        "sound": "data/audio/voice-alt/클루드.mp3"
       },
       {
         "text": "크리스마스 루드밀라",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 루드밀라.png",
+        "sound": "data/audio/voice-alt/크리스마스 루드밀라.mp3"
       }
     ],
     "company": "TETRA",
@@ -2605,18 +2605,18 @@
     "aliases": [
       {
         "text": "클미카",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/클미카.png",
+        "sound": "data/audio/voice-alt/클미카.mp3"
       },
       {
         "text": "크리스마스 미카",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/크리스마스 미카.png",
+        "sound": "data/audio/voice-alt/크리스마스 미카.mp3"
       },
       {
         "text": "미노우디",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/미노우디.png",
+        "sound": "data/audio/voice-alt/미노우디.mp3"
       }
     ],
     "company": "TETRA",
@@ -2657,23 +2657,23 @@
     "aliases": [
       {
         "text": "짱룡",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/짱룡.png",
+        "sound": "data/audio/voice-alt/짱룡.mp3"
       },
       {
         "text": "누님",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/누님.png",
+        "sound": "data/audio/voice-alt/누님.mp3"
       },
       {
         "text": "바보",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바보.png",
+        "sound": "data/audio/voice-alt/바보.mp3"
       },
       {
         "text": "빡통",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/빡통.png",
+        "sound": "data/audio/voice-alt/빡통.mp3"
       }
     ],
     "company": "TETRA",
@@ -2693,8 +2693,8 @@
     "aliases": [
       {
         "text": "ㅈ경",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/ㅈ경.png",
+        "sound": "data/audio/voice-alt/ㅈ경.mp3"
       }
     ],
     "company": "TETRA",
@@ -2735,13 +2735,13 @@
     "aliases": [
       {
         "text": "바소다",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바소다.png",
+        "sound": "data/audio/voice-alt/바소다.mp3"
       },
       {
         "text": "바니 소다",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바니 소다.png",
+        "sound": "data/audio/voice-alt/바니 소다.mp3"
       }
     ],
     "company": "TETRA",
@@ -2761,13 +2761,13 @@
     "aliases": [
       {
         "text": "바리스",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바리스.png",
+        "sound": "data/audio/voice-alt/바리스.mp3"
       },
       {
         "text": "바니 앨리스",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바니 앨리스.png",
+        "sound": "data/audio/voice-alt/바니 앨리스.mp3"
       }
     ],
     "company": "TETRA",
@@ -2808,13 +2808,13 @@
     "aliases": [
       {
         "text": "수산나",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수산나.png",
+        "sound": "data/audio/voice-alt/수산나.mp3"
       },
       {
         "text": "수영복 로산나",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 로산나.png",
+        "sound": "data/audio/voice-alt/수영복 로산나.mp3"
       }
     ],
     "company": "TETRA",
@@ -2834,13 +2834,13 @@
     "aliases": [
       {
         "text": "수쿠라",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수쿠라.png",
+        "sound": "data/audio/voice-alt/수쿠라.mp3"
       },
       {
         "text": "수영복 사쿠라",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 사쿠라.png",
+        "sound": "data/audio/voice-alt/수영복 사쿠라.mp3"
       }
     ],
     "company": "TETRA",
@@ -2881,8 +2881,8 @@
     "aliases": [
       {
         "text": "루적게",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/루적게.png",
+        "sound": "data/audio/voice-alt/루적게.mp3"
       }
     ],
     "company": "TETRA",
@@ -2902,28 +2902,28 @@
     "aliases": [
       {
         "text": "브레디",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/브레디.png",
+        "sound": "data/audio/voice-alt/브레디.mp3"
       },
       {
         "text": "빵순이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/빵순이.png",
+        "sound": "data/audio/voice-alt/빵순이.mp3"
       },
       {
         "text": "댇지",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/댇지.png",
+        "sound": "data/audio/voice-alt/댇지.mp3"
       },
       {
         "text": "댖지",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/댖지.png",
+        "sound": "data/audio/voice-alt/댖지.mp3"
       },
       {
         "text": "돼지",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/돼지.png",
+        "sound": "data/audio/voice-alt/돼지.mp3"
       }
     ],
     "company": "TETRA",
@@ -2943,8 +2943,8 @@
     "aliases": [
       {
         "text": "바삭이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바삭이.png",
+        "sound": "data/audio/voice-alt/바삭이.mp3"
       }
     ],
     "company": "TETRA",
@@ -2964,18 +2964,18 @@
     "aliases": [
       {
         "text": "바밀크",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바밀크.png",
+        "sound": "data/audio/voice-alt/바밀크.mp3"
       },
       {
         "text": "바니 밀크",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바니 밀크.png",
+        "sound": "data/audio/voice-alt/바니 밀크.mp3"
       },
       {
         "text": "꾹톡이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/꾹톡이.png",
+        "sound": "data/audio/voice-alt/꾹톡이.mp3"
       }
     ],
     "company": "TETRA",
@@ -2995,18 +2995,18 @@
     "aliases": [
       {
         "text": "바이드",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바이드.png",
+        "sound": "data/audio/voice-alt/바이드.mp3"
       },
       {
         "text": "바이든",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바이든.png",
+        "sound": "data/audio/voice-alt/바이든.mp3"
       },
       {
         "text": "바니 에이드",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/바니 에이드.png",
+        "sound": "data/audio/voice-alt/바니 에이드.mp3"
       }
     ],
     "company": "TETRA",
@@ -3047,18 +3047,18 @@
     "aliases": [
       {
         "text": "돌니스",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/돌니스.png",
+        "sound": "data/audio/voice-alt/돌니스.mp3"
       },
       {
         "text": "별니스",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/별니스.png",
+        "sound": "data/audio/voice-alt/별니스.mp3"
       },
       {
         "text": "팔각",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/팔각.png",
+        "sound": "data/audio/voice-alt/팔각.mp3"
       }
     ],
     "company": "TETRA",
@@ -3099,8 +3099,8 @@
     "aliases": [
       {
         "text": "파프리카",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/파프리카.png",
+        "sound": "data/audio/voice-alt/파프리카.mp3"
       }
     ],
     "company": "TETRA",
@@ -3120,8 +3120,8 @@
     "aliases": [
       {
         "text": "아블",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/아블.png",
+        "sound": "data/audio/voice-alt/아블.mp3"
       }
     ],
     "company": "TETRA",
@@ -3141,18 +3141,18 @@
     "aliases": [
       {
         "text": "할로타",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/할로타.png",
+        "sound": "data/audio/voice-alt/할로타.mp3"
       },
       {
         "text": "할로윈 벨로타",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/할로윈 벨로타.png",
+        "sound": "data/audio/voice-alt/할로윈 벨로타.mp3"
       },
       {
         "text": "벨타킨치",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/벨타킨치.png",
+        "sound": "data/audio/voice-alt/벨타킨치.mp3"
       }
     ],
     "company": "TETRA",
@@ -3172,13 +3172,13 @@
     "aliases": [
       {
         "text": "스화",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/스화.png",
+        "sound": "data/audio/voice-alt/스화.mp3"
       },
       {
         "text": "백설",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/백설.png",
+        "sound": "data/audio/voice-alt/백설.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3198,8 +3198,8 @@
     "aliases": [
       {
         "text": "24벨",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/24벨.png",
+        "sound": "data/audio/voice-alt/24벨.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3219,8 +3219,8 @@
     "aliases": [
       {
         "text": "변태",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/변태.png",
+        "sound": "data/audio/voice-alt/변태.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3240,23 +3240,23 @@
     "aliases": [
       {
         "text": "홍북이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/홍북이.png",
+        "sound": "data/audio/voice-alt/홍북이.mp3"
       },
       {
         "text": "홍부기",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/홍부기.png",
+        "sound": "data/audio/voice-alt/홍부기.mp3"
       },
       {
         "text": "냉삼",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/냉삼.png",
+        "sound": "data/audio/voice-alt/냉삼.mp3"
       },
       {
         "text": "도령",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/도령.png",
+        "sound": "data/audio/voice-alt/도령.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3297,8 +3297,8 @@
     "aliases": [
       {
         "text": "키득키득",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/키득키득.png",
+        "sound": "data/audio/voice-alt/키득키득.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3318,8 +3318,8 @@
     "aliases": [
       {
         "text": "모엥",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/모엥.png",
+        "sound": "data/audio/voice-alt/모엥.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3339,23 +3339,23 @@
     "aliases": [
       {
         "text": "니힐",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/니힐.png",
+        "sound": "data/audio/voice-alt/니힐.mp3"
       },
       {
         "text": "누오옹",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/누오옹.png",
+        "sound": "data/audio/voice-alt/누오옹.mp3"
       },
       {
         "text": "농힐",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/농힐.png",
+        "sound": "data/audio/voice-alt/농힐.mp3"
       },
       {
         "text": "화룡",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/화룡.png",
+        "sound": "data/audio/voice-alt/화룡.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3375,13 +3375,13 @@
     "aliases": [
       {
         "text": "도로롱",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/도로롱.png",
+        "sound": "data/audio/voice-alt/도로롱.mp3"
       },
       {
         "text": "DORO",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/DORO.png",
+        "sound": "data/audio/voice-alt/DORO.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3401,13 +3401,13 @@
     "aliases": [
       {
         "text": "레후",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/레후.png",
+        "sound": "data/audio/voice-alt/레후.mp3"
       },
       {
         "text": "레듀듀",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/레듀듀.png",
+        "sound": "data/audio/voice-alt/레듀듀.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3427,13 +3427,13 @@
     "aliases": [
       {
         "text": "농설",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/농설.png",
+        "sound": "data/audio/voice-alt/농설.mp3"
       },
       {
         "text": "농스화",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/농스화.png",
+        "sound": "data/audio/voice-alt/농스화.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3453,18 +3453,18 @@
     "aliases": [
       {
         "text": "흑북이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/흑북이.png",
+        "sound": "data/audio/voice-alt/흑북이.mp3"
       },
       {
         "text": "흑부기",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/흑부기.png",
+        "sound": "data/audio/voice-alt/흑부기.mp3"
       },
       {
         "text": "흑련",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/흑련.png",
+        "sound": "data/audio/voice-alt/흑련.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3484,13 +3484,13 @@
     "aliases": [
       {
         "text": "여왕",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/여왕.png",
+        "sound": "data/audio/voice-alt/여왕.mp3"
       },
       {
         "text": "인권",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/인권.png",
+        "sound": "data/audio/voice-alt/인권.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3510,13 +3510,13 @@
     "aliases": [
       {
         "text": "농푼젤",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/농푼젤.png",
+        "sound": "data/audio/voice-alt/농푼젤.mp3"
       },
       {
         "text": "구푼젤",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/구푼젤.png",
+        "sound": "data/audio/voice-alt/구푼젤.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3536,18 +3536,18 @@
     "aliases": [
       {
         "text": "렐라",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/렐라.png",
+        "sound": "data/audio/voice-alt/렐라.mp3"
       },
       {
         "text": "렐루",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/렐루.png",
+        "sound": "data/audio/voice-alt/렐루.mp3"
       },
       {
         "text": "아나키오르",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/아나키오르.png",
+        "sound": "data/audio/voice-alt/아나키오르.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3567,13 +3567,13 @@
     "aliases": [
       {
         "text": "그브",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/그브.png",
+        "sound": "data/audio/voice-alt/그브.mp3"
       },
       {
         "text": "그레그레",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/그레그레.png",
+        "sound": "data/audio/voice-alt/그레그레.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3593,13 +3593,13 @@
     "aliases": [
       {
         "text": "세이렌",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/세이렌.png",
+        "sound": "data/audio/voice-alt/세이렌.mp3"
       },
       {
         "text": "아우",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/아우.png",
+        "sound": "data/audio/voice-alt/아우.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3619,28 +3619,28 @@
     "aliases": [
       {
         "text": "수로시",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수로시.png",
+        "sound": "data/audio/voice-alt/수로시.mp3"
       },
       {
         "text": "도덩이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/도덩이.png",
+        "sound": "data/audio/voice-alt/도덩이.mp3"
       },
       {
         "text": "수영복 도로시",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 도로시.png",
+        "sound": "data/audio/voice-alt/수영복 도로시.mp3"
       },
       {
         "text": "시세렌디",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/시세렌디.png",
+        "sound": "data/audio/voice-alt/시세렌디.mp3"
       },
       {
         "text": "수도세",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수도세.png",
+        "sound": "data/audio/voice-alt/수도세.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3660,8 +3660,8 @@
     "aliases": [
       {
         "text": "땡중",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/땡중.png",
+        "sound": "data/audio/voice-alt/땡중.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3681,13 +3681,13 @@
     "aliases": [
       {
         "text": "리버렐루",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/리버렐루.png",
+        "sound": "data/audio/voice-alt/리버렐루.mp3"
       },
       {
         "text": "리렐루",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/리렐루.png",
+        "sound": "data/audio/voice-alt/리렐루.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3707,8 +3707,8 @@
     "aliases": [
       {
         "text": "이놈",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/이놈.png",
+        "sound": "data/audio/voice-alt/이놈.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3728,18 +3728,18 @@
     "aliases": [
       {
         "text": "각설",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/각설.png",
+        "sound": "data/audio/voice-alt/각설.mp3"
       },
       {
         "text": "각스화",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/각스화.png",
+        "sound": "data/audio/voice-alt/각스화.mp3"
       },
       {
         "text": "수화",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수화.png",
+        "sound": "data/audio/voice-alt/수화.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3759,23 +3759,23 @@
     "aliases": [
       {
         "text": "수신데",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수신데.png",
+        "sound": "data/audio/voice-alt/수신데.mp3"
       },
       {
         "text": "수렐루",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수렐루.png",
+        "sound": "data/audio/voice-alt/수렐루.mp3"
       },
       {
         "text": "수영복 신데렐라",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수영복 신데렐라.png",
+        "sound": "data/audio/voice-alt/수영복 신데렐라.mp3"
       },
       {
         "text": "수렐라",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/수렐라.png",
+        "sound": "data/audio/voice-alt/수렐라.mp3"
       }
     ],
     "company": "PILGRIM",
@@ -3816,8 +3816,8 @@
     "aliases": [
       {
         "text": "화력",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/화력.png",
+        "sound": "data/audio/voice-alt/화력.mp3"
       }
     ],
     "company": "ELYSION",
@@ -3900,8 +3900,8 @@
     "aliases": [
       {
         "text": "앤",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/앤.png",
+        "sound": "data/audio/voice-alt/앤.mp3"
       }
     ],
     "company": "MISSILIS",
@@ -3942,8 +3942,8 @@
     "aliases": [
       {
         "text": "엉덩이",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/엉덩이.png",
+        "sound": "data/audio/voice-alt/엉덩이.mp3"
       }
     ],
     "company": "TETRA",
@@ -3963,8 +3963,8 @@
     "aliases": [
       {
         "text": "고아",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/고아.png",
+        "sound": "data/audio/voice-alt/고아.mp3"
       }
     ],
     "company": "TETRA",
@@ -4026,8 +4026,8 @@
     "aliases": [
       {
         "text": "솔져 이글",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/솔져 이글.png",
+        "sound": "data/audio/voice-alt/솔져 이글.mp3"
       }
     ],
     "company": "ELYSION",
@@ -4047,8 +4047,8 @@
     "aliases": [
       {
         "text": "솔져 팔콘",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/솔져 팔콘.png",
+        "sound": "data/audio/voice-alt/솔져 팔콘.mp3"
       }
     ],
     "company": "ELYSION",
@@ -4068,13 +4068,13 @@
     "aliases": [
       {
         "text": "솔져 아울",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/솔져 아울.png",
+        "sound": "data/audio/voice-alt/솔져 아울.mp3"
       },
       {
         "text": "솔져 오울",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/솔져 오울.png",
+        "sound": "data/audio/voice-alt/솔져 오울.mp3"
       }
     ],
     "company": "ELYSION",
@@ -4157,8 +4157,8 @@
     "aliases": [
       {
         "text": "아이돌 플라워",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/아이돌 플라워.png",
+        "sound": "data/audio/voice-alt/아이돌 플라워.mp3"
       }
     ],
     "company": "TETRA",
@@ -4178,8 +4178,8 @@
     "aliases": [
       {
         "text": "아이돌 오션",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/아이돌 오션.png",
+        "sound": "data/audio/voice-alt/아이돌 오션.mp3"
       }
     ],
     "company": "TETRA",
@@ -4199,8 +4199,8 @@
     "aliases": [
       {
         "text": "아이돌 썬",
-        "image": null,
-        "sound": null
+        "image": "data/image/nikke-alt/아이돌 썬.png",
+        "sound": "data/audio/voice-alt/아이돌 썬.mp3"
       }
     ],
     "company": "TETRA",

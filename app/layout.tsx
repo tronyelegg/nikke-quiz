@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 // 💡 브라우저 탭에 표시될 이름과 설명을 퀴즈 앱에 맞게 수정했습니다.
 export const metadata: Metadata = {
-  title: "니케 퀴즈",
+  title: "니케 마추기",
   description: "승리의 여신: 니케 이름 맞추기 퀴즈",
 };
 

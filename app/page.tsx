@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useMemo, useEffect, useRef } from 'react';
-import nikkesData from '../src/data/nikkes.json';
 
 type GameState = 'menu' | 'playing';
 type GroupMode = 'all' | 'company' | 'burst' | 'element' | 'release' | 'weapon';
@@ -63,6 +62,21 @@ const translateTerm = (term: string, lang: Language) => {
   if (foundKey) return dict[foundKey][lang];
   return term;
 };
+
+export default function QuizComponent() {
+  const [nikkeData, setNikkeData] = useState([]);
+
+  useEffect(() => {
+    // public/data/nikkes.json 경로의 파일을 네트워크 요청으로 불러옵니다.
+    fetch('/data/nikkes.json')
+      .then((res) => res.json())
+      .then((data) => {
+        setNikkeData(data);
+      })
+      .catch((error) => console.error("데이터 로드 실패:", error));
+  }, []);
+
+  if (nikkeData.length === 0) return <div>로딩 중...</div>;
 
 export default function Home() {
   const [gameState, setGameState] = useState<GameState>('menu');

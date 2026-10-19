@@ -68,7 +68,7 @@ export default function QuizComponent() {
 
   useEffect(() => {
     // public/data/nikkes.json 경로의 파일을 네트워크 요청으로 불러옵니다.
-    fetch('../src/data/nikkes.json')
+    fetch('/data/nikkes.json')
       .then((res) => res.json())
       .then((data) => {
         setNikkesData(data);

@@ -65,18 +65,36 @@ const translateTerm = (term: string, lang: Language) => {
 
 export default function QuizComponent() {
   const [nikkesData, setNikkesData] = useState<any[]>([]);
+  const [isLoading, setIsLoading] = useState(true); // 💡 무한 루프 방지용 명시적 로딩 상태 추가
 
   useEffect(() => {
-    // public/data/nikkes.json 경로의 파일을 네트워크 요청으로 불러옵니다.
+    setIsLoading(true);
     fetch('/data/nikkes.json')
-      .then((res) => res.json())
-      .then((data) => {
-        setNikkesData(data);
+      .then((res) => {
+        if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+        return res.json();
       })
-      .catch((error) => console.error("데이터 로드 실패:", error));
+      .then((data) => {
+        console.log("📥 데이터 로드 성공", data);
+        // 💡 배열인지 검사하고, 객체로 감싸져있으면 내부 배열을 찾아서 추출
+        let validData = [];
+        if (Array.isArray(data)) {
+          validData = data;
+        } else if (typeof data === 'object' && data !== null) {
+          // data.nikkes, data.data 등 키값에 상관없이 배열 형태인 첫번째 값을 찾음
+          const possibleArray = Object.values(data).find(val => Array.isArray(val));
+          if (possibleArray) validData = possibleArray as any[];
+        }
+        
+        setNikkesData(validData);
+      })
+      .catch((error) => {
+        console.error("데이터 로드 실패:", error);
+      })
+      .finally(() => {
+        setIsLoading(false); // 💡 데이터 파싱이 끝났거나 에러가 나도 무조건 로딩 끝
+      });
   }, []);
-
-  if (nikkesData.length === 0) return <div>로딩 중...</div>;
 
 
   const [gameState, setGameState] = useState<GameState>('menu');
@@ -92,7 +110,6 @@ export default function QuizComponent() {
   const [volume, setVolume] = useState(0.5); 
   const audioRef = useRef<HTMLAudioElement | null>(null);
   
-  // 💡 [롤백] PC 한글 버퍼 완벽 제거를 위한 상태값 부활
   const [isComposing, setIsComposing] = useState(false);
   const [showInput, setShowInput] = useState(true);
 
@@ -149,6 +166,8 @@ export default function QuizComponent() {
   };
 
   const groupedNikkes = useMemo(() => {
+    if (!nikkesData || nikkesData.length === 0) return []; // 💡 데이터가 없을 때의 안전장치 추가
+    
     let sortedNikkes = [...nikkesData].sort((a: any, b: any) => {
       if (a.releaseDate && b.releaseDate) return new Date(a.releaseDate).getTime() - new Date(b.releaseDate).getTime();
       return parseInt(a.id) - parseInt(b.id);
@@ -184,13 +203,12 @@ export default function QuizComponent() {
     return Object.entries(groups).sort(([keyA], [keyB]) => {
       return keyA.localeCompare(keyB, undefined, { numeric: true, sensitivity: 'base' });
     });
-  }, [groupMode]);
+  }, [groupMode, nikkesData]); // 💡 의존성 배열 명시
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const text = e.target.value;
     setInputValue(text);
 
-    // 💡 [유지] 공백(\s)과 콜론(:)을 모두 무시하도록 정규식 적용
     const normalizedText = text.trim().replace(/[\s:.]+/g, '').toLowerCase();
     if (!normalizedText) return;
 
@@ -205,7 +223,6 @@ export default function QuizComponent() {
     if (matchedNikke) {
       setAnsweredIds(prev => [...prev, matchedNikke.id]);
       
-      // 💡 [롤백] 정답 일치 시 DOM 자체를 파괴했다가 재생성하여 PC IME 찌꺼기 완벽 차단
       setShowInput(false);
       setTimeout(() => {
         setInputValue("");
@@ -263,6 +280,32 @@ export default function QuizComponent() {
     </div>
   );
 
+  // 💡 로딩 중일 때 표시할 화면
+  if (isLoading) {
+    return (
+      <main className="min-h-screen w-full flex items-center justify-center bg-[#4a5c39] dark:bg-gray-900 transition-colors">
+        <div className="text-white text-2xl font-bold flex flex-col items-center">
+          <div className="w-12 h-12 border-4 border-white/20 border-t-white rounded-full animate-spin mb-4"></div>
+          데이터 로딩 중...
+        </div>
+      </main>
+    );
+  }
+
+  // 💡 로딩이 끝났는데도 데이터가 제대로 안 들어왔을 때
+  if (!nikkesData || nikkesData.length === 0) {
+    return (
+      <main className="min-h-screen w-full flex items-center justify-center bg-[#4a5c39] dark:bg-gray-900 transition-colors">
+        <div className="text-white text-xl font-bold bg-black/50 p-6 rounded-xl text-center">
+          데이터를 불러오지 못했습니다.<br/>
+          <span className="text-sm font-normal text-gray-300 mt-2 block">
+            public/data/nikkes.json 파일을 확인해주세요.
+          </span>
+        </div>
+      </main>
+    );
+  }
+
   return (
     <>
       {gameState === 'menu' ? (
@@ -308,7 +351,6 @@ export default function QuizComponent() {
               <div className="bg-[#4a5c39] dark:bg-gray-900 text-white px-4 py-3 font-bold flex items-center whitespace-nowrap transition-colors">
                 {t.inputLabel}
               </div>
-              {/* 💡 [롤백] showInput 상태로 조건부 렌더링 */}
               {showInput && (
                 <input 
                   type="text" 
